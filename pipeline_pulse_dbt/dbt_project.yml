@@ -1,0 +1,20 @@
+name: 'pipeline_pulse'
+version: '1.0.0'
+config-version: 2
+
+# This points dbt at the profile in profiles.yml (the DuckDB connection).
+profile: 'pipeline_pulse'
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+# Materialization strategy:
+#   staging models -> views  (lightweight, just clean the raw CSVs)
+#   marts          -> tables (the business-ready metrics, physically built)
+models:
+  pipeline_pulse:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

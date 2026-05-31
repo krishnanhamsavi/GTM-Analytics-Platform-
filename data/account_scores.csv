@@ -1,0 +1,206 @@
+account_id,account_name,segment,churn_risk,health_tier,is_churned
+ACC-2019,Ramirez and Sons,SMB,1.0,Critical,True
+ACC-2027,"Calhoun, Schmidt and Brown",Enterprise,1.0,Critical,True
+ACC-2163,Walker Inc,Mid-Market,1.0,Critical,True
+ACC-2161,Dudley PLC,Enterprise,1.0,Critical,True
+ACC-2159,Garrett-Wolf,Mid-Market,1.0,Critical,True
+ACC-2218,Sanchez-Martinez,Enterprise,1.0,Critical,True
+ACC-2146,"Morse, Gonzales and Harrison",Mid-Market,1.0,Critical,True
+ACC-2147,Bender-Mason,SMB,1.0,Critical,True
+ACC-2105,Sanders-Espinoza,SMB,1.0,Critical,True
+ACC-2072,Davis-Crane,SMB,1.0,Critical,True
+ACC-2078,Brock Ltd,SMB,1.0,Critical,True
+ACC-2054,Bailey-Hoover,SMB,1.0,Critical,True
+ACC-2037,"Warner, Carr and Archer",Enterprise,1.0,Critical,True
+ACC-2173,"Sparks, Pearson and Hernandez",Mid-Market,1.0,Critical,True
+ACC-2137,Carroll-Brown,SMB,1.0,Critical,True
+ACC-2165,Perry-Olson,Mid-Market,1.0,Critical,True
+ACC-2341,"Cole, Watson and Wallace",Mid-Market,1.0,Critical,True
+ACC-2382,"Cole, Pierce and Bryan",SMB,1.0,Critical,True
+ACC-2406,Roberts Ltd,Enterprise,1.0,Critical,True
+ACC-2369,Hensley-Flores,Enterprise,1.0,Critical,True
+ACC-2360,Singleton-King,Mid-Market,1.0,Critical,True
+ACC-2547,"Sandoval, Foster and Mclaughlin",Mid-Market,1.0,Critical,True
+ACC-2548,"Jordan, Smith and Lewis",SMB,1.0,Critical,True
+ACC-2594,"Cooper, Martinez and Dalton",Enterprise,1.0,Critical,True
+ACC-2587,Alexander Inc,SMB,1.0,Critical,True
+ACC-2529,Espinoza Group,Enterprise,1.0,Critical,True
+ACC-2538,Cuevas-Webb,SMB,1.0,Critical,True
+ACC-2536,"Grant, Watts and Walker",Mid-Market,1.0,Critical,True
+ACC-2503,Hall-Jones,SMB,1.0,Critical,True
+ACC-2411,"Townsend, Smith and Pierce",Enterprise,1.0,Critical,True
+ACC-2427,"Sharp, Smith and Valdez",SMB,1.0,Critical,True
+ACC-2440,Scott-Smith,SMB,1.0,Critical,True
+ACC-2274,Vargas-Bell,Mid-Market,1.0,Critical,True
+ACC-2252,"Williams, Miller and Ramos",SMB,1.0,Critical,True
+ACC-2248,Jones-Figueroa,SMB,1.0,Critical,True
+ACC-2244,"Villegas, Cardenas and Austin",SMB,1.0,Critical,True
+ACC-2234,"Le, Lewis and Hayes",Mid-Market,1.0,Critical,True
+ACC-2325,"Parsons, Ellis and Carter",SMB,1.0,Critical,True
+ACC-2324,"Marshall, Dominguez and Welch",SMB,1.0,Critical,True
+ACC-2296,"Lamb, Martin and Kim",Mid-Market,1.0,Critical,True
+ACC-2425,Morris-Wright,Mid-Market,0.9955129434324066,Critical,True
+ACC-2339,Johnson-Jones,SMB,0.9955129434324066,Critical,True
+ACC-2223,Rodriguez Inc,Enterprise,0.995,Critical,True
+ACC-2199,Schmidt-Mcintyre,SMB,0.995,Critical,True
+ACC-2125,Robinson Group,SMB,0.995,Critical,True
+ACC-2555,Brooks and Sons,Mid-Market,0.995,Critical,True
+ACC-2542,Jones-Williams,SMB,0.995,Critical,True
+ACC-2391,"Soto, Carlson and Baker",SMB,0.995,Critical,True
+ACC-2276,"Lin, Wyatt and Gilbert",SMB,0.995,Critical,True
+ACC-2116,Lewis-Salinas,Mid-Market,0.995,Critical,True
+ACC-2080,Contreras-Travis,SMB,0.9905129434324066,Critical,True
+ACC-2282,"Bishop, Cox and Hardin",SMB,0.105,Healthy,False
+ACC-2216,Rush Group,Mid-Market,0.085,Healthy,False
+ACC-2501,"Rivera, Campos and Taylor",SMB,0.08,Healthy,False
+ACC-2422,Gibbs-Bradley,Enterprise,0.07,Healthy,False
+ACC-2566,"Morrow, Richardson and Carson",SMB,0.07,Healthy,False
+ACC-2205,Carson-Bentley,SMB,0.05,Healthy,False
+ACC-2338,Thomas PLC,SMB,0.04051294343240652,Healthy,False
+ACC-2131,Alexander-Lopez,SMB,0.01,Healthy,False
+ACC-2374,"Edwards, Hines and Jimenez",Mid-Market,0.005,Healthy,False
+ACC-2179,"Johnson, Jones and Welch",Enterprise,0.005,Healthy,False
+ACC-2386,Hernandez-Barry,SMB,0.005,Healthy,False
+ACC-2578,Thomas-Chen,SMB,0.005,Healthy,False
+ACC-2457,Odom PLC,SMB,0.005,Healthy,False
+ACC-2586,Sims Group,SMB,0.005,Healthy,False
+ACC-2467,"Williams, Jones and Ballard",SMB,0.005,Healthy,False
+ACC-2083,Larsen LLC,SMB,0.0005129434324065195,Healthy,False
+ACC-2208,"Ortiz, Taylor and Shah",Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2182,Nguyen Inc,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2156,Miller-King,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2181,Wallace Ltd,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2096,"Patterson, Camacho and White",Enterprise,0.0005129434324065195,Healthy,False
+ACC-2123,"Chavez, Parker and Hall",SMB,0.0005129434324065195,Healthy,False
+ACC-2086,Reyes and Sons,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2004,Allen-Allen,Enterprise,0.0005129434324065195,Healthy,False
+ACC-2021,Martin Group,SMB,0.0005129434324065195,Healthy,False
+ACC-2174,"Sanford, Rivera and Garcia",Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2515,"Jackson, James and Taylor",SMB,0.0005129434324065195,Healthy,False
+ACC-2584,Clayton-Morgan,SMB,0.0005129434324065195,Healthy,False
+ACC-2539,Wilson Ltd,SMB,0.0005129434324065195,Healthy,False
+ACC-2535,Garcia and Sons,SMB,0.0005129434324065195,Healthy,False
+ACC-2533,Holland Inc,SMB,0.0005129434324065195,Healthy,False
+ACC-2521,Evans PLC,SMB,0.0005129434324065195,Healthy,False
+ACC-2414,"Hall, Rodgers and Jefferson",Enterprise,0.0005129434324065195,Healthy,False
+ACC-2128,Erickson and Sons,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2221,Kramer PLC,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2512,"Russell, Johnson and Gomez",SMB,0.0005129434324065195,Healthy,False
+ACC-2509,"Moore, Price and Ward",Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2517,Washington-Jones,SMB,0.0005129434324065195,Healthy,False
+ACC-2476,Green PLC,SMB,0.0005129434324065195,Healthy,False
+ACC-2463,Melendez-Hart,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2500,Martin-Allen,SMB,0.0005129434324065195,Healthy,False
+ACC-2454,Young-Robinson,SMB,0.0005129434324065195,Healthy,False
+ACC-2343,Wright-Wilson,SMB,0.0005129434324065195,Healthy,False
+ACC-2442,"Mcknight, Michael and Jones",SMB,0.0005129434324065195,Healthy,False
+ACC-2407,Douglas-Burgess,SMB,0.0005129434324065195,Healthy,False
+ACC-2455,"Holder, Young and Hendricks",Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2342,Moreno Group,SMB,0.0005129434324065195,Healthy,False
+ACC-2315,Chen PLC,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2336,Hill-Whitney,SMB,0.0005129434324065195,Healthy,False
+ACC-2358,Holmes LLC,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2280,Shepherd LLC,Enterprise,0.0005129434324065195,Healthy,False
+ACC-2249,"Moreno, Bennett and Chavez",SMB,0.0005129434324065195,Healthy,False
+ACC-2242,"Lewis, Douglas and Walker",SMB,0.0005129434324065195,Healthy,False
+ACC-2307,Johnson Inc,SMB,0.0005129434324065195,Healthy,False
+ACC-2368,Washington-Harris,Mid-Market,0.0005129434324065195,Healthy,False
+ACC-2373,"Barnes, Estes and Barrera",SMB,0.0005129434324065195,Healthy,False
+ACC-2379,Khan Ltd,SMB,0.0005129434324065195,Healthy,False
+ACC-2393,"Griffith, Hampton and James",Enterprise,0.0005129434324065195,Healthy,False
+ACC-2014,"Johnston, Sanchez and Kennedy",Mid-Market,0.0,,False
+ACC-2008,"Vaughn, Marquez and Ross",SMB,0.0,,False
+ACC-2006,Anderson Group,SMB,0.0,,False
+ACC-2020,"Garcia, Pearson and Fernandez",SMB,0.0,,False
+ACC-2024,"Bernard, Cowan and Peters",Mid-Market,0.0,,False
+ACC-2026,"Daniels, Adkins and Brown",Enterprise,0.0,,False
+ACC-2002,"Romero, Gonzalez and Brooks",SMB,0.0,,False
+ACC-2170,"Hines, Bennett and Cantu",Mid-Market,0.0,,False
+ACC-2157,Hancock-Bryan,Mid-Market,0.0,,False
+ACC-2153,Costa-Harrison,Mid-Market,0.0,,False
+ACC-2145,Martin LLC,SMB,0.0,,False
+ACC-2093,Price Ltd,Mid-Market,0.0,,False
+ACC-2087,Perry LLC,Enterprise,0.0,,False
+ACC-2067,Gilbert LLC,Enterprise,0.0,,False
+ACC-2041,"Clark, Cooper and Watts",SMB,0.0,,False
+ACC-2040,Newton and Sons,SMB,0.0,,False
+ACC-2084,"Allen, Gonzales and Reeves",SMB,0.0,,False
+ACC-2079,Grant Inc,SMB,0.0,,False
+ACC-2070,"Kennedy, Santana and Flynn",SMB,0.0,,False
+ACC-2077,Stafford Inc,SMB,0.0,,False
+ACC-2050,Cherry and Sons,Enterprise,0.0,,False
+ACC-2052,"Shields, Cochran and Adams",Mid-Market,0.0,,False
+ACC-2062,"Mcdaniel, Bentley and Mclaughlin",SMB,0.0,,False
+ACC-2092,Freeman LLC,Enterprise,0.0,,False
+ACC-2100,"Williams, Johnson and Wright",Mid-Market,0.0,,False
+ACC-2095,"Johnson, Long and Elliott",Mid-Market,0.0,,False
+ACC-2094,Ramsey-Pittman,Mid-Market,0.0,,False
+ACC-2122,Coleman-Reese,Mid-Market,0.0,,False
+ACC-2111,"Nelson, Morton and Medina",Mid-Market,0.0,,False
+ACC-2102,"Gould, Marshall and Scott",Enterprise,0.0,,False
+ACC-2030,"Williams, Miller and Sandoval",SMB,0.0,,False
+ACC-2036,Wood and Sons,SMB,0.0,,False
+ACC-2214,Foley Inc,Mid-Market,0.0,,False
+ACC-2207,"Walker, Brown and Colon",SMB,0.0,,False
+ACC-2215,"Winters, Newman and Brown",SMB,0.0,,False
+ACC-2203,"Diaz, Gibbs and Smith",Enterprise,0.0,,False
+ACC-2187,Byrd-Moore,SMB,0.0,,False
+ACC-2185,"Allen, Durham and Thomas",Mid-Market,0.0,,False
+ACC-2171,Armstrong and Sons,Enterprise,0.0,,False
+ACC-2328,"Lee, Kelly and Norman",SMB,0.0,,False
+ACC-2317,Duncan and Sons,SMB,0.0,,False
+ACC-2327,Hays-Daniels,Enterprise,0.0,,False
+ACC-2335,Bell-Williams,SMB,0.0,,False
+ACC-2289,Schneider-Murphy,SMB,0.0,,False
+ACC-2246,White Ltd,Mid-Market,0.0,,False
+ACC-2224,Tyler-Young,Enterprise,0.0,,False
+ACC-2225,Baker and Sons,Mid-Market,0.0,,False
+ACC-2351,Young Group,Mid-Market,0.0,,False
+ACC-2272,"Downs, Morris and Maddox",Mid-Market,0.0,,False
+ACC-2270,Bean Ltd,Mid-Market,0.0,,False
+ACC-2267,"Wilson, Hicks and Bullock",SMB,0.0,,False
+ACC-2261,Berry-Mckinney,Enterprise,0.0,,False
+ACC-2253,"Ramos, Nelson and Fischer",SMB,0.0,,False
+ACC-2278,Cole PLC,Mid-Market,0.0,,False
+ACC-2279,Jacobs-Mason,SMB,0.0,,False
+ACC-2275,Hayes-Brown,SMB,0.0,,False
+ACC-2288,Larson Inc,Mid-Market,0.0,,False
+ACC-2287,Collins-Douglas,Enterprise,0.0,,False
+ACC-2299,Richardson PLC,Mid-Market,0.0,,False
+ACC-2311,Conley PLC,SMB,0.0,,False
+ACC-2300,Strickland-Shaw,Mid-Market,0.0,,False
+ACC-2306,Shaw-Young,SMB,0.0,,False
+ACC-2310,Gilbert-Bullock,Enterprise,0.0,,False
+ACC-2230,Lam LLC,Mid-Market,0.0,,False
+ACC-2396,"Harris, Shaw and Carr",SMB,0.0,,False
+ACC-2394,Armstrong Ltd,Enterprise,0.0,,False
+ACC-2388,Romero-Hicks,SMB,0.0,,False
+ACC-2370,Hodges PLC,SMB,0.0,,False
+ACC-2365,"Clark, Armstrong and Montgomery",Enterprise,0.0,,False
+ACC-2331,"Jimenez, Glass and Stone",SMB,0.0,,False
+ACC-2460,David-Powers,SMB,0.0,,False
+ACC-2477,Phillips-Gonzalez,SMB,0.0,,False
+ACC-2423,"Chase, Prince and Wilcox",Mid-Market,0.0,,False
+ACC-2421,Wong-Higgins,SMB,0.0,,False
+ACC-2428,Contreras Group,SMB,0.0,,False
+ACC-2434,Fox PLC,SMB,0.0,,False
+ACC-2437,"Ramos, Frazier and Love",SMB,0.0,,False
+ACC-2436,"Leach, Harris and Herrera",SMB,0.0,,False
+ACC-2439,"Brown, Ford and Roman",SMB,0.0,,False
+ACC-2450,Pineda Ltd,SMB,0.0,,False
+ACC-2492,Valdez Ltd,SMB,0.0,,False
+ACC-2494,Warner Inc,SMB,0.0,,False
+ACC-2486,Patel Group,SMB,0.0,,False
+ACC-2489,"Hernandez, Lee and Fox",Mid-Market,0.0,,False
+ACC-2485,"Estrada, Jensen and Webb",SMB,0.0,,False
+ACC-2483,Gutierrez Ltd,Enterprise,0.0,,False
+ACC-2504,"Friedman, Sanders and Ayala",SMB,0.0,,False
+ACC-2519,Smith-Foster,SMB,0.0,,False
+ACC-2522,Edwards-Oconnell,Enterprise,0.0,,False
+ACC-2524,Ramirez-Hartman,SMB,0.0,,False
+ACC-2514,Hardy PLC,Mid-Market,0.0,,False
+ACC-2546,Hall-Sullivan,Enterprise,0.0,,False
+ACC-2557,Reid-Steele,Mid-Market,0.0,,False
+ACC-2556,Carlson-Andrews,SMB,0.0,,False
+ACC-2576,Camacho-Martinez,SMB,0.0,,False
+ACC-2568,"Potter, Evans and Kidd",SMB,0.0,,False

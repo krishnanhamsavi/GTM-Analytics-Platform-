@@ -1,0 +1,601 @@
+account_id,account_name,segment,industry,employees,created_date
+ACC-2000,Smith-Bowen,Mid-Market,Media,669,2024-07-23
+ACC-2001,"Gill, Romero and Rodriguez",Mid-Market,Media,748,2024-08-19
+ACC-2002,"Romero, Gonzalez and Brooks",SMB,Fintech,155,2025-02-22
+ACC-2003,"Sellers, George and Burns",SMB,SaaS,177,2024-10-08
+ACC-2004,Allen-Allen,Enterprise,Manufacturing,11363,2024-03-02
+ACC-2005,Dennis Inc,SMB,Manufacturing,73,2025-08-17
+ACC-2006,Anderson Group,SMB,Manufacturing,159,2024-05-08
+ACC-2007,Rose-Obrien,SMB,Fintech,66,2025-02-22
+ACC-2008,"Vaughn, Marquez and Ross",SMB,Media,22,2025-05-19
+ACC-2009,Kim-Holmes,SMB,SaaS,50,2024-07-11
+ACC-2010,Brown Inc,SMB,Manufacturing,26,2025-03-06
+ACC-2011,Chapman Inc,Mid-Market,SaaS,1283,2025-07-03
+ACC-2012,"Brown, Jones and Johnson",Enterprise,Healthcare,49233,2024-02-25
+ACC-2013,"Young, Caldwell and Lewis",SMB,Fintech,147,2025-07-15
+ACC-2014,"Johnston, Sanchez and Kennedy",Mid-Market,Retail,428,2024-05-27
+ACC-2015,Davis Group,SMB,Healthcare,126,2024-11-25
+ACC-2016,Owens-Daniel,Enterprise,Media,13708,2025-05-22
+ACC-2017,"Garcia, Powell and Morgan",SMB,SaaS,37,2024-07-12
+ACC-2018,Lee Group,SMB,Fintech,173,2024-11-23
+ACC-2019,Ramirez and Sons,SMB,SaaS,105,2024-12-10
+ACC-2020,"Garcia, Pearson and Fernandez",SMB,SaaS,145,2024-03-13
+ACC-2021,Martin Group,SMB,Retail,14,2024-06-15
+ACC-2022,Barrera-Martin,Enterprise,SaaS,5796,2024-10-30
+ACC-2023,House-Glover,SMB,Healthcare,155,2024-11-24
+ACC-2024,"Bernard, Cowan and Peters",Mid-Market,Media,1757,2025-01-13
+ACC-2025,Lee and Sons,Mid-Market,SaaS,1551,2025-03-25
+ACC-2026,"Daniels, Adkins and Brown",Enterprise,Manufacturing,36581,2025-01-05
+ACC-2027,"Calhoun, Schmidt and Brown",Enterprise,Manufacturing,37343,2024-03-03
+ACC-2028,Jones Inc,Mid-Market,Media,611,2025-10-31
+ACC-2029,Powell PLC,SMB,Fintech,181,2025-03-25
+ACC-2030,"Williams, Miller and Sandoval",SMB,Manufacturing,142,2025-02-10
+ACC-2031,Donovan-Harris,SMB,Media,26,2024-09-01
+ACC-2032,Baker and Sons,Mid-Market,Media,1405,2025-05-16
+ACC-2033,Bryant-Hickman,SMB,SaaS,191,2024-01-08
+ACC-2034,Howell-Hart,SMB,SaaS,18,2024-02-26
+ACC-2035,"Lewis, Baker and Mahoney",SMB,SaaS,70,2025-11-13
+ACC-2036,Wood and Sons,SMB,Retail,148,2025-10-09
+ACC-2037,"Warner, Carr and Archer",Enterprise,Media,32976,2025-02-14
+ACC-2038,Contreras PLC,SMB,Healthcare,131,2025-05-30
+ACC-2039,Mcmillan and Sons,SMB,Healthcare,34,2024-03-30
+ACC-2040,Newton and Sons,SMB,Healthcare,115,2024-08-06
+ACC-2041,"Clark, Cooper and Watts",SMB,Healthcare,177,2025-01-27
+ACC-2042,King-Odonnell,SMB,SaaS,196,2024-03-12
+ACC-2043,"Henderson, Hill and Smith",SMB,Fintech,58,2025-05-09
+ACC-2044,Martin-Ramos,SMB,Media,56,2024-11-28
+ACC-2045,"Smith, Jones and Ware",SMB,Fintech,29,2025-02-27
+ACC-2046,Davenport PLC,SMB,Manufacturing,176,2024-04-25
+ACC-2047,Anderson-Parker,Enterprise,SaaS,28634,2025-11-29
+ACC-2048,Clark-Wright,SMB,SaaS,64,2024-10-01
+ACC-2049,"Henson, Russell and Oliver",Enterprise,Fintech,2141,2024-07-02
+ACC-2050,Cherry and Sons,Enterprise,Retail,31819,2024-01-20
+ACC-2051,Doyle LLC,SMB,Retail,188,2025-09-15
+ACC-2052,"Shields, Cochran and Adams",Mid-Market,Media,517,2024-03-24
+ACC-2053,Brennan-Garrison,SMB,Fintech,24,2024-06-04
+ACC-2054,Bailey-Hoover,SMB,Fintech,90,2024-06-22
+ACC-2055,Keller Group,Mid-Market,Healthcare,1946,2024-08-04
+ACC-2056,Rasmussen LLC,SMB,Healthcare,140,2025-05-13
+ACC-2057,"Ross, Zavala and Herrera",SMB,SaaS,27,2024-03-30
+ACC-2058,White-Estes,SMB,Healthcare,155,2024-01-30
+ACC-2059,Carlson LLC,Mid-Market,Media,367,2025-09-02
+ACC-2060,Graham-Joyce,Mid-Market,SaaS,1270,2024-10-26
+ACC-2061,"Lee, Williams and Graham",Enterprise,Manufacturing,48936,2025-09-18
+ACC-2062,"Mcdaniel, Bentley and Mclaughlin",SMB,Fintech,77,2024-10-09
+ACC-2063,Jones-Beck,Mid-Market,Healthcare,1136,2025-04-29
+ACC-2064,Alvarado-Martinez,Enterprise,Healthcare,32034,2025-01-28
+ACC-2065,Estrada-Nguyen,Mid-Market,Media,404,2024-08-17
+ACC-2066,"Martinez, Fisher and Bentley",SMB,Media,139,2025-08-04
+ACC-2067,Gilbert LLC,Enterprise,Retail,18009,2025-03-01
+ACC-2068,Torres and Sons,SMB,Retail,50,2025-09-02
+ACC-2069,"Lawson, Morris and Ramos",Mid-Market,Media,1852,2024-06-14
+ACC-2070,"Kennedy, Santana and Flynn",SMB,Fintech,180,2025-05-26
+ACC-2071,Campbell Ltd,SMB,Media,179,2025-04-25
+ACC-2072,Davis-Crane,SMB,Fintech,37,2025-06-06
+ACC-2073,Walker-Gonzalez,SMB,SaaS,82,2024-02-05
+ACC-2074,Riggs PLC,Mid-Market,SaaS,1607,2024-12-19
+ACC-2075,Mercado-Johnston,Enterprise,Media,18457,2025-06-24
+ACC-2076,Snyder-Sanchez,Enterprise,Media,43568,2025-06-18
+ACC-2077,Stafford Inc,SMB,Retail,80,2024-06-18
+ACC-2078,Brock Ltd,SMB,Manufacturing,43,2024-12-26
+ACC-2079,Grant Inc,SMB,Retail,123,2024-04-13
+ACC-2080,Contreras-Travis,SMB,Manufacturing,12,2024-09-03
+ACC-2081,Salazar-Ball,Enterprise,Manufacturing,37755,2024-11-27
+ACC-2082,"Griffin, Moore and Hensley",SMB,Retail,104,2024-07-20
+ACC-2083,Larsen LLC,SMB,Manufacturing,42,2025-01-11
+ACC-2084,"Allen, Gonzales and Reeves",SMB,Fintech,20,2024-07-30
+ACC-2085,Flores-Fernandez,Mid-Market,Fintech,410,2024-04-27
+ACC-2086,Reyes and Sons,Mid-Market,Media,1471,2024-06-15
+ACC-2087,Perry LLC,Enterprise,Manufacturing,12649,2024-12-27
+ACC-2088,Brown-Wall,Enterprise,Retail,3624,2025-08-20
+ACC-2089,"Shah, Smith and Gilmore",SMB,Manufacturing,95,2024-10-22
+ACC-2090,Smith-Bell,Mid-Market,Retail,1860,2025-10-24
+ACC-2091,Medina-Navarro,SMB,Manufacturing,189,2025-11-28
+ACC-2092,Freeman LLC,Enterprise,Retail,15079,2025-01-12
+ACC-2093,Price Ltd,Mid-Market,Media,916,2025-09-11
+ACC-2094,Ramsey-Pittman,Mid-Market,Fintech,656,2025-04-28
+ACC-2095,"Johnson, Long and Elliott",Mid-Market,SaaS,872,2024-03-06
+ACC-2096,"Patterson, Camacho and White",Enterprise,Healthcare,44040,2024-10-21
+ACC-2097,Lewis-Murphy,SMB,Retail,183,2024-08-04
+ACC-2098,King-Miller,SMB,SaaS,17,2025-08-04
+ACC-2099,"Williams, Crane and Walker",SMB,SaaS,77,2025-08-29
+ACC-2100,"Williams, Johnson and Wright",Mid-Market,SaaS,1692,2025-04-27
+ACC-2101,Allen Group,SMB,Media,140,2024-03-29
+ACC-2102,"Gould, Marshall and Scott",Enterprise,Healthcare,4908,2024-05-10
+ACC-2103,"Lawson, Adkins and Wilson",Mid-Market,Fintech,1264,2024-08-29
+ACC-2104,Lane LLC,Mid-Market,Manufacturing,1709,2025-06-10
+ACC-2105,Sanders-Espinoza,SMB,SaaS,120,2025-04-04
+ACC-2106,"Rivas, Sanchez and Terry",Enterprise,Healthcare,45475,2025-10-22
+ACC-2107,"Burke, Martinez and Riggs",Mid-Market,SaaS,815,2024-09-26
+ACC-2108,"Patterson, Wood and Hunter",SMB,Healthcare,114,2024-01-10
+ACC-2109,Short-Garcia,Mid-Market,Healthcare,460,2025-05-08
+ACC-2110,Zimmerman-Graham,SMB,Media,107,2025-02-09
+ACC-2111,"Nelson, Morton and Medina",Mid-Market,Retail,1031,2024-12-27
+ACC-2112,Petersen-Vargas,Mid-Market,Healthcare,787,2025-10-23
+ACC-2113,Rivas Inc,SMB,Healthcare,158,2025-11-15
+ACC-2114,Sanchez-Marshall,SMB,Manufacturing,123,2025-06-02
+ACC-2115,Rogers-Snyder,SMB,Healthcare,131,2024-05-21
+ACC-2116,Lewis-Salinas,Mid-Market,Healthcare,1255,2024-08-05
+ACC-2117,"Haynes, Hill and Smith",Mid-Market,Fintech,391,2024-03-07
+ACC-2118,Cortez Group,Mid-Market,Manufacturing,1851,2025-08-11
+ACC-2119,Vaughn Ltd,SMB,Media,21,2025-01-16
+ACC-2120,Mcguire-Davis,Mid-Market,Fintech,1132,2024-11-10
+ACC-2121,"Sanchez, Beck and Wood",Enterprise,Manufacturing,49077,2025-02-16
+ACC-2122,Coleman-Reese,Mid-Market,Healthcare,1018,2024-09-30
+ACC-2123,"Chavez, Parker and Hall",SMB,Media,186,2024-05-29
+ACC-2124,Wilson-Herrera,Mid-Market,Media,560,2024-05-23
+ACC-2125,Robinson Group,SMB,Healthcare,22,2025-07-16
+ACC-2126,"Bray, Warren and Campbell",Enterprise,SaaS,10738,2025-10-08
+ACC-2127,Phillips LLC,Mid-Market,Fintech,1287,2024-08-22
+ACC-2128,Erickson and Sons,Mid-Market,Healthcare,1454,2024-02-05
+ACC-2129,Tran Ltd,Enterprise,Fintech,37905,2025-05-10
+ACC-2130,Garcia-Smith,SMB,Healthcare,50,2024-12-30
+ACC-2131,Alexander-Lopez,SMB,SaaS,73,2024-07-15
+ACC-2132,Wilson-Jones,SMB,Retail,143,2024-02-27
+ACC-2133,"Soto, Brown and Hernandez",SMB,Manufacturing,122,2024-08-23
+ACC-2134,Mcknight Inc,SMB,Manufacturing,79,2025-08-16
+ACC-2135,Obrien-Gibbs,Enterprise,Fintech,11884,2025-08-25
+ACC-2136,"James, Kerr and Evans",SMB,Manufacturing,187,2024-11-29
+ACC-2137,Carroll-Brown,SMB,Media,116,2024-03-18
+ACC-2138,Garrett LLC,SMB,Media,116,2024-03-04
+ACC-2139,Allen PLC,Mid-Market,SaaS,1776,2024-05-01
+ACC-2140,Ortiz Ltd,Enterprise,Manufacturing,39728,2024-12-30
+ACC-2141,Johnson-Roberts,SMB,Healthcare,11,2025-06-30
+ACC-2142,Jones-Hall,Mid-Market,Healthcare,1302,2025-09-03
+ACC-2143,"Lawrence, Lara and Gonzalez",Mid-Market,SaaS,1199,2025-02-26
+ACC-2144,Holland LLC,SMB,Fintech,134,2024-02-25
+ACC-2145,Martin LLC,SMB,Manufacturing,183,2025-08-04
+ACC-2146,"Morse, Gonzales and Harrison",Mid-Market,Healthcare,461,2025-06-27
+ACC-2147,Bender-Mason,SMB,Retail,110,2024-12-06
+ACC-2148,George Group,Mid-Market,Media,1516,2024-09-07
+ACC-2149,"Wright, Davis and Hayden",SMB,Manufacturing,128,2025-04-01
+ACC-2150,Key Ltd,SMB,Healthcare,93,2025-03-23
+ACC-2151,Hines and Sons,SMB,Retail,107,2025-02-07
+ACC-2152,"Ramos, Ramirez and Shea",SMB,Retail,30,2025-05-08
+ACC-2153,Costa-Harrison,Mid-Market,Retail,916,2024-09-15
+ACC-2154,Santiago-Hodge,Mid-Market,Healthcare,282,2024-11-15
+ACC-2155,"Simpson, Bates and Morales",Enterprise,Manufacturing,3335,2024-01-29
+ACC-2156,Miller-King,Mid-Market,SaaS,458,2025-08-23
+ACC-2157,Hancock-Bryan,Mid-Market,SaaS,646,2025-05-25
+ACC-2158,"Murray, Brown and Stone",Mid-Market,Manufacturing,543,2025-08-10
+ACC-2159,Garrett-Wolf,Mid-Market,Fintech,434,2024-07-26
+ACC-2160,"Anderson, Roberts and Gilmore",Enterprise,Retail,3682,2024-04-04
+ACC-2161,Dudley PLC,Enterprise,Fintech,26596,2025-07-05
+ACC-2162,Collins Inc,SMB,Manufacturing,193,2024-11-12
+ACC-2163,Walker Inc,Mid-Market,Retail,697,2024-04-01
+ACC-2164,"Collier, Jimenez and Moran",Mid-Market,Manufacturing,1941,2025-07-01
+ACC-2165,Perry-Olson,Mid-Market,Retail,1830,2024-07-08
+ACC-2166,Arnold-Reyes,Mid-Market,Manufacturing,1291,2025-01-29
+ACC-2167,"Suarez, Shields and Hill",Mid-Market,Retail,1236,2024-09-20
+ACC-2168,"Adams, Smith and Barber",SMB,Manufacturing,117,2025-03-26
+ACC-2169,"Burns, Hernandez and Ryan",SMB,Healthcare,102,2024-09-15
+ACC-2170,"Hines, Bennett and Cantu",Mid-Market,Fintech,560,2025-06-25
+ACC-2171,Armstrong and Sons,Enterprise,Retail,37269,2024-02-03
+ACC-2172,Garner-Thornton,Mid-Market,Retail,1092,2024-10-26
+ACC-2173,"Sparks, Pearson and Hernandez",Mid-Market,SaaS,1944,2024-04-08
+ACC-2174,"Sanford, Rivera and Garcia",Mid-Market,Retail,771,2024-03-18
+ACC-2175,"Lozano, Smith and Thomas",SMB,Media,128,2024-04-29
+ACC-2176,Harrison LLC,Mid-Market,Healthcare,258,2025-04-29
+ACC-2177,"Sanders, Miller and Murphy",Enterprise,Media,15901,2025-10-29
+ACC-2178,"James, Stewart and Higgins",SMB,Retail,76,2025-11-08
+ACC-2179,"Johnson, Jones and Welch",Enterprise,Healthcare,38424,2024-06-25
+ACC-2180,"Davis, Good and Hodges",SMB,Media,58,2025-11-08
+ACC-2181,Wallace Ltd,Mid-Market,Healthcare,1337,2024-01-23
+ACC-2182,Nguyen Inc,Mid-Market,Healthcare,1657,2024-10-05
+ACC-2183,Jordan-Sanchez,SMB,Retail,14,2025-03-15
+ACC-2184,"Sparks, Jackson and Miller",SMB,Retail,187,2025-04-26
+ACC-2185,"Allen, Durham and Thomas",Mid-Market,Retail,1169,2025-05-10
+ACC-2186,Stevens-Estrada,SMB,Retail,118,2025-11-30
+ACC-2187,Byrd-Moore,SMB,Retail,189,2024-09-25
+ACC-2188,"Evans, Hayden and Vaughn",SMB,Retail,69,2025-10-18
+ACC-2189,Gonzalez-Cruz,SMB,Retail,40,2024-03-23
+ACC-2190,James LLC,Enterprise,Manufacturing,14552,2024-08-17
+ACC-2191,"Phillips, Spence and Barrett",SMB,Healthcare,133,2024-01-07
+ACC-2192,"Grimes, Osborne and Beltran",Mid-Market,Manufacturing,1422,2025-08-01
+ACC-2193,Wall-Leach,Enterprise,Fintech,16908,2025-04-16
+ACC-2194,Robinson-Lee,SMB,Healthcare,87,2025-06-10
+ACC-2195,"Saunders, Becker and Taylor",SMB,SaaS,80,2025-05-02
+ACC-2196,"Williams, Kramer and Johnson",Mid-Market,Healthcare,458,2025-07-22
+ACC-2197,Davis LLC,Enterprise,Healthcare,2803,2025-08-03
+ACC-2198,Thompson-Anderson,Mid-Market,Manufacturing,1180,2025-11-11
+ACC-2199,Schmidt-Mcintyre,SMB,Fintech,23,2024-07-18
+ACC-2200,Coffey-Phillips,SMB,Healthcare,26,2025-09-16
+ACC-2201,Mcdonald Inc,SMB,Fintech,171,2025-08-08
+ACC-2202,Dalton Ltd,SMB,Media,154,2024-11-04
+ACC-2203,"Diaz, Gibbs and Smith",Enterprise,Manufacturing,29274,2024-04-05
+ACC-2204,Richardson-Curry,Mid-Market,Healthcare,662,2025-03-30
+ACC-2205,Carson-Bentley,SMB,SaaS,123,2025-06-08
+ACC-2206,Ruiz PLC,Enterprise,Manufacturing,42699,2024-09-11
+ACC-2207,"Walker, Brown and Colon",SMB,Media,199,2024-08-22
+ACC-2208,"Ortiz, Taylor and Shah",Mid-Market,Healthcare,1552,2025-01-17
+ACC-2209,Davis PLC,SMB,Fintech,54,2024-10-28
+ACC-2210,Watson-Avery,SMB,Media,114,2025-02-23
+ACC-2211,Matthews-Barber,Mid-Market,Retail,266,2025-05-23
+ACC-2212,Bass PLC,SMB,Retail,82,2024-08-05
+ACC-2213,Vaughn and Sons,SMB,Retail,69,2024-12-11
+ACC-2214,Foley Inc,Mid-Market,Media,1070,2024-10-12
+ACC-2215,"Winters, Newman and Brown",SMB,Healthcare,175,2024-05-27
+ACC-2216,Rush Group,Mid-Market,SaaS,322,2025-05-29
+ACC-2217,May PLC,Mid-Market,SaaS,1733,2024-02-09
+ACC-2218,Sanchez-Martinez,Enterprise,Manufacturing,32716,2024-06-08
+ACC-2219,Gallegos PLC,Mid-Market,Fintech,1024,2025-03-31
+ACC-2220,Li and Sons,SMB,Healthcare,136,2025-08-24
+ACC-2221,Kramer PLC,Mid-Market,SaaS,1704,2024-08-03
+ACC-2222,Huerta PLC,Mid-Market,Healthcare,387,2025-09-12
+ACC-2223,Rodriguez Inc,Enterprise,Fintech,3359,2024-01-12
+ACC-2224,Tyler-Young,Enterprise,Healthcare,19662,2024-01-13
+ACC-2225,Baker and Sons,Mid-Market,Media,1163,2024-11-22
+ACC-2226,"Wilson, Brown and West",Mid-Market,Healthcare,571,2025-02-02
+ACC-2227,"Rodriguez, Gordon and Dougherty",SMB,SaaS,135,2025-07-18
+ACC-2228,"Boyd, Ellis and Maynard",SMB,SaaS,95,2025-01-07
+ACC-2229,Simmons-Rodriguez,SMB,Media,51,2024-12-10
+ACC-2230,Lam LLC,Mid-Market,Manufacturing,1556,2024-04-25
+ACC-2231,Martinez PLC,Mid-Market,Media,275,2025-03-30
+ACC-2232,"Joseph, James and Harper",SMB,Healthcare,74,2024-12-18
+ACC-2233,"Jacobs, Garcia and Miles",Enterprise,Media,35724,2025-05-20
+ACC-2234,"Le, Lewis and Hayes",Mid-Market,Fintech,1546,2024-11-17
+ACC-2235,Wilcox-Ross,SMB,Media,23,2024-03-14
+ACC-2236,Simmons-Ortega,SMB,Healthcare,137,2024-04-28
+ACC-2237,"Leblanc, Jones and Decker",Mid-Market,SaaS,746,2024-12-01
+ACC-2238,Garner LLC,SMB,Fintech,83,2025-03-08
+ACC-2239,Willis PLC,SMB,Manufacturing,17,2024-09-13
+ACC-2240,"Martinez, Gomez and Ortega",Mid-Market,Retail,524,2025-11-05
+ACC-2241,"Williams, Roberts and Edwards",Mid-Market,SaaS,1035,2025-03-24
+ACC-2242,"Lewis, Douglas and Walker",SMB,SaaS,39,2024-09-28
+ACC-2243,"Richardson, Farmer and Andrews",Mid-Market,Retail,1220,2025-10-18
+ACC-2244,"Villegas, Cardenas and Austin",SMB,Media,190,2025-03-08
+ACC-2245,Lynch Ltd,Mid-Market,Media,699,2024-07-26
+ACC-2246,White Ltd,Mid-Market,Healthcare,590,2024-09-20
+ACC-2247,Smith-Kane,SMB,Manufacturing,44,2025-05-25
+ACC-2248,Jones-Figueroa,SMB,SaaS,116,2024-03-12
+ACC-2249,"Moreno, Bennett and Chavez",SMB,Fintech,10,2024-10-14
+ACC-2250,Griffith-Frank,SMB,Manufacturing,160,2025-04-08
+ACC-2251,Ware and Sons,SMB,Fintech,48,2025-08-08
+ACC-2252,"Williams, Miller and Ramos",SMB,Retail,95,2025-01-12
+ACC-2253,"Ramos, Nelson and Fischer",SMB,SaaS,92,2024-09-25
+ACC-2254,Rodriguez-Gregory,Enterprise,Manufacturing,27098,2025-01-12
+ACC-2255,"Estrada, Williams and Foster",SMB,Manufacturing,115,2024-02-12
+ACC-2256,Harris and Sons,Mid-Market,Fintech,1861,2025-08-16
+ACC-2257,Roberts-Wilson,SMB,Retail,179,2025-08-03
+ACC-2258,Thompson-James,Enterprise,Media,10273,2024-06-27
+ACC-2259,"Hansen, Barnett and Gomez",SMB,Retail,161,2025-10-31
+ACC-2260,"Williams, Smith and Morse",Enterprise,Healthcare,36468,2025-03-23
+ACC-2261,Berry-Mckinney,Enterprise,Retail,11447,2024-08-12
+ACC-2262,Sullivan LLC,SMB,Fintech,177,2025-09-14
+ACC-2263,"Stevens, Norris and Cox",SMB,Retail,77,2025-10-17
+ACC-2264,Sanchez PLC,Mid-Market,Retail,364,2025-02-10
+ACC-2265,Foster LLC,Enterprise,Media,22752,2024-09-20
+ACC-2266,Cook and Sons,Mid-Market,SaaS,1986,2025-01-31
+ACC-2267,"Wilson, Hicks and Bullock",SMB,Healthcare,27,2024-09-29
+ACC-2268,"Mullen, Brewer and Hernandez",Mid-Market,SaaS,665,2024-04-23
+ACC-2269,Gonzalez-Morrison,SMB,Media,35,2024-02-28
+ACC-2270,Bean Ltd,Mid-Market,Retail,1108,2024-12-26
+ACC-2271,"Wolf, Cole and Glass",Mid-Market,Manufacturing,294,2025-05-14
+ACC-2272,"Downs, Morris and Maddox",Mid-Market,Healthcare,934,2024-04-27
+ACC-2273,Jones-Ramos,SMB,Healthcare,72,2025-09-10
+ACC-2274,Vargas-Bell,Mid-Market,SaaS,548,2024-08-29
+ACC-2275,Hayes-Brown,SMB,Healthcare,107,2024-02-29
+ACC-2276,"Lin, Wyatt and Gilbert",SMB,Manufacturing,159,2024-10-25
+ACC-2277,Carpenter-Best,SMB,Media,75,2025-11-26
+ACC-2278,Cole PLC,Mid-Market,Media,789,2024-05-26
+ACC-2279,Jacobs-Mason,SMB,SaaS,28,2024-12-15
+ACC-2280,Shepherd LLC,Enterprise,Media,29807,2024-03-06
+ACC-2281,"Lucas, Williams and Zimmerman",Mid-Market,Retail,1931,2025-02-11
+ACC-2282,"Bishop, Cox and Hardin",SMB,Retail,108,2024-11-13
+ACC-2283,Shelton-Williams,SMB,Media,107,2025-05-17
+ACC-2284,Jones-Davis,Mid-Market,Media,804,2024-10-27
+ACC-2285,King-York,Enterprise,Manufacturing,19988,2025-11-09
+ACC-2286,Cook PLC,SMB,Media,185,2024-04-19
+ACC-2287,Collins-Douglas,Enterprise,Media,20756,2024-10-31
+ACC-2288,Larson Inc,Mid-Market,Healthcare,1443,2025-03-10
+ACC-2289,Schneider-Murphy,SMB,Fintech,58,2025-06-04
+ACC-2290,"Calderon, Rodgers and Jennings",Mid-Market,Manufacturing,1771,2024-03-13
+ACC-2291,"Santiago, Romero and Smith",Mid-Market,Healthcare,1486,2024-05-20
+ACC-2292,Peterson Group,Enterprise,Fintech,22246,2024-06-24
+ACC-2293,Moore LLC,Mid-Market,SaaS,1386,2025-01-29
+ACC-2294,"Conley, Stephenson and Johnson",Mid-Market,Healthcare,804,2025-11-11
+ACC-2295,"Anderson, Bennett and Martin",Mid-Market,Media,611,2025-08-21
+ACC-2296,"Lamb, Martin and Kim",Mid-Market,Retail,1287,2024-10-09
+ACC-2297,"Ball, Montes and Bishop",Enterprise,Media,33578,2025-08-31
+ACC-2298,Young-Allen,Enterprise,Retail,24198,2025-10-10
+ACC-2299,Richardson PLC,Mid-Market,Retail,354,2024-12-24
+ACC-2300,Strickland-Shaw,Mid-Market,Retail,1961,2024-05-05
+ACC-2301,Solis and Sons,Mid-Market,Healthcare,1932,2024-02-10
+ACC-2302,"Castillo, Watson and Villa",SMB,Media,111,2025-10-19
+ACC-2303,"Rosales, Mitchell and Hines",SMB,Healthcare,126,2024-12-14
+ACC-2304,"Hernandez, Kim and Potts",Mid-Market,Fintech,1397,2025-09-26
+ACC-2305,Wilkerson-Arias,Mid-Market,Retail,421,2024-02-11
+ACC-2306,Shaw-Young,SMB,SaaS,16,2024-10-18
+ACC-2307,Johnson Inc,SMB,Media,166,2025-05-19
+ACC-2308,Moody-Taylor,SMB,Healthcare,128,2025-10-06
+ACC-2309,Horton-Taylor,Mid-Market,Media,486,2024-12-30
+ACC-2310,Gilbert-Bullock,Enterprise,SaaS,9610,2024-07-17
+ACC-2311,Conley PLC,SMB,Media,147,2025-04-17
+ACC-2312,"Henderson, Parsons and Young",SMB,SaaS,181,2024-02-07
+ACC-2313,Barnes PLC,Enterprise,Retail,49618,2024-02-18
+ACC-2314,Copeland Group,SMB,Manufacturing,116,2025-02-20
+ACC-2315,Chen PLC,Mid-Market,Fintech,1035,2025-07-12
+ACC-2316,Carter Inc,SMB,Manufacturing,104,2024-10-01
+ACC-2317,Duncan and Sons,SMB,Media,70,2025-06-03
+ACC-2318,Mills LLC,SMB,SaaS,185,2025-02-12
+ACC-2319,"Romero, Mcneil and Spencer",Enterprise,Retail,5968,2025-11-09
+ACC-2320,Williams-Hughes,SMB,Healthcare,58,2024-07-16
+ACC-2321,"Smith, Kramer and Cooper",SMB,Media,64,2025-05-25
+ACC-2322,"Garcia, Perkins and Sherman",Mid-Market,Fintech,303,2024-02-04
+ACC-2323,Payne-Li,SMB,Fintech,42,2025-10-06
+ACC-2324,"Marshall, Dominguez and Welch",SMB,Fintech,151,2024-02-19
+ACC-2325,"Parsons, Ellis and Carter",SMB,SaaS,69,2025-09-06
+ACC-2326,Blackwell LLC,Mid-Market,Healthcare,205,2025-02-04
+ACC-2327,Hays-Daniels,Enterprise,Healthcare,37403,2024-01-29
+ACC-2328,"Lee, Kelly and Norman",SMB,Media,54,2024-09-14
+ACC-2329,Martinez-Richardson,Enterprise,Retail,25477,2025-07-31
+ACC-2330,Kline-Hughes,Mid-Market,Fintech,1405,2025-01-20
+ACC-2331,"Jimenez, Glass and Stone",SMB,SaaS,77,2025-07-18
+ACC-2332,Miller-Morrison,Mid-Market,Fintech,432,2025-02-27
+ACC-2333,Morris-Miller,SMB,Media,102,2024-08-17
+ACC-2334,Griffin-Robbins,SMB,Fintech,138,2025-06-19
+ACC-2335,Bell-Williams,SMB,Healthcare,178,2025-04-22
+ACC-2336,Hill-Whitney,SMB,SaaS,17,2024-02-28
+ACC-2337,"Walsh, Cox and Owen",Mid-Market,Media,1605,2024-05-04
+ACC-2338,Thomas PLC,SMB,Media,123,2025-08-29
+ACC-2339,Johnson-Jones,SMB,Media,47,2024-10-11
+ACC-2340,Reyes-Bradley,SMB,Manufacturing,172,2024-04-29
+ACC-2341,"Cole, Watson and Wallace",Mid-Market,SaaS,1423,2025-03-21
+ACC-2342,Moreno Group,SMB,Healthcare,139,2025-05-19
+ACC-2343,Wright-Wilson,SMB,Media,189,2024-05-24
+ACC-2344,Holmes-Mcintyre,Mid-Market,SaaS,1676,2024-07-22
+ACC-2345,Padilla-Lewis,SMB,Manufacturing,68,2024-08-09
+ACC-2346,"Hendricks, Henry and Martinez",Mid-Market,SaaS,1051,2024-12-17
+ACC-2347,Roach Group,SMB,SaaS,119,2025-09-21
+ACC-2348,"Ponce, Downs and Contreras",SMB,Media,49,2024-02-20
+ACC-2349,"Daniels, Vance and York",SMB,Media,31,2025-07-05
+ACC-2350,"Little, Leon and Hicks",SMB,SaaS,199,2024-06-05
+ACC-2351,Young Group,Mid-Market,SaaS,1350,2024-10-07
+ACC-2352,"Armstrong, Mcdonald and Bird",SMB,Fintech,41,2025-04-20
+ACC-2353,Jones Group,Enterprise,Media,49255,2025-07-12
+ACC-2354,Fox-Hammond,SMB,Manufacturing,83,2024-02-27
+ACC-2355,Compton Ltd,SMB,SaaS,157,2024-12-15
+ACC-2356,Frazier-Cooper,SMB,Manufacturing,133,2025-05-11
+ACC-2357,"White, Burch and Reynolds",SMB,SaaS,152,2025-10-07
+ACC-2358,Holmes LLC,Mid-Market,Fintech,663,2024-05-05
+ACC-2359,Donovan-Perez,Mid-Market,Manufacturing,1456,2025-11-26
+ACC-2360,Singleton-King,Mid-Market,Media,1447,2025-03-03
+ACC-2361,Martinez-Turner,Mid-Market,Manufacturing,259,2024-03-13
+ACC-2362,"Davidson, Vargas and Carpenter",SMB,Fintech,89,2025-05-26
+ACC-2363,"Le, Jacobs and Kirby",SMB,Manufacturing,46,2024-02-01
+ACC-2364,Miller Ltd,SMB,Manufacturing,46,2024-07-24
+ACC-2365,"Clark, Armstrong and Montgomery",Enterprise,SaaS,36765,2025-01-21
+ACC-2366,"Gardner, May and Turner",SMB,Fintech,117,2025-09-17
+ACC-2367,"Sullivan, Chavez and Barker",SMB,Fintech,89,2024-12-07
+ACC-2368,Washington-Harris,Mid-Market,Manufacturing,1421,2024-04-21
+ACC-2369,Hensley-Flores,Enterprise,Healthcare,42490,2024-11-05
+ACC-2370,Hodges PLC,SMB,Manufacturing,30,2024-03-23
+ACC-2371,Allen-Martinez,Mid-Market,Retail,1443,2024-07-11
+ACC-2372,Davis LLC,SMB,Retail,65,2025-11-02
+ACC-2373,"Barnes, Estes and Barrera",SMB,Healthcare,120,2025-03-24
+ACC-2374,"Edwards, Hines and Jimenez",Mid-Market,Manufacturing,1196,2024-12-28
+ACC-2375,Koch-Jimenez,Mid-Market,SaaS,651,2024-11-01
+ACC-2376,"Bryant, Allen and Aguilar",Enterprise,SaaS,15397,2024-02-09
+ACC-2377,Simpson-Khan,SMB,Media,64,2025-06-06
+ACC-2378,Mitchell-Smith,Mid-Market,SaaS,871,2024-11-30
+ACC-2379,Khan Ltd,SMB,Healthcare,120,2025-08-16
+ACC-2380,Diaz-Morales,SMB,Manufacturing,190,2025-03-12
+ACC-2381,Cox LLC,Mid-Market,SaaS,1851,2024-10-27
+ACC-2382,"Cole, Pierce and Bryan",SMB,Manufacturing,199,2025-06-12
+ACC-2383,"Wilson, Hester and Long",SMB,Healthcare,29,2025-03-09
+ACC-2384,Fischer-Gonzalez,Mid-Market,Manufacturing,1028,2024-11-07
+ACC-2385,"Williams, Williams and Reeves",Mid-Market,Retail,435,2025-02-07
+ACC-2386,Hernandez-Barry,SMB,Fintech,93,2024-09-11
+ACC-2387,"Flores, Long and Jensen",SMB,Healthcare,186,2025-04-06
+ACC-2388,Romero-Hicks,SMB,Retail,37,2025-07-04
+ACC-2389,"Evans, Cabrera and Richardson",Mid-Market,Media,361,2024-03-26
+ACC-2390,Silva-Robles,Enterprise,Media,16520,2025-11-08
+ACC-2391,"Soto, Carlson and Baker",SMB,Media,53,2025-08-31
+ACC-2392,"Lane, Griffith and Silva",Mid-Market,Fintech,1244,2025-02-11
+ACC-2393,"Griffith, Hampton and James",Enterprise,Media,49669,2024-07-07
+ACC-2394,Armstrong Ltd,Enterprise,SaaS,11679,2024-05-28
+ACC-2395,Alexander Group,SMB,Fintech,47,2024-11-16
+ACC-2396,"Harris, Shaw and Carr",SMB,Retail,49,2025-11-08
+ACC-2397,"Luna, Thornton and Stone",SMB,Manufacturing,170,2024-09-09
+ACC-2398,"Mendoza, Bennett and Frye",Mid-Market,Retail,1119,2025-02-18
+ACC-2399,Payne-Lowe,Enterprise,Media,43634,2025-06-12
+ACC-2400,"Lara, Baker and Washington",Enterprise,Fintech,43105,2024-08-04
+ACC-2401,"Evans, David and Hendrix",SMB,Healthcare,122,2025-07-01
+ACC-2402,Vaughn Group,SMB,Healthcare,87,2025-01-07
+ACC-2403,Castro-Michael,Mid-Market,Media,1239,2024-07-31
+ACC-2404,Martinez-Rhodes,SMB,Retail,125,2025-11-26
+ACC-2405,Cardenas-Blevins,SMB,Fintech,83,2024-08-13
+ACC-2406,Roberts Ltd,Enterprise,SaaS,40933,2024-09-26
+ACC-2407,Douglas-Burgess,SMB,Fintech,128,2024-06-05
+ACC-2408,"Nelson, Hoffman and Nelson",Enterprise,SaaS,31473,2025-04-23
+ACC-2409,"Matthews, Sanchez and Santiago",Enterprise,Manufacturing,14336,2024-06-24
+ACC-2410,"Hall, Garcia and Rivera",SMB,Retail,131,2024-03-19
+ACC-2411,"Townsend, Smith and Pierce",Enterprise,Fintech,24507,2024-11-12
+ACC-2412,"Donovan, Johns and Woods",Enterprise,Fintech,44344,2025-08-10
+ACC-2413,Morris-Brewer,SMB,SaaS,73,2025-05-21
+ACC-2414,"Hall, Rodgers and Jefferson",Enterprise,SaaS,41964,2024-05-15
+ACC-2415,Khan-Thompson,SMB,SaaS,105,2025-10-11
+ACC-2416,French-Lopez,SMB,Media,96,2025-11-08
+ACC-2417,Mcdowell-Smith,SMB,Manufacturing,171,2025-04-13
+ACC-2418,Hebert LLC,SMB,Healthcare,34,2024-12-18
+ACC-2419,"Daniels, Snyder and Mays",SMB,Manufacturing,74,2024-12-29
+ACC-2420,Lee-Rodriguez,Enterprise,Fintech,11854,2025-07-21
+ACC-2421,Wong-Higgins,SMB,SaaS,159,2025-07-26
+ACC-2422,Gibbs-Bradley,Enterprise,Fintech,47775,2024-05-16
+ACC-2423,"Chase, Prince and Wilcox",Mid-Market,Manufacturing,1418,2024-09-11
+ACC-2424,Morales Inc,Enterprise,Fintech,26686,2024-04-19
+ACC-2425,Morris-Wright,Mid-Market,Healthcare,1865,2024-10-24
+ACC-2426,Griffin LLC,Mid-Market,Healthcare,1603,2024-08-22
+ACC-2427,"Sharp, Smith and Valdez",SMB,Media,181,2024-07-02
+ACC-2428,Contreras Group,SMB,Healthcare,102,2024-05-04
+ACC-2429,Parks-Leblanc,Enterprise,Media,33868,2025-08-20
+ACC-2430,Vaughn-Fowler,SMB,Healthcare,45,2024-10-12
+ACC-2431,"Walker, Bernard and Mendoza",SMB,Retail,35,2025-08-03
+ACC-2432,"Brooks, Miles and Durham",Mid-Market,Manufacturing,277,2025-09-14
+ACC-2433,"Petersen, Gill and Becker",SMB,Manufacturing,168,2025-11-09
+ACC-2434,Fox PLC,SMB,Media,51,2024-10-08
+ACC-2435,Stark Inc,Mid-Market,SaaS,1676,2025-10-05
+ACC-2436,"Leach, Harris and Herrera",SMB,Fintech,103,2024-09-11
+ACC-2437,"Ramos, Frazier and Love",SMB,Retail,123,2024-03-11
+ACC-2438,"Griffin, Brown and Anderson",Mid-Market,Retail,679,2024-12-20
+ACC-2439,"Brown, Ford and Roman",SMB,Media,130,2024-01-17
+ACC-2440,Scott-Smith,SMB,Fintech,156,2025-03-25
+ACC-2441,Williams LLC,Mid-Market,Media,1229,2024-02-19
+ACC-2442,"Mcknight, Michael and Jones",SMB,Retail,51,2024-01-25
+ACC-2443,Ortiz-Mack,Mid-Market,Media,1987,2025-07-20
+ACC-2444,"Stuart, Brooks and Vance",SMB,Retail,133,2025-11-06
+ACC-2445,Bennett-Vega,Mid-Market,Media,1656,2025-11-10
+ACC-2446,"Anderson, Dalton and Wilson",Enterprise,Manufacturing,12506,2024-11-01
+ACC-2447,"Anderson, Irwin and Davenport",SMB,SaaS,141,2024-08-19
+ACC-2448,Nunez-Stephens,SMB,Manufacturing,66,2024-10-21
+ACC-2449,Wright LLC,Enterprise,Fintech,5490,2024-08-02
+ACC-2450,Pineda Ltd,SMB,SaaS,105,2024-01-26
+ACC-2451,"Barnes, Miranda and Stephenson",Enterprise,SaaS,3847,2024-07-05
+ACC-2452,Jones PLC,SMB,SaaS,35,2024-12-12
+ACC-2453,"Powers, Brennan and Sanchez",Mid-Market,SaaS,481,2024-11-08
+ACC-2454,Young-Robinson,SMB,SaaS,130,2024-04-18
+ACC-2455,"Holder, Young and Hendricks",Mid-Market,Manufacturing,1118,2024-09-04
+ACC-2456,"Harper, Chambers and Flores",SMB,Healthcare,30,2025-11-11
+ACC-2457,Odom PLC,SMB,Fintech,48,2024-11-17
+ACC-2458,Hill-Hawkins,Mid-Market,Manufacturing,427,2025-11-14
+ACC-2459,"Buck, Garrett and Simmons",SMB,Retail,41,2024-02-06
+ACC-2460,David-Powers,SMB,Manufacturing,169,2024-09-04
+ACC-2461,"Butler, Hernandez and Bennett",SMB,Manufacturing,137,2025-01-02
+ACC-2462,Atkinson LLC,SMB,Media,141,2024-04-22
+ACC-2463,Melendez-Hart,Mid-Market,Retail,1079,2025-03-08
+ACC-2464,"Anderson, Sanchez and Harris",Mid-Market,Media,1368,2024-03-02
+ACC-2465,Boone-Davis,SMB,Media,181,2025-10-06
+ACC-2466,Williams Group,Enterprise,Media,37656,2025-04-14
+ACC-2467,"Williams, Jones and Ballard",SMB,Manufacturing,139,2025-07-16
+ACC-2468,"Hansen, Mendoza and Booth",SMB,Healthcare,130,2024-08-23
+ACC-2469,Lewis and Sons,SMB,Media,105,2024-04-01
+ACC-2470,"Key, Mendoza and Sanchez",SMB,Manufacturing,27,2025-06-30
+ACC-2471,Sanders and Sons,Mid-Market,Manufacturing,412,2024-09-06
+ACC-2472,James-Ferguson,Mid-Market,Healthcare,473,2024-08-27
+ACC-2473,Ward-Andrade,SMB,Retail,96,2024-03-17
+ACC-2474,"Harrison, Franco and Rocha",SMB,Healthcare,185,2024-08-31
+ACC-2475,Williams-Shields,SMB,Media,56,2024-04-23
+ACC-2476,Green PLC,SMB,Manufacturing,127,2025-07-13
+ACC-2477,Phillips-Gonzalez,SMB,Fintech,61,2024-10-22
+ACC-2478,"Whitaker, Porter and Pena",Enterprise,Media,37588,2024-09-19
+ACC-2479,Hines-Burns,SMB,Media,19,2025-05-13
+ACC-2480,"Henry, Jackson and Norton",SMB,Fintech,101,2024-04-18
+ACC-2481,"Payne, White and Preston",Enterprise,Media,10157,2024-02-15
+ACC-2482,"Johnson, Bradford and Landry",Mid-Market,Media,1019,2024-02-07
+ACC-2483,Gutierrez Ltd,Enterprise,Fintech,14243,2024-02-22
+ACC-2484,"Hernandez, Robinson and Bryant",SMB,SaaS,137,2025-04-24
+ACC-2485,"Estrada, Jensen and Webb",SMB,Retail,31,2024-01-13
+ACC-2486,Patel Group,SMB,SaaS,164,2024-01-13
+ACC-2487,"Bowen, Nichols and Mitchell",SMB,Manufacturing,92,2025-09-23
+ACC-2488,"Craig, Drake and Browning",SMB,SaaS,85,2024-03-15
+ACC-2489,"Hernandez, Lee and Fox",Mid-Market,Healthcare,541,2024-07-26
+ACC-2490,Miller-Chung,SMB,Retail,124,2025-03-14
+ACC-2491,Branch and Sons,Enterprise,Healthcare,30504,2025-06-15
+ACC-2492,Valdez Ltd,SMB,SaaS,24,2024-03-13
+ACC-2493,Gray-Tran,Mid-Market,SaaS,1250,2025-05-09
+ACC-2494,Warner Inc,SMB,Retail,17,2025-10-18
+ACC-2495,Newman-Rivera,Mid-Market,SaaS,271,2025-11-26
+ACC-2496,"Ellison, Hall and Valenzuela",SMB,Media,175,2025-11-20
+ACC-2497,"Alvarez, Williams and Jones",SMB,Healthcare,155,2025-11-29
+ACC-2498,"Elliott, Johnson and Mcfarland",SMB,Healthcare,125,2024-01-13
+ACC-2499,Matthews Ltd,SMB,Retail,29,2024-02-29
+ACC-2500,Martin-Allen,SMB,Retail,111,2025-06-09
+ACC-2501,"Rivera, Campos and Taylor",SMB,Media,39,2025-07-16
+ACC-2502,Mason LLC,SMB,SaaS,109,2024-03-16
+ACC-2503,Hall-Jones,SMB,Manufacturing,76,2025-08-20
+ACC-2504,"Friedman, Sanders and Ayala",SMB,SaaS,166,2025-05-07
+ACC-2505,Bowers-Hayes,Enterprise,Fintech,10037,2024-10-03
+ACC-2506,"Pugh, Reynolds and Frazier",SMB,Media,28,2024-10-22
+ACC-2507,Barton LLC,Enterprise,Fintech,46690,2025-07-07
+ACC-2508,Miller and Sons,Enterprise,Retail,24768,2025-07-06
+ACC-2509,"Moore, Price and Ward",Mid-Market,SaaS,1310,2024-01-05
+ACC-2510,Wallace-Juarez,Enterprise,SaaS,48501,2024-04-12
+ACC-2511,Lopez Group,Enterprise,Manufacturing,25690,2025-03-06
+ACC-2512,"Russell, Johnson and Gomez",SMB,SaaS,41,2025-04-08
+ACC-2513,"Mueller, Shields and Smith",SMB,Retail,136,2024-10-28
+ACC-2514,Hardy PLC,Mid-Market,Fintech,1157,2025-03-20
+ACC-2515,"Jackson, James and Taylor",SMB,Healthcare,32,2024-07-27
+ACC-2516,Thomas-Jackson,SMB,Healthcare,193,2024-11-23
+ACC-2517,Washington-Jones,SMB,Healthcare,114,2024-07-10
+ACC-2518,"Weber, Wheeler and Gonzalez",SMB,SaaS,91,2024-04-15
+ACC-2519,Smith-Foster,SMB,Manufacturing,184,2024-10-22
+ACC-2520,Alexander-Jordan,SMB,Media,151,2025-04-06
+ACC-2521,Evans PLC,SMB,Media,43,2024-06-05
+ACC-2522,Edwards-Oconnell,Enterprise,Healthcare,10137,2024-08-14
+ACC-2523,"Neal, Henry and Johnston",SMB,Fintech,87,2024-09-10
+ACC-2524,Ramirez-Hartman,SMB,Healthcare,191,2024-03-29
+ACC-2525,"Gonzalez, Osborn and White",Enterprise,Manufacturing,7168,2024-01-21
+ACC-2526,"Murray, Erickson and Gonzales",SMB,Healthcare,172,2025-10-07
+ACC-2527,"Jones, Abbott and Pope",SMB,Media,87,2025-01-22
+ACC-2528,Schultz and Sons,SMB,Healthcare,174,2025-05-26
+ACC-2529,Espinoza Group,Enterprise,SaaS,45170,2024-12-14
+ACC-2530,"Mendoza, Morales and Hunter",Mid-Market,Media,891,2024-11-20
+ACC-2531,"Johnson, Schmitt and Miles",SMB,Manufacturing,17,2025-04-06
+ACC-2532,"Rocha, Rodriguez and Wright",Enterprise,Media,44672,2024-10-02
+ACC-2533,Holland Inc,SMB,Manufacturing,156,2025-05-16
+ACC-2534,"Lucas, Rasmussen and Rivera",Mid-Market,Retail,1484,2024-03-23
+ACC-2535,Garcia and Sons,SMB,Manufacturing,87,2025-08-03
+ACC-2536,"Grant, Watts and Walker",Mid-Market,Healthcare,1031,2024-10-30
+ACC-2537,Barton-Chapman,SMB,Manufacturing,186,2024-04-27
+ACC-2538,Cuevas-Webb,SMB,Healthcare,133,2024-11-19
+ACC-2539,Wilson Ltd,SMB,Fintech,46,2024-09-27
+ACC-2540,Cooper-Mueller,SMB,Manufacturing,98,2025-01-10
+ACC-2541,Alvarez-Kim,Mid-Market,Media,1350,2024-12-17
+ACC-2542,Jones-Williams,SMB,Media,129,2024-03-30
+ACC-2543,Sweeney Ltd,SMB,SaaS,46,2025-06-09
+ACC-2544,Spears Ltd,SMB,Fintech,108,2025-02-04
+ACC-2545,Arnold LLC,SMB,Manufacturing,50,2024-11-27
+ACC-2546,Hall-Sullivan,Enterprise,Fintech,14440,2024-05-24
+ACC-2547,"Sandoval, Foster and Mclaughlin",Mid-Market,Fintech,1254,2024-12-15
+ACC-2548,"Jordan, Smith and Lewis",SMB,Healthcare,88,2025-08-07
+ACC-2549,"Stokes, Brown and Garcia",SMB,Manufacturing,110,2024-05-25
+ACC-2550,Nguyen-Ellis,Enterprise,Healthcare,25127,2025-06-04
+ACC-2551,Rose-Fowler,SMB,Manufacturing,82,2024-10-28
+ACC-2552,"Long, Wilson and Bell",Enterprise,Retail,32840,2025-04-24
+ACC-2553,Cervantes Ltd,SMB,Healthcare,12,2025-04-22
+ACC-2554,"Miller, Anderson and Wilson",SMB,Healthcare,77,2024-03-31
+ACC-2555,Brooks and Sons,Mid-Market,Manufacturing,292,2024-10-28
+ACC-2556,Carlson-Andrews,SMB,Retail,153,2024-05-24
+ACC-2557,Reid-Steele,Mid-Market,Media,991,2024-05-14
+ACC-2558,"Jackson, Roberts and Lopez",SMB,Retail,150,2025-04-26
+ACC-2559,Glenn Inc,Mid-Market,Retail,463,2024-04-16
+ACC-2560,Ochoa PLC,SMB,Manufacturing,96,2025-05-22
+ACC-2561,Ortiz-Vasquez,Mid-Market,Media,1433,2025-10-14
+ACC-2562,Burns-Miller,SMB,SaaS,20,2025-09-10
+ACC-2563,Carter LLC,SMB,Fintech,95,2025-02-21
+ACC-2564,Jackson-Ellis,SMB,Media,48,2025-08-23
+ACC-2565,Dunn-Wilson,SMB,SaaS,166,2024-07-27
+ACC-2566,"Morrow, Richardson and Carson",SMB,SaaS,167,2025-08-13
+ACC-2567,"Alexander, Robinson and Coleman",Mid-Market,Media,1896,2025-10-06
+ACC-2568,"Potter, Evans and Kidd",SMB,Retail,191,2024-07-23
+ACC-2569,Atkins-Miller,SMB,SaaS,14,2025-08-25
+ACC-2570,Clark Ltd,Mid-Market,Manufacturing,1395,2025-06-19
+ACC-2571,Callahan-Bishop,Mid-Market,Retail,1986,2024-05-08
+ACC-2572,"Taylor, Clark and Clark",Mid-Market,SaaS,1171,2025-03-18
+ACC-2573,Patel-Carlson,Enterprise,Fintech,16912,2024-09-08
+ACC-2574,"Carter, Armstrong and Farley",Mid-Market,Manufacturing,1183,2025-11-30
+ACC-2575,"Ochoa, Taylor and Brady",SMB,Retail,194,2024-02-16
+ACC-2576,Camacho-Martinez,SMB,Fintech,184,2024-07-12
+ACC-2577,Dawson and Sons,Mid-Market,Media,425,2024-11-01
+ACC-2578,Thomas-Chen,SMB,Media,90,2024-11-17
+ACC-2579,Hayes-Schultz,SMB,SaaS,62,2024-11-08
+ACC-2580,"Brady, Neal and Wiley",Mid-Market,Retail,1987,2025-01-14
+ACC-2581,Perkins-Melton,SMB,Media,45,2024-03-13
+ACC-2582,"Stanton, Reid and Terry",Mid-Market,SaaS,1179,2025-09-10
+ACC-2583,"Sanders, Donaldson and Summers",SMB,Retail,54,2024-07-27
+ACC-2584,Clayton-Morgan,SMB,Manufacturing,100,2024-04-11
+ACC-2585,"Phelps, Kramer and Shannon",Mid-Market,SaaS,741,2024-02-05
+ACC-2586,Sims Group,SMB,SaaS,73,2024-04-06
+ACC-2587,Alexander Inc,SMB,Retail,86,2024-06-06
+ACC-2588,"Blankenship, Khan and Turner",Mid-Market,Healthcare,1643,2024-03-13
+ACC-2589,"Ward, Miller and Beck",SMB,Media,99,2024-05-08
+ACC-2590,Sanders LLC,SMB,Media,41,2025-06-27
+ACC-2591,Patterson Inc,SMB,Media,111,2024-03-14
+ACC-2592,Lewis Inc,Enterprise,Fintech,4756,2025-04-06
+ACC-2593,Stone Group,SMB,SaaS,192,2024-01-07
+ACC-2594,"Cooper, Martinez and Dalton",Enterprise,Media,33396,2024-04-12
+ACC-2595,Jones-Reyes,SMB,Media,147,2025-09-18
+ACC-2596,Garcia LLC,Mid-Market,Healthcare,423,2024-04-16
+ACC-2597,Ayala-Mullins,Mid-Market,Fintech,696,2025-05-13
+ACC-2598,"Thomas, Moreno and Smith",Mid-Market,Media,662,2024-05-07
+ACC-2599,Bell-Lewis,SMB,Media,35,2024-04-27

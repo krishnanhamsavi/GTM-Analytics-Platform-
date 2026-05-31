@@ -1,0 +1,11 @@
+# How dbt connects to the warehouse. We use DuckDB (free, local, no server).
+# 'path' is the database file dbt will build into, relative to this folder.
+# We use a separate file (warehouse_dbt.duckdb) so it doesn't clash with the
+# one the FastAPI backend / scripts use.
+pipeline_pulse:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/warehouse_dbt.duckdb
+      threads: 4

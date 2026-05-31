@@ -1,0 +1,1202 @@
+opportunity_id,account_id,campaign_id,owner_rep,segment,lead_source,stage,amount,n_stakeholders,created_date,close_date,is_won,is_closed
+OPP-7000,ACC-2000,CMP-1014,Cameron Atkins,Mid-Market,Outbound,Qualification,80574.93,6,2025-10-19,2026-01-16,,False
+OPP-7001,ACC-2000,CMP-1003,Travis Jones,Mid-Market,Inbound,Closed Lost,46998.46,6,2025-06-09,2025-08-05,False,True
+OPP-7002,ACC-2001,CMP-1023,Lonnie Burnett,Mid-Market,Inbound,Negotiation,30729.14,1,2025-12-26,2026-02-27,,False
+OPP-7003,ACC-2002,,Jessica Jackson,SMB,Marketing,Closed Lost,16949.45,6,2025-08-14,2025-09-21,False,True
+OPP-7004,ACC-2002,CMP-1012,Brian Morris,SMB,Inbound,Closed Lost,23615.17,5,2025-11-08,2025-12-23,False,True
+OPP-7005,ACC-2002,CMP-1000,Lonnie Burnett,SMB,Marketing,Closed Won,5721.22,1,2025-04-10,2025-05-26,True,True
+OPP-7006,ACC-2003,,Wanda Villa,SMB,Inbound,Closed Lost,15354.85,1,2025-11-17,2025-12-26,False,True
+OPP-7007,ACC-2003,,Lonnie Burnett,SMB,Inbound,Proposal,11949.5,2,2025-11-21,2026-01-09,,False
+OPP-7008,ACC-2004,CMP-1032,Jessica Jackson,Enterprise,Inbound,Closed Won,246933.81,1,2024-09-04,2024-12-04,True,True
+OPP-7009,ACC-2004,,Lonnie Burnett,Enterprise,Outbound,Proposal,305199.48,2,2025-05-24,2026-01-06,,False
+OPP-7010,ACC-2005,CMP-1014,Jordan Allison,SMB,Partner,Closed Lost,10156.4,2,2025-11-17,2025-12-30,False,True
+OPP-7011,ACC-2005,CMP-1018,Travis Jones,SMB,Inbound,Prospecting,19016.37,6,2025-12-23,2026-01-26,,False
+OPP-7012,ACC-2006,,Alyssa Williams,SMB,Inbound,Closed Lost,12070.76,6,2025-05-23,2025-06-27,False,True
+OPP-7013,ACC-2006,,Cameron Atkins,SMB,Inbound,Closed Won,19708.58,2,2024-12-11,2025-02-06,True,True
+OPP-7014,ACC-2006,,Barbara Brooks,SMB,Outbound,Closed Won,6569.75,1,2025-01-13,2025-02-11,True,True
+OPP-7015,ACC-2007,,Lonnie Burnett,SMB,Marketing,Proposal,14846.81,3,2025-12-19,2026-01-04,,False
+OPP-7016,ACC-2007,CMP-1003,Jessica Jackson,SMB,Outbound,Negotiation,9441.86,4,2025-12-02,2026-01-16,,False
+OPP-7017,ACC-2007,,Travis Jones,SMB,Outbound,Closed Lost,22208.0,1,2025-08-28,2025-10-11,False,True
+OPP-7018,ACC-2008,CMP-1006,Cameron Atkins,SMB,Inbound,Closed Won,18482.06,5,2025-08-14,2025-09-30,True,True
+OPP-7019,ACC-2008,CMP-1023,Jessica Jackson,SMB,Inbound,Closed Lost,14426.91,4,2025-06-23,2025-07-23,False,True
+OPP-7020,ACC-2008,CMP-1008,Steven Wood,SMB,Marketing,Closed Lost,10592.59,6,2025-08-29,2025-09-25,False,True
+OPP-7021,ACC-2009,CMP-1009,Travis Jones,SMB,Outbound,Closed Lost,12617.67,1,2025-02-26,2025-03-18,False,True
+OPP-7022,ACC-2010,CMP-1035,Christopher Taylor,SMB,Marketing,Proposal,20706.66,1,2025-12-07,2026-01-16,,False
+OPP-7023,ACC-2011,CMP-1028,Brian Morris,Mid-Market,Partner,Closed Lost,55975.06,3,2025-07-19,2025-09-22,False,True
+OPP-7024,ACC-2011,CMP-1007,Travis Jones,Mid-Market,Inbound,Closed Lost,41751.46,6,2025-09-09,2025-12-09,False,True
+OPP-7025,ACC-2012,,Christopher Taylor,Enterprise,Inbound,Closed Lost,144107.04,6,2025-05-03,2025-12-26,False,True
+OPP-7026,ACC-2012,CMP-1009,Barbara Brooks,Enterprise,Marketing,Negotiation,280235.77,6,2025-12-04,2026-06-26,,False
+OPP-7027,ACC-2012,CMP-1014,Wanda Villa,Enterprise,Inbound,Closed Lost,112116.66,6,2024-08-31,2025-04-24,False,True
+OPP-7028,ACC-2013,,Jessica Jackson,SMB,Partner,Negotiation,20619.48,5,2025-11-20,2026-01-18,,False
+OPP-7029,ACC-2013,CMP-1016,Alyssa Williams,SMB,Marketing,Closed Lost,7500.8,6,2025-11-17,2025-12-29,False,True
+OPP-7030,ACC-2014,,Wanda Villa,Mid-Market,Outbound,Prospecting,31210.99,1,2025-12-19,2026-02-28,,False
+OPP-7031,ACC-2014,CMP-1024,Barbara Brooks,Mid-Market,Inbound,Closed Won,65176.64,2,2024-11-02,2025-02-05,True,True
+OPP-7032,ACC-2014,CMP-1020,Alyssa Williams,Mid-Market,Marketing,Qualification,26857.13,4,2025-11-17,2026-02-26,,False
+OPP-7033,ACC-2015,CMP-1038,Alyssa Williams,SMB,Outbound,Closed Lost,18952.46,6,2025-01-24,2025-02-24,False,True
+OPP-7034,ACC-2015,,Travis Jones,SMB,Outbound,Closed Lost,15675.68,2,2025-01-22,2025-03-17,False,True
+OPP-7035,ACC-2015,CMP-1000,Steven Wood,SMB,Outbound,Negotiation,10196.14,2,2025-12-14,2026-01-02,,False
+OPP-7036,ACC-2016,CMP-1000,Jordan Allison,Enterprise,Partner,Negotiation,383556.83,3,2025-06-14,2026-01-26,,False
+OPP-7037,ACC-2016,CMP-1025,Travis Jones,Enterprise,Inbound,Closed Lost,217638.12,6,2025-08-12,2025-11-11,False,True
+OPP-7038,ACC-2017,CMP-1039,Brian Morris,SMB,Marketing,Closed Lost,13444.79,6,2024-07-22,2024-09-15,False,True
+OPP-7039,ACC-2017,CMP-1008,Jessica Jackson,SMB,Inbound,Negotiation,8760.01,6,2025-12-14,2026-01-14,,False
+OPP-7040,ACC-2017,CMP-1003,Cameron Atkins,SMB,Marketing,Closed Lost,8755.79,1,2024-12-26,2025-02-07,False,True
+OPP-7041,ACC-2018,CMP-1009,Alyssa Williams,SMB,Inbound,Closed Lost,19542.14,2,2025-11-21,2025-12-11,False,True
+OPP-7042,ACC-2019,CMP-1009,Steven Wood,SMB,Inbound,Closed Lost,20828.49,4,2025-10-23,2025-12-02,False,True
+OPP-7043,ACC-2019,,Alyssa Williams,SMB,Marketing,Closed Won,21830.79,1,2025-05-08,2025-05-26,True,True
+OPP-7044,ACC-2020,CMP-1006,Brian Morris,SMB,Outbound,Closed Lost,5670.21,2,2024-08-05,2024-09-03,False,True
+OPP-7045,ACC-2020,,Steven Wood,SMB,Outbound,Closed Won,19564.74,1,2025-03-26,2025-05-09,True,True
+OPP-7046,ACC-2020,CMP-1007,Brian Morris,SMB,Inbound,Closed Lost,6041.75,4,2024-06-02,2024-07-02,False,True
+OPP-7047,ACC-2021,CMP-1002,Lonnie Burnett,SMB,Outbound,Closed Won,20782.88,6,2025-03-06,2025-03-20,True,True
+OPP-7048,ACC-2021,CMP-1021,Barbara Brooks,SMB,Marketing,Closed Lost,14998.38,6,2024-11-24,2025-01-07,False,True
+OPP-7049,ACC-2022,CMP-1035,Cameron Atkins,Enterprise,Partner,Prospecting,129006.51,3,2025-12-13,2026-04-21,,False
+OPP-7050,ACC-2023,CMP-1002,Cameron Atkins,SMB,Outbound,Negotiation,12163.35,4,2025-12-28,2026-02-26,,False
+OPP-7051,ACC-2023,CMP-1020,Cameron Atkins,SMB,Partner,Closed Lost,16334.03,3,2025-07-25,2025-09-12,False,True
+OPP-7052,ACC-2024,,Travis Jones,Mid-Market,Outbound,Qualification,54209.97,4,2025-11-04,2026-01-08,,False
+OPP-7053,ACC-2024,,Cameron Atkins,Mid-Market,Partner,Closed Won,26216.79,2,2025-05-14,2025-08-31,True,True
+OPP-7054,ACC-2024,,Wanda Villa,Mid-Market,Inbound,Closed Won,69409.57,3,2025-10-15,2025-12-07,True,True
+OPP-7055,ACC-2025,,Barbara Brooks,Mid-Market,Inbound,Closed Lost,29334.19,1,2025-09-17,2025-12-12,False,True
+OPP-7056,ACC-2025,CMP-1024,Brian Morris,Mid-Market,Partner,Prospecting,27068.11,5,2025-12-04,2026-01-31,,False
+OPP-7057,ACC-2026,CMP-1013,Jordan Allison,Enterprise,Partner,Closed Lost,277845.62,1,2025-03-05,2025-08-07,False,True
+OPP-7058,ACC-2026,,Travis Jones,Enterprise,Inbound,Negotiation,344828.22,5,2025-11-30,2026-05-31,,False
+OPP-7059,ACC-2026,,Cameron Atkins,Enterprise,Marketing,Closed Won,184210.41,1,2025-07-19,2025-10-27,True,True
+OPP-7060,ACC-2027,CMP-1011,Wanda Villa,Enterprise,Outbound,Closed Won,253119.53,5,2024-05-24,2025-01-05,True,True
+OPP-7061,ACC-2028,CMP-1006,Christopher Taylor,Mid-Market,Inbound,Negotiation,70665.78,2,2025-11-12,2026-03-10,,False
+OPP-7062,ACC-2028,CMP-1022,Steven Wood,Mid-Market,Marketing,Qualification,59703.53,5,2025-11-21,2026-02-25,,False
+OPP-7063,ACC-2029,CMP-1024,Cameron Atkins,SMB,Partner,Closed Lost,9814.45,6,2025-08-13,2025-09-19,False,True
+OPP-7064,ACC-2029,CMP-1018,Debbie Glover,SMB,Outbound,Closed Lost,5003.91,5,2025-08-21,2025-09-20,False,True
+OPP-7065,ACC-2030,,Brian Morris,SMB,Marketing,Closed Won,11298.09,3,2025-08-04,2025-09-06,True,True
+OPP-7066,ACC-2031,CMP-1009,Lonnie Burnett,SMB,Inbound,Qualification,6885.74,3,2025-12-26,2026-02-10,,False
+OPP-7067,ACC-2031,CMP-1013,Jessica Jackson,SMB,Partner,Closed Lost,6838.1,6,2025-10-04,2025-11-24,False,True
+OPP-7068,ACC-2031,CMP-1006,Debbie Glover,SMB,Outbound,Closed Lost,18791.9,3,2025-02-05,2025-03-11,False,True
+OPP-7069,ACC-2032,CMP-1027,Barbara Brooks,Mid-Market,Outbound,Prospecting,84921.65,1,2025-10-18,2026-02-13,,False
+OPP-7070,ACC-2033,CMP-1009,Jordan Allison,SMB,Inbound,Closed Lost,5823.65,6,2024-06-01,2024-07-26,False,True
+OPP-7071,ACC-2034,CMP-1027,Debbie Glover,SMB,Inbound,Closed Lost,16505.1,4,2024-04-19,2024-05-12,False,True
+OPP-7072,ACC-2035,CMP-1005,Debbie Glover,SMB,Inbound,Closed Lost,5986.22,4,2025-11-26,2025-12-18,False,True
+OPP-7073,ACC-2036,CMP-1035,Travis Jones,SMB,Outbound,Closed Won,12906.38,6,2025-11-19,2025-12-11,True,True
+OPP-7074,ACC-2036,CMP-1036,Barbara Brooks,SMB,Inbound,Closed Lost,13601.31,6,2025-10-24,2025-12-10,False,True
+OPP-7075,ACC-2036,CMP-1001,Steven Wood,SMB,Partner,Qualification,11414.77,2,2025-12-14,2026-01-23,,False
+OPP-7076,ACC-2037,CMP-1023,Debbie Glover,Enterprise,Inbound,Closed Won,343633.3,6,2025-06-13,2025-10-18,True,True
+OPP-7077,ACC-2037,,Brian Morris,Enterprise,Inbound,Qualification,359313.23,6,2025-09-26,2026-01-07,,False
+OPP-7078,ACC-2038,CMP-1034,Jordan Allison,SMB,Outbound,Closed Lost,19800.26,3,2025-07-08,2025-08-10,False,True
+OPP-7079,ACC-2039,CMP-1010,Wanda Villa,SMB,Inbound,Closed Lost,18270.57,2,2024-07-22,2024-09-04,False,True
+OPP-7080,ACC-2039,CMP-1017,Debbie Glover,SMB,Partner,Closed Lost,5166.68,6,2025-03-23,2025-05-20,False,True
+OPP-7081,ACC-2039,CMP-1024,Jessica Jackson,SMB,Outbound,Closed Lost,17988.22,6,2024-06-21,2024-07-28,False,True
+OPP-7082,ACC-2040,CMP-1001,Barbara Brooks,SMB,Inbound,Closed Won,15013.02,5,2024-10-30,2024-12-03,True,True
+OPP-7083,ACC-2041,CMP-1019,Cameron Atkins,SMB,Inbound,Closed Won,11935.6,5,2025-04-30,2025-06-04,True,True
+OPP-7084,ACC-2041,CMP-1035,Wanda Villa,SMB,Marketing,Closed Lost,21297.17,2,2025-02-02,2025-03-05,False,True
+OPP-7085,ACC-2042,CMP-1014,Barbara Brooks,SMB,Outbound,Closed Lost,15414.36,5,2025-03-04,2025-04-08,False,True
+OPP-7086,ACC-2043,CMP-1034,Debbie Glover,SMB,Partner,Closed Lost,9135.15,2,2025-07-20,2025-08-30,False,True
+OPP-7087,ACC-2044,CMP-1036,Wanda Villa,SMB,Marketing,Closed Lost,24515.54,3,2025-06-23,2025-07-26,False,True
+OPP-7088,ACC-2045,,Alyssa Williams,SMB,Partner,Closed Lost,22592.76,4,2025-03-10,2025-04-28,False,True
+OPP-7089,ACC-2046,CMP-1039,Alyssa Williams,SMB,Outbound,Closed Lost,7135.43,5,2025-04-29,2025-06-01,False,True
+OPP-7090,ACC-2046,CMP-1030,Brian Morris,SMB,Inbound,Closed Lost,12185.23,5,2025-09-21,2025-11-10,False,True
+OPP-7091,ACC-2047,CMP-1014,Wanda Villa,Enterprise,Inbound,Negotiation,236892.55,1,2025-12-24,2026-05-10,,False
+OPP-7092,ACC-2047,CMP-1028,Cameron Atkins,Enterprise,Marketing,Qualification,324910.74,4,2025-12-20,2026-05-15,,False
+OPP-7093,ACC-2048,,Wanda Villa,SMB,Inbound,Closed Lost,5836.53,3,2025-07-01,2025-08-04,False,True
+OPP-7094,ACC-2048,CMP-1006,Travis Jones,SMB,Outbound,Closed Lost,19082.25,1,2025-04-25,2025-06-03,False,True
+OPP-7095,ACC-2048,CMP-1003,Wanda Villa,SMB,Inbound,Closed Lost,5785.03,4,2024-12-31,2025-01-29,False,True
+OPP-7096,ACC-2049,,Alyssa Williams,Enterprise,Partner,Negotiation,181270.11,2,2025-09-02,2026-03-29,,False
+OPP-7097,ACC-2049,CMP-1034,Cameron Atkins,Enterprise,Inbound,Closed Lost,145729.13,4,2024-09-05,2024-12-27,False,True
+OPP-7098,ACC-2050,CMP-1029,Debbie Glover,Enterprise,Inbound,Closed Lost,310916.66,3,2024-10-21,2025-03-05,False,True
+OPP-7099,ACC-2050,CMP-1033,Barbara Brooks,Enterprise,Partner,Closed Won,229313.51,6,2024-12-20,2025-04-20,True,True
+OPP-7100,ACC-2051,,Travis Jones,SMB,Outbound,Closed Lost,20365.21,6,2025-10-26,2025-12-18,False,True
+OPP-7101,ACC-2051,CMP-1028,Alyssa Williams,SMB,Inbound,Closed Lost,6026.21,2,2025-10-14,2025-11-06,False,True
+OPP-7102,ACC-2051,CMP-1031,Jordan Allison,SMB,Outbound,Closed Lost,10062.22,1,2025-12-01,2025-12-22,False,True
+OPP-7103,ACC-2052,CMP-1038,Lonnie Burnett,Mid-Market,Outbound,Closed Lost,54493.0,2,2025-04-18,2025-07-02,False,True
+OPP-7104,ACC-2052,CMP-1002,Brian Morris,Mid-Market,Inbound,Closed Won,34636.65,1,2025-02-21,2025-05-12,True,True
+OPP-7105,ACC-2052,CMP-1011,Steven Wood,Mid-Market,Inbound,Closed Lost,28187.04,3,2025-04-22,2025-08-18,False,True
+OPP-7106,ACC-2053,CMP-1002,Alyssa Williams,SMB,Inbound,Closed Lost,19986.7,3,2025-02-18,2025-04-15,False,True
+OPP-7107,ACC-2053,CMP-1030,Barbara Brooks,SMB,Inbound,Closed Lost,21866.19,6,2024-07-15,2024-08-18,False,True
+OPP-7108,ACC-2053,CMP-1006,Wanda Villa,SMB,Outbound,Closed Lost,18916.59,6,2025-05-12,2025-06-12,False,True
+OPP-7109,ACC-2054,CMP-1039,Wanda Villa,SMB,Inbound,Closed Lost,11329.77,2,2025-01-19,2025-02-07,False,True
+OPP-7110,ACC-2054,,Travis Jones,SMB,Marketing,Closed Lost,14954.82,2,2025-04-05,2025-05-28,False,True
+OPP-7111,ACC-2054,,Jordan Allison,SMB,Partner,Closed Won,14297.71,2,2024-09-05,2024-11-03,True,True
+OPP-7112,ACC-2055,CMP-1012,Steven Wood,Mid-Market,Partner,Closed Lost,77392.83,3,2024-09-11,2024-12-17,False,True
+OPP-7113,ACC-2055,CMP-1021,Travis Jones,Mid-Market,Inbound,Proposal,74857.12,6,2025-12-20,2026-03-14,,False
+OPP-7114,ACC-2055,CMP-1030,Brian Morris,Mid-Market,Partner,Closed Lost,46965.9,6,2025-05-28,2025-07-15,False,True
+OPP-7115,ACC-2056,,Travis Jones,SMB,Marketing,Closed Lost,14249.4,1,2025-10-24,2025-12-07,False,True
+OPP-7116,ACC-2057,CMP-1022,Travis Jones,SMB,Inbound,Closed Lost,9165.25,2,2024-08-27,2024-09-29,False,True
+OPP-7117,ACC-2057,CMP-1024,Wanda Villa,SMB,Inbound,Closed Lost,21848.12,1,2024-11-13,2024-12-14,False,True
+OPP-7118,ACC-2057,CMP-1028,Jessica Jackson,SMB,Marketing,Closed Lost,14941.09,3,2024-08-24,2024-09-26,False,True
+OPP-7119,ACC-2058,CMP-1005,Barbara Brooks,SMB,Outbound,Closed Lost,5747.9,1,2024-12-07,2025-01-23,False,True
+OPP-7120,ACC-2059,CMP-1020,Steven Wood,Mid-Market,Inbound,Closed Lost,72608.67,1,2025-10-06,2025-12-09,False,True
+OPP-7121,ACC-2059,,Cameron Atkins,Mid-Market,Outbound,Prospecting,54858.95,1,2025-12-26,2026-02-25,,False
+OPP-7122,ACC-2060,,Debbie Glover,Mid-Market,Partner,Closed Lost,31701.68,1,2025-05-28,2025-07-23,False,True
+OPP-7123,ACC-2060,CMP-1020,Steven Wood,Mid-Market,Partner,Qualification,37515.47,6,2025-12-11,2026-03-05,,False
+OPP-7124,ACC-2061,CMP-1032,Jessica Jackson,Enterprise,Inbound,Prospecting,94729.58,5,2025-12-22,2026-05-01,,False
+OPP-7125,ACC-2062,CMP-1019,Alyssa Williams,SMB,Outbound,Proposal,16481.66,3,2025-11-15,2026-01-03,,False
+OPP-7126,ACC-2062,CMP-1024,Alyssa Williams,SMB,Inbound,Closed Won,23065.85,4,2025-09-10,2025-10-28,True,True
+OPP-7127,ACC-2063,CMP-1034,Lonnie Burnett,Mid-Market,Inbound,Closed Lost,46601.59,4,2025-06-10,2025-10-08,False,True
+OPP-7128,ACC-2063,CMP-1029,Cameron Atkins,Mid-Market,Outbound,Closed Lost,54612.97,2,2025-05-18,2025-07-18,False,True
+OPP-7129,ACC-2064,CMP-1020,Wanda Villa,Enterprise,Outbound,Qualification,306880.53,1,2025-10-06,2026-04-07,,False
+OPP-7130,ACC-2065,,Debbie Glover,Mid-Market,Outbound,Closed Lost,36102.1,2,2025-02-26,2025-04-26,False,True
+OPP-7131,ACC-2066,CMP-1029,Steven Wood,SMB,Outbound,Closed Lost,6418.48,4,2025-08-25,2025-09-14,False,True
+OPP-7132,ACC-2066,CMP-1037,Alyssa Williams,SMB,Outbound,Closed Lost,12676.33,4,2025-09-15,2025-10-14,False,True
+OPP-7133,ACC-2066,CMP-1036,Cameron Atkins,SMB,Marketing,Closed Lost,18252.25,1,2025-08-26,2025-10-15,False,True
+OPP-7134,ACC-2067,CMP-1025,Travis Jones,Enterprise,Inbound,Closed Won,228017.03,1,2025-03-21,2025-09-10,True,True
+OPP-7135,ACC-2067,CMP-1008,Debbie Glover,Enterprise,Marketing,Closed Lost,109059.49,6,2025-03-14,2025-09-03,False,True
+OPP-7136,ACC-2067,CMP-1012,Debbie Glover,Enterprise,Inbound,Proposal,210894.62,3,2025-10-10,2026-02-15,,False
+OPP-7137,ACC-2068,CMP-1000,Cameron Atkins,SMB,Outbound,Closed Lost,11885.29,5,2025-10-23,2025-12-12,False,True
+OPP-7138,ACC-2068,CMP-1035,Jordan Allison,SMB,Marketing,Closed Lost,15977.7,3,2025-10-18,2025-11-26,False,True
+OPP-7139,ACC-2069,CMP-1024,Wanda Villa,Mid-Market,Outbound,Closed Lost,50627.44,4,2024-08-04,2024-09-21,False,True
+OPP-7140,ACC-2070,,Alyssa Williams,SMB,Inbound,Qualification,16108.43,4,2025-12-18,2026-01-14,,False
+OPP-7141,ACC-2070,CMP-1031,Alyssa Williams,SMB,Partner,Closed Won,17967.78,2,2025-07-04,2025-07-27,True,True
+OPP-7142,ACC-2070,,Debbie Glover,SMB,Outbound,Closed Lost,18907.81,4,2025-09-09,2025-09-28,False,True
+OPP-7143,ACC-2071,CMP-1036,Wanda Villa,SMB,Outbound,Closed Lost,8715.82,6,2025-07-21,2025-08-31,False,True
+OPP-7144,ACC-2071,CMP-1030,Wanda Villa,SMB,Partner,Proposal,5669.24,1,2025-12-21,2026-01-19,,False
+OPP-7145,ACC-2071,,Alyssa Williams,SMB,Partner,Closed Lost,15528.16,3,2025-09-29,2025-11-19,False,True
+OPP-7146,ACC-2072,,Lonnie Burnett,SMB,Marketing,Closed Won,14449.03,1,2025-11-05,2025-12-22,True,True
+OPP-7147,ACC-2072,CMP-1000,Jessica Jackson,SMB,Outbound,Prospecting,23071.71,5,2025-11-05,2026-01-01,,False
+OPP-7148,ACC-2073,CMP-1002,Steven Wood,SMB,Partner,Closed Lost,20964.46,5,2024-04-23,2024-06-12,False,True
+OPP-7149,ACC-2073,CMP-1018,Jordan Allison,SMB,Marketing,Closed Lost,16562.82,5,2024-07-24,2024-08-26,False,True
+OPP-7150,ACC-2074,CMP-1008,Alyssa Williams,Mid-Market,Outbound,Prospecting,80343.94,3,2025-09-30,2026-01-15,,False
+OPP-7151,ACC-2075,CMP-1011,Lonnie Burnett,Enterprise,Inbound,Qualification,294338.25,6,2025-12-01,2026-04-14,,False
+OPP-7152,ACC-2075,CMP-1009,Travis Jones,Enterprise,Outbound,Prospecting,196282.88,2,2025-12-11,2026-04-26,,False
+OPP-7153,ACC-2076,CMP-1036,Christopher Taylor,Enterprise,Partner,Negotiation,315059.72,3,2025-09-30,2026-02-27,,False
+OPP-7154,ACC-2076,CMP-1030,Jordan Allison,Enterprise,Partner,Qualification,233844.63,5,2025-12-27,2026-04-25,,False
+OPP-7155,ACC-2077,CMP-1028,Jessica Jackson,SMB,Inbound,Closed Won,22405.55,3,2024-11-24,2025-01-01,True,True
+OPP-7156,ACC-2078,CMP-1017,Travis Jones,SMB,Inbound,Closed Lost,24123.67,3,2025-03-02,2025-04-28,False,True
+OPP-7157,ACC-2078,CMP-1037,Wanda Villa,SMB,Partner,Closed Lost,18505.82,5,2025-10-27,2025-11-16,False,True
+OPP-7158,ACC-2078,CMP-1026,Travis Jones,SMB,Inbound,Closed Won,5169.52,1,2025-03-15,2025-04-19,True,True
+OPP-7159,ACC-2079,CMP-1005,Cameron Atkins,SMB,Inbound,Closed Lost,8861.59,5,2025-01-08,2025-02-19,False,True
+OPP-7160,ACC-2079,CMP-1024,Cameron Atkins,SMB,Partner,Closed Lost,6727.73,6,2025-08-20,2025-10-15,False,True
+OPP-7161,ACC-2079,CMP-1004,Cameron Atkins,SMB,Outbound,Closed Won,10891.37,3,2024-11-22,2025-01-11,True,True
+OPP-7162,ACC-2080,CMP-1024,Alyssa Williams,SMB,Inbound,Prospecting,10545.75,1,2025-12-10,2026-02-06,,False
+OPP-7163,ACC-2080,CMP-1025,Debbie Glover,SMB,Inbound,Closed Won,24588.44,4,2025-04-14,2025-05-14,True,True
+OPP-7164,ACC-2081,CMP-1016,Brian Morris,Enterprise,Inbound,Closed Lost,122937.41,1,2024-11-29,2025-06-17,False,True
+OPP-7165,ACC-2082,CMP-1002,Jordan Allison,SMB,Partner,Closed Lost,7977.09,3,2024-10-01,2024-11-20,False,True
+OPP-7166,ACC-2083,,Lonnie Burnett,SMB,Outbound,Closed Won,19152.11,4,2025-03-23,2025-05-20,True,True
+OPP-7167,ACC-2084,,Jordan Allison,SMB,Inbound,Closed Lost,18785.23,5,2025-08-24,2025-09-11,False,True
+OPP-7168,ACC-2084,CMP-1023,Wanda Villa,SMB,Outbound,Closed Won,24940.32,3,2025-11-25,2025-12-31,True,True
+OPP-7169,ACC-2084,,Christopher Taylor,SMB,Partner,Closed Won,16089.51,3,2025-08-04,2025-08-23,True,True
+OPP-7170,ACC-2085,CMP-1012,Debbie Glover,Mid-Market,Inbound,Prospecting,82538.92,2,2025-11-22,2026-01-19,,False
+OPP-7171,ACC-2085,CMP-1031,Debbie Glover,Mid-Market,Outbound,Closed Lost,76528.05,4,2024-12-20,2025-04-19,False,True
+OPP-7172,ACC-2085,CMP-1013,Jordan Allison,Mid-Market,Marketing,Closed Lost,71865.78,6,2025-10-13,2025-12-01,False,True
+OPP-7173,ACC-2086,CMP-1009,Cameron Atkins,Mid-Market,Outbound,Closed Lost,85113.03,1,2024-12-17,2025-04-09,False,True
+OPP-7174,ACC-2086,CMP-1019,Cameron Atkins,Mid-Market,Marketing,Closed Lost,25933.74,1,2024-10-25,2024-12-14,False,True
+OPP-7175,ACC-2086,CMP-1004,Barbara Brooks,Mid-Market,Marketing,Closed Won,63673.53,4,2025-02-14,2025-04-21,True,True
+OPP-7176,ACC-2087,,Barbara Brooks,Enterprise,Inbound,Qualification,189692.86,1,2025-09-17,2026-03-09,,False
+OPP-7177,ACC-2087,CMP-1023,Barbara Brooks,Enterprise,Outbound,Closed Won,133783.41,4,2025-01-22,2025-07-16,True,True
+OPP-7178,ACC-2088,CMP-1031,Barbara Brooks,Enterprise,Inbound,Negotiation,331075.11,1,2025-09-21,2026-01-23,,False
+OPP-7179,ACC-2089,CMP-1008,Wanda Villa,SMB,Inbound,Closed Lost,20844.81,6,2025-03-16,2025-04-04,False,True
+OPP-7180,ACC-2090,CMP-1011,Brian Morris,Mid-Market,Partner,Qualification,64684.97,5,2025-11-25,2026-03-07,,False
+OPP-7181,ACC-2090,CMP-1033,Wanda Villa,Mid-Market,Marketing,Prospecting,61251.18,5,2025-12-07,2026-02-28,,False
+OPP-7182,ACC-2091,CMP-1009,Debbie Glover,SMB,Partner,Qualification,10528.53,4,2025-12-04,2026-01-21,,False
+OPP-7183,ACC-2091,CMP-1013,Christopher Taylor,SMB,Outbound,Prospecting,6080.55,3,2025-11-28,2026-01-12,,False
+OPP-7184,ACC-2092,CMP-1001,Cameron Atkins,Enterprise,Outbound,Prospecting,376707.02,1,2025-09-27,2026-01-21,,False
+OPP-7185,ACC-2092,,Lonnie Burnett,Enterprise,Marketing,Proposal,219910.54,2,2025-07-15,2026-02-03,,False
+OPP-7186,ACC-2092,CMP-1014,Barbara Brooks,Enterprise,Inbound,Closed Won,217904.59,5,2025-06-27,2025-11-22,True,True
+OPP-7187,ACC-2093,CMP-1029,Brian Morris,Mid-Market,Partner,Negotiation,36573.95,6,2025-11-14,2026-02-22,,False
+OPP-7188,ACC-2093,CMP-1008,Steven Wood,Mid-Market,Inbound,Closed Won,69993.68,4,2025-09-15,2025-12-03,True,True
+OPP-7189,ACC-2094,,Brian Morris,Mid-Market,Outbound,Closed Lost,64236.34,5,2025-07-05,2025-09-09,False,True
+OPP-7190,ACC-2094,CMP-1013,Brian Morris,Mid-Market,Outbound,Closed Won,80703.29,4,2025-08-08,2025-12-04,True,True
+OPP-7191,ACC-2095,,Brian Morris,Mid-Market,Outbound,Closed Lost,62665.36,2,2024-05-04,2024-08-11,False,True
+OPP-7192,ACC-2095,,Jordan Allison,Mid-Market,Inbound,Closed Won,55592.42,5,2024-07-16,2024-08-30,True,True
+OPP-7193,ACC-2096,CMP-1026,Debbie Glover,Enterprise,Marketing,Closed Won,263130.96,2,2024-10-28,2025-05-21,True,True
+OPP-7194,ACC-2096,CMP-1010,Christopher Taylor,Enterprise,Partner,Closed Lost,94938.35,5,2025-07-21,2025-12-19,False,True
+OPP-7195,ACC-2097,CMP-1023,Debbie Glover,SMB,Outbound,Closed Lost,22483.98,6,2025-08-07,2025-09-27,False,True
+OPP-7196,ACC-2097,CMP-1027,Wanda Villa,SMB,Partner,Closed Lost,11658.12,6,2025-10-30,2025-12-23,False,True
+OPP-7197,ACC-2097,,Brian Morris,SMB,Partner,Closed Lost,6619.18,1,2024-08-04,2024-09-26,False,True
+OPP-7198,ACC-2098,CMP-1023,Barbara Brooks,SMB,Inbound,Negotiation,12311.82,6,2025-11-06,2026-01-02,,False
+OPP-7199,ACC-2098,CMP-1034,Cameron Atkins,SMB,Inbound,Closed Lost,7768.12,4,2025-09-21,2025-11-09,False,True
+OPP-7200,ACC-2098,CMP-1017,Steven Wood,SMB,Inbound,Closed Lost,10347.16,3,2025-11-03,2025-12-24,False,True
+OPP-7201,ACC-2099,CMP-1034,Travis Jones,SMB,Marketing,Closed Lost,14403.28,4,2025-09-19,2025-10-31,False,True
+OPP-7202,ACC-2099,CMP-1011,Brian Morris,SMB,Inbound,Closed Lost,14157.48,1,2025-09-06,2025-10-29,False,True
+OPP-7203,ACC-2100,CMP-1001,Cameron Atkins,Mid-Market,Inbound,Closed Won,34782.37,6,2025-05-03,2025-07-22,True,True
+OPP-7204,ACC-2101,CMP-1004,Wanda Villa,SMB,Inbound,Closed Lost,17893.69,2,2025-06-12,2025-07-04,False,True
+OPP-7205,ACC-2101,CMP-1037,Lonnie Burnett,SMB,Partner,Closed Lost,17921.02,5,2025-09-08,2025-10-25,False,True
+OPP-7206,ACC-2101,CMP-1016,Jessica Jackson,SMB,Inbound,Closed Lost,22965.64,3,2024-11-09,2024-12-28,False,True
+OPP-7207,ACC-2102,,Jessica Jackson,Enterprise,Partner,Closed Lost,141572.55,3,2024-11-03,2025-05-02,False,True
+OPP-7208,ACC-2102,CMP-1008,Alyssa Williams,Enterprise,Outbound,Closed Won,102756.95,3,2025-06-21,2025-10-28,True,True
+OPP-7209,ACC-2103,CMP-1028,Christopher Taylor,Mid-Market,Outbound,Proposal,88571.47,2,2025-09-23,2026-01-17,,False
+OPP-7210,ACC-2104,,Wanda Villa,Mid-Market,Marketing,Closed Lost,74953.68,2,2025-08-13,2025-10-12,False,True
+OPP-7211,ACC-2104,,Steven Wood,Mid-Market,Marketing,Closed Lost,44211.2,5,2025-08-05,2025-11-27,False,True
+OPP-7212,ACC-2104,CMP-1030,Cameron Atkins,Mid-Market,Marketing,Closed Lost,53736.86,2,2025-07-16,2025-09-17,False,True
+OPP-7213,ACC-2105,CMP-1005,Jordan Allison,SMB,Inbound,Closed Lost,21817.54,5,2025-05-12,2025-06-30,False,True
+OPP-7214,ACC-2105,CMP-1001,Travis Jones,SMB,Inbound,Closed Lost,23713.3,4,2025-07-31,2025-09-24,False,True
+OPP-7215,ACC-2105,CMP-1003,Wanda Villa,SMB,Marketing,Closed Won,11355.16,3,2025-08-12,2025-10-08,True,True
+OPP-7216,ACC-2106,CMP-1019,Wanda Villa,Enterprise,Marketing,Proposal,93779.15,5,2025-12-04,2026-06-06,,False
+OPP-7217,ACC-2106,CMP-1027,Cameron Atkins,Enterprise,Partner,Negotiation,339142.51,4,2025-12-08,2026-06-29,,False
+OPP-7218,ACC-2107,CMP-1021,Brian Morris,Mid-Market,Inbound,Closed Lost,89244.86,5,2025-06-25,2025-08-20,False,True
+OPP-7219,ACC-2108,CMP-1036,Christopher Taylor,SMB,Partner,Closed Lost,13290.28,2,2025-03-08,2025-03-27,False,True
+OPP-7220,ACC-2108,,Jessica Jackson,SMB,Marketing,Closed Lost,5844.66,3,2024-07-27,2024-08-22,False,True
+OPP-7221,ACC-2109,CMP-1030,Jordan Allison,Mid-Market,Inbound,Prospecting,35011.56,6,2025-11-12,2026-02-24,,False
+OPP-7222,ACC-2109,CMP-1017,Debbie Glover,Mid-Market,Outbound,Closed Lost,66911.08,1,2025-08-14,2025-11-20,False,True
+OPP-7223,ACC-2110,CMP-1007,Lonnie Burnett,SMB,Inbound,Closed Lost,10158.23,6,2025-06-30,2025-08-06,False,True
+OPP-7224,ACC-2110,CMP-1008,Alyssa Williams,SMB,Inbound,Closed Lost,7922.74,1,2025-08-06,2025-09-25,False,True
+OPP-7225,ACC-2110,CMP-1033,Christopher Taylor,SMB,Outbound,Closed Lost,12119.69,1,2025-02-14,2025-03-17,False,True
+OPP-7226,ACC-2111,,Lonnie Burnett,Mid-Market,Marketing,Qualification,60341.3,6,2025-11-13,2026-01-20,,False
+OPP-7227,ACC-2111,CMP-1008,Barbara Brooks,Mid-Market,Outbound,Closed Lost,47855.91,3,2025-05-12,2025-07-30,False,True
+OPP-7228,ACC-2111,CMP-1012,Alyssa Williams,Mid-Market,Partner,Closed Won,35046.07,5,2025-04-22,2025-07-28,True,True
+OPP-7229,ACC-2112,,Cameron Atkins,Mid-Market,Inbound,Prospecting,52127.51,2,2025-12-30,2026-04-21,,False
+OPP-7230,ACC-2112,CMP-1038,Jessica Jackson,Mid-Market,Outbound,Proposal,34035.91,3,2025-11-24,2026-03-10,,False
+OPP-7231,ACC-2112,,Cameron Atkins,Mid-Market,Inbound,Prospecting,39453.26,2,2025-12-12,2026-03-05,,False
+OPP-7232,ACC-2113,,Barbara Brooks,SMB,Inbound,Negotiation,18816.36,4,2025-12-22,2026-01-13,,False
+OPP-7233,ACC-2113,CMP-1003,Barbara Brooks,SMB,Outbound,Prospecting,20861.1,3,2025-12-17,2026-01-27,,False
+OPP-7234,ACC-2114,CMP-1012,Barbara Brooks,SMB,Inbound,Closed Lost,23401.96,3,2025-12-07,2025-12-25,False,True
+OPP-7235,ACC-2115,CMP-1039,Lonnie Burnett,SMB,Inbound,Closed Lost,8211.15,5,2024-08-16,2024-09-04,False,True
+OPP-7236,ACC-2116,CMP-1034,Travis Jones,Mid-Market,Inbound,Closed Won,37450.59,6,2025-03-02,2025-06-29,True,True
+OPP-7237,ACC-2117,CMP-1006,Steven Wood,Mid-Market,Inbound,Closed Lost,37033.18,3,2025-08-21,2025-12-08,False,True
+OPP-7238,ACC-2118,,Brian Morris,Mid-Market,Inbound,Negotiation,32334.96,1,2025-11-19,2026-01-30,,False
+OPP-7239,ACC-2118,CMP-1020,Steven Wood,Mid-Market,Outbound,Proposal,61213.59,4,2025-12-30,2026-03-02,,False
+OPP-7240,ACC-2119,,Brian Morris,SMB,Inbound,Closed Lost,10811.79,1,2025-09-21,2025-11-03,False,True
+OPP-7241,ACC-2119,CMP-1028,Jordan Allison,SMB,Outbound,Closed Lost,14832.97,6,2025-01-24,2025-03-09,False,True
+OPP-7242,ACC-2120,,Wanda Villa,Mid-Market,Marketing,Closed Lost,88542.11,2,2025-03-04,2025-05-06,False,True
+OPP-7243,ACC-2121,,Brian Morris,Enterprise,Partner,Negotiation,128056.27,3,2025-07-25,2026-01-17,,False
+OPP-7244,ACC-2122,CMP-1025,Christopher Taylor,Mid-Market,Marketing,Closed Lost,48146.32,5,2025-03-20,2025-07-18,False,True
+OPP-7245,ACC-2122,CMP-1008,Barbara Brooks,Mid-Market,Inbound,Closed Won,56807.19,6,2025-01-18,2025-03-22,True,True
+OPP-7246,ACC-2122,CMP-1020,Christopher Taylor,Mid-Market,Inbound,Closed Won,36641.22,5,2025-07-04,2025-08-26,True,True
+OPP-7247,ACC-2123,CMP-1031,Debbie Glover,SMB,Outbound,Closed Lost,9038.64,5,2025-06-19,2025-07-09,False,True
+OPP-7248,ACC-2123,CMP-1007,Jordan Allison,SMB,Inbound,Closed Lost,5631.97,3,2024-06-22,2024-07-27,False,True
+OPP-7249,ACC-2123,,Jordan Allison,SMB,Inbound,Closed Won,16133.33,6,2024-12-04,2025-01-11,True,True
+OPP-7250,ACC-2124,CMP-1031,Jessica Jackson,Mid-Market,Partner,Closed Lost,56684.57,6,2025-08-14,2025-11-22,False,True
+OPP-7251,ACC-2125,CMP-1031,Travis Jones,SMB,Outbound,Qualification,15133.7,4,2025-12-06,2026-01-25,,False
+OPP-7252,ACC-2125,CMP-1023,Steven Wood,SMB,Inbound,Prospecting,5562.94,6,2025-11-28,2026-01-20,,False
+OPP-7253,ACC-2125,CMP-1022,Wanda Villa,SMB,Inbound,Closed Won,11902.86,2,2025-10-07,2025-11-27,True,True
+OPP-7254,ACC-2126,CMP-1010,Cameron Atkins,Enterprise,Inbound,Prospecting,359371.39,3,2025-11-11,2026-03-02,,False
+OPP-7255,ACC-2127,CMP-1037,Travis Jones,Mid-Market,Inbound,Closed Lost,42330.23,3,2025-01-29,2025-05-08,False,True
+OPP-7256,ACC-2128,CMP-1013,Lonnie Burnett,Mid-Market,Inbound,Closed Won,56743.31,5,2025-09-05,2025-12-08,True,True
+OPP-7257,ACC-2128,CMP-1004,Lonnie Burnett,Mid-Market,Marketing,Closed Lost,88012.8,5,2024-04-14,2024-07-11,False,True
+OPP-7258,ACC-2129,CMP-1005,Jessica Jackson,Enterprise,Partner,Closed Lost,214628.48,5,2025-07-24,2025-11-03,False,True
+OPP-7259,ACC-2130,CMP-1004,Barbara Brooks,SMB,Partner,Negotiation,13542.12,3,2025-12-22,2026-02-11,,False
+OPP-7260,ACC-2131,CMP-1029,Steven Wood,SMB,Partner,Closed Won,13046.02,5,2025-05-04,2025-06-06,True,True
+OPP-7261,ACC-2131,,Alyssa Williams,SMB,Partner,Closed Lost,9259.06,4,2025-11-23,2025-12-18,False,True
+OPP-7262,ACC-2131,CMP-1029,Lonnie Burnett,SMB,Inbound,Closed Lost,6197.63,2,2024-10-06,2024-11-06,False,True
+OPP-7263,ACC-2132,CMP-1013,Wanda Villa,SMB,Marketing,Closed Lost,21604.29,3,2024-09-26,2024-11-22,False,True
+OPP-7264,ACC-2132,CMP-1012,Christopher Taylor,SMB,Inbound,Closed Lost,13117.32,3,2025-06-27,2025-07-29,False,True
+OPP-7265,ACC-2132,CMP-1017,Wanda Villa,SMB,Inbound,Closed Lost,23113.11,3,2025-08-07,2025-09-19,False,True
+OPP-7266,ACC-2133,CMP-1001,Christopher Taylor,SMB,Inbound,Closed Lost,24275.74,1,2025-10-20,2025-12-15,False,True
+OPP-7267,ACC-2133,,Wanda Villa,SMB,Inbound,Closed Lost,18433.44,6,2025-08-06,2025-09-09,False,True
+OPP-7268,ACC-2134,CMP-1037,Cameron Atkins,SMB,Marketing,Closed Lost,7412.85,5,2025-11-26,2025-12-25,False,True
+OPP-7269,ACC-2135,CMP-1037,Lonnie Burnett,Enterprise,Partner,Prospecting,329689.17,6,2025-09-27,2026-02-24,,False
+OPP-7270,ACC-2135,,Alyssa Williams,Enterprise,Outbound,Prospecting,144297.82,3,2025-10-15,2026-03-09,,False
+OPP-7271,ACC-2136,CMP-1030,Steven Wood,SMB,Partner,Closed Lost,7259.23,3,2025-08-26,2025-09-12,False,True
+OPP-7272,ACC-2136,CMP-1038,Cameron Atkins,SMB,Inbound,Closed Lost,11163.43,6,2025-08-13,2025-09-05,False,True
+OPP-7273,ACC-2136,,Jessica Jackson,SMB,Inbound,Closed Lost,11185.37,6,2025-09-28,2025-11-23,False,True
+OPP-7274,ACC-2137,,Wanda Villa,SMB,Marketing,Closed Won,24214.96,3,2025-06-18,2025-08-05,True,True
+OPP-7275,ACC-2138,,Alyssa Williams,SMB,Partner,Closed Lost,17627.05,4,2025-01-22,2025-02-20,False,True
+OPP-7276,ACC-2139,CMP-1027,Debbie Glover,Mid-Market,Marketing,Closed Lost,85222.32,1,2024-12-01,2025-01-25,False,True
+OPP-7277,ACC-2140,,Barbara Brooks,Enterprise,Partner,Closed Lost,276655.94,4,2025-04-29,2025-12-04,False,True
+OPP-7278,ACC-2141,CMP-1012,Christopher Taylor,SMB,Outbound,Closed Lost,17821.98,3,2025-08-06,2025-08-21,False,True
+OPP-7279,ACC-2141,,Alyssa Williams,SMB,Outbound,Closed Lost,19271.28,2,2025-07-07,2025-08-26,False,True
+OPP-7280,ACC-2141,CMP-1037,Debbie Glover,SMB,Marketing,Closed Lost,19703.44,3,2025-10-20,2025-12-11,False,True
+OPP-7281,ACC-2142,,Alyssa Williams,Mid-Market,Marketing,Negotiation,81965.35,2,2025-12-12,2026-03-20,,False
+OPP-7282,ACC-2143,,Barbara Brooks,Mid-Market,Inbound,Negotiation,37887.3,4,2025-11-25,2026-03-21,,False
+OPP-7283,ACC-2144,CMP-1000,Barbara Brooks,SMB,Partner,Closed Lost,8402.46,4,2024-11-17,2024-12-28,False,True
+OPP-7284,ACC-2144,,Brian Morris,SMB,Partner,Qualification,8810.88,3,2025-12-03,2026-01-15,,False
+OPP-7285,ACC-2144,,Wanda Villa,SMB,Inbound,Closed Lost,17001.66,6,2025-06-14,2025-07-29,False,True
+OPP-7286,ACC-2145,CMP-1028,Alyssa Williams,SMB,Marketing,Closed Won,24522.56,3,2025-08-27,2025-10-06,True,True
+OPP-7287,ACC-2146,,Jordan Allison,Mid-Market,Inbound,Closed Lost,81643.83,2,2025-09-19,2025-12-31,False,True
+OPP-7288,ACC-2146,CMP-1003,Cameron Atkins,Mid-Market,Inbound,Proposal,29748.62,2,2025-11-28,2026-03-02,,False
+OPP-7289,ACC-2146,CMP-1025,Jordan Allison,Mid-Market,Partner,Closed Won,65277.76,2,2025-09-23,2025-12-22,True,True
+OPP-7290,ACC-2147,CMP-1029,Jessica Jackson,SMB,Inbound,Closed Won,14856.8,3,2025-09-01,2025-09-17,True,True
+OPP-7291,ACC-2147,,Alyssa Williams,SMB,Outbound,Closed Lost,11265.39,3,2025-07-18,2025-09-15,False,True
+OPP-7292,ACC-2147,CMP-1020,Jessica Jackson,SMB,Outbound,Closed Lost,20231.28,2,2025-03-01,2025-04-07,False,True
+OPP-7293,ACC-2148,CMP-1003,Christopher Taylor,Mid-Market,Inbound,Closed Lost,53599.32,1,2024-09-13,2024-11-16,False,True
+OPP-7294,ACC-2148,,Cameron Atkins,Mid-Market,Outbound,Closed Lost,32541.56,4,2025-09-29,2025-12-16,False,True
+OPP-7295,ACC-2149,,Debbie Glover,SMB,Inbound,Negotiation,7249.82,3,2025-12-23,2026-02-20,,False
+OPP-7296,ACC-2149,,Alyssa Williams,SMB,Outbound,Closed Lost,19998.73,6,2025-05-28,2025-06-16,False,True
+OPP-7297,ACC-2150,,Travis Jones,SMB,Inbound,Closed Lost,8611.38,4,2025-09-20,2025-10-17,False,True
+OPP-7298,ACC-2150,CMP-1025,Jordan Allison,SMB,Inbound,Proposal,18626.25,1,2025-12-12,2026-02-07,,False
+OPP-7299,ACC-2150,CMP-1017,Barbara Brooks,SMB,Outbound,Closed Lost,19154.13,1,2025-05-20,2025-06-23,False,True
+OPP-7300,ACC-2151,,Cameron Atkins,SMB,Inbound,Closed Lost,23137.57,1,2025-08-29,2025-09-14,False,True
+OPP-7301,ACC-2151,CMP-1005,Jordan Allison,SMB,Inbound,Closed Lost,15943.12,2,2025-05-30,2025-07-24,False,True
+OPP-7302,ACC-2152,CMP-1009,Brian Morris,SMB,Inbound,Qualification,12770.06,4,2025-12-10,2026-01-18,,False
+OPP-7303,ACC-2153,CMP-1028,Christopher Taylor,Mid-Market,Marketing,Closed Won,48884.69,4,2025-01-19,2025-03-21,True,True
+OPP-7304,ACC-2153,CMP-1027,Barbara Brooks,Mid-Market,Outbound,Closed Lost,77714.63,1,2025-05-08,2025-09-02,False,True
+OPP-7305,ACC-2154,,Christopher Taylor,Mid-Market,Marketing,Qualification,67094.69,5,2025-11-28,2026-02-24,,False
+OPP-7306,ACC-2155,,Jessica Jackson,Enterprise,Inbound,Closed Lost,114546.77,2,2024-09-08,2024-12-28,False,True
+OPP-7307,ACC-2155,CMP-1002,Travis Jones,Enterprise,Outbound,Closed Lost,266246.06,5,2024-03-19,2024-08-19,False,True
+OPP-7308,ACC-2155,CMP-1032,Debbie Glover,Enterprise,Inbound,Proposal,200191.87,6,2025-10-11,2026-02-02,,False
+OPP-7309,ACC-2156,,Wanda Villa,Mid-Market,Inbound,Closed Won,52056.35,6,2025-10-19,2025-12-25,True,True
+OPP-7310,ACC-2156,CMP-1011,Steven Wood,Mid-Market,Inbound,Closed Lost,81637.41,5,2025-08-26,2025-12-06,False,True
+OPP-7311,ACC-2156,CMP-1010,Travis Jones,Mid-Market,Partner,Prospecting,25380.06,4,2025-11-19,2026-01-16,,False
+OPP-7312,ACC-2157,CMP-1025,Lonnie Burnett,Mid-Market,Marketing,Closed Lost,65088.41,1,2025-06-09,2025-09-24,False,True
+OPP-7313,ACC-2157,,Brian Morris,Mid-Market,Marketing,Closed Won,26032.54,2,2025-08-17,2025-10-18,True,True
+OPP-7314,ACC-2157,CMP-1005,Wanda Villa,Mid-Market,Inbound,Closed Lost,80782.31,4,2025-09-11,2025-11-13,False,True
+OPP-7315,ACC-2158,,Barbara Brooks,Mid-Market,Outbound,Qualification,83657.0,4,2025-12-03,2026-03-12,,False
+OPP-7316,ACC-2159,,Brian Morris,Mid-Market,Inbound,Closed Won,62012.98,1,2024-10-29,2025-02-08,True,True
+OPP-7317,ACC-2159,CMP-1018,Debbie Glover,Mid-Market,Inbound,Closed Lost,63729.57,4,2024-09-05,2024-12-14,False,True
+OPP-7318,ACC-2160,CMP-1020,Brian Morris,Enterprise,Outbound,Closed Lost,253775.73,3,2025-04-18,2025-11-18,False,True
+OPP-7319,ACC-2160,CMP-1027,Barbara Brooks,Enterprise,Inbound,Closed Lost,381078.99,3,2024-11-27,2025-06-26,False,True
+OPP-7320,ACC-2161,,Debbie Glover,Enterprise,Inbound,Closed Won,158107.73,5,2025-07-05,2025-12-30,True,True
+OPP-7321,ACC-2161,,Jessica Jackson,Enterprise,Partner,Negotiation,387539.04,6,2025-09-26,2026-01-27,,False
+OPP-7322,ACC-2161,,Lonnie Burnett,Enterprise,Partner,Qualification,177561.74,2,2025-09-11,2026-01-20,,False
+OPP-7323,ACC-2162,CMP-1015,Barbara Brooks,SMB,Inbound,Closed Lost,23861.09,1,2024-11-12,2024-12-08,False,True
+OPP-7324,ACC-2163,,Christopher Taylor,Mid-Market,Inbound,Closed Won,78816.66,1,2024-05-09,2024-07-26,True,True
+OPP-7325,ACC-2164,,Barbara Brooks,Mid-Market,Partner,Closed Lost,56613.74,1,2025-08-18,2025-10-16,False,True
+OPP-7326,ACC-2164,CMP-1003,Cameron Atkins,Mid-Market,Marketing,Closed Lost,64278.82,4,2025-07-27,2025-10-14,False,True
+OPP-7327,ACC-2165,CMP-1013,Travis Jones,Mid-Market,Marketing,Closed Won,31851.72,2,2025-04-06,2025-06-03,True,True
+OPP-7328,ACC-2165,CMP-1023,Travis Jones,Mid-Market,Inbound,Closed Lost,81582.03,2,2025-02-13,2025-05-06,False,True
+OPP-7329,ACC-2166,CMP-1018,Jordan Allison,Mid-Market,Outbound,Qualification,79262.87,1,2025-11-29,2026-03-10,,False
+OPP-7330,ACC-2167,,Christopher Taylor,Mid-Market,Outbound,Qualification,34854.73,2,2025-10-14,2026-01-20,,False
+OPP-7331,ACC-2167,CMP-1023,Wanda Villa,Mid-Market,Marketing,Negotiation,86869.64,4,2025-11-29,2026-03-08,,False
+OPP-7332,ACC-2168,,Barbara Brooks,SMB,Outbound,Closed Lost,13033.02,4,2025-05-25,2025-06-08,False,True
+OPP-7333,ACC-2169,,Jordan Allison,SMB,Marketing,Closed Lost,24600.94,3,2024-11-20,2025-01-15,False,True
+OPP-7334,ACC-2170,CMP-1017,Cameron Atkins,Mid-Market,Marketing,Proposal,84100.01,5,2025-11-10,2026-03-05,,False
+OPP-7335,ACC-2170,,Christopher Taylor,Mid-Market,Partner,Closed Won,60387.64,6,2025-08-16,2025-11-20,True,True
+OPP-7336,ACC-2171,CMP-1008,Jessica Jackson,Enterprise,Outbound,Closed Won,256604.38,5,2024-05-23,2024-10-10,True,True
+OPP-7337,ACC-2171,,Travis Jones,Enterprise,Inbound,Closed Lost,251614.12,1,2025-08-25,2025-12-16,False,True
+OPP-7338,ACC-2172,CMP-1003,Jessica Jackson,Mid-Market,Marketing,Closed Lost,89152.06,3,2025-03-27,2025-06-13,False,True
+OPP-7339,ACC-2172,,Barbara Brooks,Mid-Market,Outbound,Prospecting,74176.4,5,2025-09-26,2026-01-13,,False
+OPP-7340,ACC-2172,CMP-1034,Brian Morris,Mid-Market,Marketing,Closed Lost,89285.01,2,2024-12-27,2025-04-09,False,True
+OPP-7341,ACC-2173,,Christopher Taylor,Mid-Market,Inbound,Closed Won,49548.27,5,2024-11-19,2025-02-08,True,True
+OPP-7342,ACC-2173,,Debbie Glover,Mid-Market,Inbound,Closed Won,71256.63,1,2024-09-24,2024-12-02,True,True
+OPP-7343,ACC-2174,CMP-1035,Debbie Glover,Mid-Market,Outbound,Closed Won,68993.46,4,2024-04-11,2024-07-25,True,True
+OPP-7344,ACC-2174,,Christopher Taylor,Mid-Market,Outbound,Closed Lost,53605.2,4,2025-03-20,2025-07-17,False,True
+OPP-7345,ACC-2175,,Debbie Glover,SMB,Marketing,Closed Lost,7587.7,1,2025-01-29,2025-02-21,False,True
+OPP-7346,ACC-2176,CMP-1007,Jordan Allison,Mid-Market,Outbound,Closed Lost,86364.52,4,2025-08-03,2025-11-14,False,True
+OPP-7347,ACC-2176,CMP-1019,Lonnie Burnett,Mid-Market,Marketing,Closed Lost,58980.54,3,2025-09-26,2025-11-25,False,True
+OPP-7348,ACC-2176,CMP-1019,Alyssa Williams,Mid-Market,Marketing,Qualification,75946.51,2,2025-10-10,2026-01-25,,False
+OPP-7349,ACC-2177,CMP-1030,Travis Jones,Enterprise,Outbound,Proposal,110945.01,5,2025-12-06,2026-04-06,,False
+OPP-7350,ACC-2178,CMP-1029,Cameron Atkins,SMB,Partner,Closed Lost,7656.19,6,2025-11-17,2025-12-22,False,True
+OPP-7351,ACC-2178,,Barbara Brooks,SMB,Inbound,Negotiation,12744.7,1,2025-12-03,2026-01-14,,False
+OPP-7352,ACC-2179,,Alyssa Williams,Enterprise,Partner,Closed Lost,267318.39,5,2025-02-14,2025-06-06,False,True
+OPP-7353,ACC-2179,CMP-1003,Barbara Brooks,Enterprise,Marketing,Qualification,386102.18,5,2025-10-01,2026-05-22,,False
+OPP-7354,ACC-2179,CMP-1001,Jordan Allison,Enterprise,Inbound,Closed Won,380216.36,2,2025-02-21,2025-09-27,True,True
+OPP-7355,ACC-2180,CMP-1001,Barbara Brooks,SMB,Inbound,Proposal,13035.96,2,2025-11-24,2026-01-22,,False
+OPP-7356,ACC-2181,CMP-1010,Wanda Villa,Mid-Market,Inbound,Closed Won,32451.9,2,2025-04-04,2025-07-25,True,True
+OPP-7357,ACC-2181,CMP-1020,Jessica Jackson,Mid-Market,Inbound,Closed Lost,69109.56,6,2024-12-26,2025-02-20,False,True
+OPP-7358,ACC-2182,CMP-1007,Steven Wood,Mid-Market,Inbound,Closed Won,83045.72,2,2025-06-12,2025-09-14,True,True
+OPP-7359,ACC-2183,CMP-1003,Travis Jones,SMB,Inbound,Closed Lost,12700.97,5,2025-10-25,2025-12-15,False,True
+OPP-7360,ACC-2183,,Jordan Allison,SMB,Inbound,Closed Lost,9674.81,5,2025-05-08,2025-06-17,False,True
+OPP-7361,ACC-2183,CMP-1005,Travis Jones,SMB,Marketing,Qualification,11092.26,5,2025-12-05,2026-01-31,,False
+OPP-7362,ACC-2184,CMP-1035,Alyssa Williams,SMB,Outbound,Closed Lost,15750.71,1,2025-07-12,2025-08-04,False,True
+OPP-7363,ACC-2185,CMP-1016,Jordan Allison,Mid-Market,Marketing,Closed Won,84917.7,4,2025-08-15,2025-11-05,True,True
+OPP-7364,ACC-2185,CMP-1004,Travis Jones,Mid-Market,Inbound,Closed Lost,35492.06,4,2025-07-01,2025-09-11,False,True
+OPP-7365,ACC-2186,CMP-1020,Jessica Jackson,SMB,Marketing,Negotiation,9217.0,3,2025-12-20,2026-01-10,,False
+OPP-7366,ACC-2186,CMP-1013,Jessica Jackson,SMB,Outbound,Qualification,18245.54,5,2025-12-26,2026-02-18,,False
+OPP-7367,ACC-2186,CMP-1000,Christopher Taylor,SMB,Partner,Prospecting,17175.74,4,2025-12-09,2026-01-13,,False
+OPP-7368,ACC-2187,CMP-1034,Travis Jones,SMB,Inbound,Closed Won,22534.41,6,2025-05-16,2025-07-13,True,True
+OPP-7369,ACC-2187,CMP-1000,Wanda Villa,SMB,Inbound,Closed Lost,12159.31,3,2025-05-19,2025-06-30,False,True
+OPP-7370,ACC-2187,CMP-1022,Brian Morris,SMB,Inbound,Closed Lost,20168.42,5,2024-11-30,2024-12-26,False,True
+OPP-7371,ACC-2188,CMP-1038,Debbie Glover,SMB,Inbound,Closed Lost,5735.92,2,2025-11-15,2025-12-18,False,True
+OPP-7372,ACC-2188,CMP-1036,Jessica Jackson,SMB,Partner,Negotiation,8409.54,5,2025-12-12,2026-02-04,,False
+OPP-7373,ACC-2188,CMP-1036,Lonnie Burnett,SMB,Marketing,Qualification,19919.47,5,2025-12-18,2026-02-06,,False
+OPP-7374,ACC-2189,CMP-1029,Cameron Atkins,SMB,Inbound,Closed Lost,17289.13,4,2025-03-16,2025-04-16,False,True
+OPP-7375,ACC-2189,CMP-1033,Wanda Villa,SMB,Outbound,Closed Lost,13137.52,3,2025-05-20,2025-07-14,False,True
+OPP-7376,ACC-2189,CMP-1000,Jordan Allison,SMB,Inbound,Closed Lost,13401.24,3,2024-08-12,2024-09-28,False,True
+OPP-7377,ACC-2190,CMP-1010,Cameron Atkins,Enterprise,Inbound,Closed Lost,113076.51,1,2025-06-05,2025-10-30,False,True
+OPP-7378,ACC-2191,,Debbie Glover,SMB,Marketing,Closed Lost,5480.47,3,2025-09-05,2025-10-29,False,True
+OPP-7379,ACC-2191,,Brian Morris,SMB,Outbound,Closed Lost,21650.35,2,2025-11-17,2025-12-16,False,True
+OPP-7380,ACC-2191,,Christopher Taylor,SMB,Marketing,Closed Lost,7496.53,4,2025-10-15,2025-11-02,False,True
+OPP-7381,ACC-2192,CMP-1027,Jordan Allison,Mid-Market,Inbound,Closed Lost,53724.7,6,2025-10-24,2025-12-16,False,True
+OPP-7382,ACC-2192,CMP-1026,Jessica Jackson,Mid-Market,Inbound,Closed Lost,51109.4,5,2025-08-19,2025-12-13,False,True
+OPP-7383,ACC-2193,CMP-1006,Wanda Villa,Enterprise,Inbound,Closed Lost,222712.78,6,2025-06-08,2025-12-31,False,True
+OPP-7384,ACC-2193,CMP-1004,Steven Wood,Enterprise,Outbound,Qualification,123482.04,2,2025-11-06,2026-06-16,,False
+OPP-7385,ACC-2193,,Jessica Jackson,Enterprise,Outbound,Proposal,220512.17,2,2025-10-04,2026-05-12,,False
+OPP-7386,ACC-2194,CMP-1022,Jessica Jackson,SMB,Inbound,Closed Lost,15262.51,5,2025-10-09,2025-10-25,False,True
+OPP-7387,ACC-2195,CMP-1037,Lonnie Burnett,SMB,Partner,Closed Lost,12376.6,2,2025-11-13,2025-12-06,False,True
+OPP-7388,ACC-2196,,Jordan Allison,Mid-Market,Outbound,Negotiation,47348.05,2,2025-12-02,2026-03-21,,False
+OPP-7389,ACC-2197,CMP-1037,Cameron Atkins,Enterprise,Outbound,Negotiation,275926.31,3,2025-12-19,2026-07-18,,False
+OPP-7390,ACC-2198,,Alyssa Williams,Mid-Market,Inbound,Prospecting,54529.64,2,2025-12-15,2026-03-23,,False
+OPP-7391,ACC-2198,,Debbie Glover,Mid-Market,Marketing,Qualification,40536.24,3,2025-12-26,2026-03-09,,False
+OPP-7392,ACC-2198,CMP-1001,Alyssa Williams,Mid-Market,Outbound,Prospecting,48583.11,2,2025-12-15,2026-02-24,,False
+OPP-7393,ACC-2199,CMP-1011,Steven Wood,SMB,Inbound,Closed Won,5593.71,3,2025-06-15,2025-07-27,True,True
+OPP-7394,ACC-2199,CMP-1016,Travis Jones,SMB,Marketing,Closed Lost,8919.75,1,2025-07-15,2025-09-13,False,True
+OPP-7395,ACC-2200,CMP-1023,Steven Wood,SMB,Partner,Closed Lost,11101.45,5,2025-12-06,2025-12-28,False,True
+OPP-7396,ACC-2200,CMP-1012,Barbara Brooks,SMB,Inbound,Qualification,22654.46,4,2025-12-04,2026-01-26,,False
+OPP-7397,ACC-2200,CMP-1002,Lonnie Burnett,SMB,Partner,Negotiation,24539.63,5,2025-12-14,2026-02-10,,False
+OPP-7398,ACC-2201,CMP-1008,Steven Wood,SMB,Marketing,Closed Lost,17589.18,5,2025-08-13,2025-09-30,False,True
+OPP-7399,ACC-2202,CMP-1032,Christopher Taylor,SMB,Inbound,Closed Lost,8348.67,5,2024-11-24,2024-12-21,False,True
+OPP-7400,ACC-2202,,Cameron Atkins,SMB,Outbound,Closed Lost,18890.19,3,2025-09-26,2025-11-08,False,True
+OPP-7401,ACC-2203,,Brian Morris,Enterprise,Inbound,Closed Won,152930.15,3,2024-06-12,2024-09-19,True,True
+OPP-7402,ACC-2203,CMP-1005,Alyssa Williams,Enterprise,Inbound,Proposal,168904.06,5,2025-11-13,2026-07-07,,False
+OPP-7403,ACC-2203,CMP-1029,Jordan Allison,Enterprise,Outbound,Closed Lost,282549.0,3,2024-07-23,2025-03-19,False,True
+OPP-7404,ACC-2204,CMP-1004,Jordan Allison,Mid-Market,Inbound,Qualification,53709.75,1,2025-11-23,2026-02-10,,False
+OPP-7405,ACC-2204,,Travis Jones,Mid-Market,Inbound,Closed Lost,76081.76,1,2025-07-25,2025-11-11,False,True
+OPP-7406,ACC-2205,CMP-1017,Steven Wood,SMB,Inbound,Closed Won,11584.83,5,2025-09-10,2025-09-26,True,True
+OPP-7407,ACC-2205,CMP-1025,Jordan Allison,SMB,Marketing,Proposal,10636.91,5,2025-12-23,2026-01-14,,False
+OPP-7408,ACC-2206,,Alyssa Williams,Enterprise,Inbound,Negotiation,160549.33,2,2025-06-27,2026-02-03,,False
+OPP-7409,ACC-2206,,Debbie Glover,Enterprise,Inbound,Closed Lost,233034.35,2,2024-12-18,2025-08-06,False,True
+OPP-7410,ACC-2206,CMP-1008,Debbie Glover,Enterprise,Outbound,Negotiation,354412.68,2,2025-11-06,2026-03-29,,False
+OPP-7411,ACC-2207,,Steven Wood,SMB,Partner,Closed Lost,13514.39,6,2025-11-04,2025-11-18,False,True
+OPP-7412,ACC-2207,,Lonnie Burnett,SMB,Inbound,Closed Won,20707.16,3,2025-04-06,2025-05-24,True,True
+OPP-7413,ACC-2208,CMP-1012,Wanda Villa,Mid-Market,Outbound,Closed Won,50391.35,3,2025-02-06,2025-06-04,True,True
+OPP-7414,ACC-2208,CMP-1002,Barbara Brooks,Mid-Market,Marketing,Qualification,31780.36,5,2025-11-06,2026-02-16,,False
+OPP-7415,ACC-2208,CMP-1013,Brian Morris,Mid-Market,Inbound,Prospecting,84237.45,6,2025-12-11,2026-01-28,,False
+OPP-7416,ACC-2209,,Steven Wood,SMB,Outbound,Closed Lost,8436.51,2,2025-08-28,2025-09-15,False,True
+OPP-7417,ACC-2209,,Wanda Villa,SMB,Marketing,Closed Lost,6375.26,2,2025-02-02,2025-02-23,False,True
+OPP-7418,ACC-2209,CMP-1019,Cameron Atkins,SMB,Outbound,Closed Lost,8175.62,5,2025-09-05,2025-10-02,False,True
+OPP-7419,ACC-2210,CMP-1025,Brian Morris,SMB,Outbound,Prospecting,24821.7,2,2025-11-10,2026-01-06,,False
+OPP-7420,ACC-2210,,Debbie Glover,SMB,Inbound,Closed Lost,16522.66,4,2025-02-25,2025-04-13,False,True
+OPP-7421,ACC-2210,CMP-1011,Lonnie Burnett,SMB,Marketing,Closed Lost,21996.88,6,2025-08-21,2025-09-26,False,True
+OPP-7422,ACC-2211,,Cameron Atkins,Mid-Market,Inbound,Prospecting,50580.84,2,2025-12-10,2026-03-14,,False
+OPP-7423,ACC-2211,,Christopher Taylor,Mid-Market,Inbound,Prospecting,70372.86,4,2025-11-17,2026-03-10,,False
+OPP-7424,ACC-2212,,Barbara Brooks,SMB,Outbound,Closed Lost,15087.9,2,2024-09-16,2024-11-04,False,True
+OPP-7425,ACC-2212,CMP-1029,Jordan Allison,SMB,Inbound,Closed Lost,6463.91,6,2024-10-09,2024-11-08,False,True
+OPP-7426,ACC-2213,CMP-1029,Jordan Allison,SMB,Outbound,Closed Lost,19181.99,1,2025-01-01,2025-01-27,False,True
+OPP-7427,ACC-2213,,Cameron Atkins,SMB,Marketing,Closed Lost,7805.12,2,2025-03-25,2025-04-13,False,True
+OPP-7428,ACC-2214,CMP-1000,Jessica Jackson,Mid-Market,Partner,Closed Won,73194.02,2,2025-01-03,2025-03-01,True,True
+OPP-7429,ACC-2215,CMP-1003,Cameron Atkins,SMB,Marketing,Closed Won,18500.88,5,2025-02-10,2025-03-18,True,True
+OPP-7430,ACC-2215,CMP-1024,Cameron Atkins,SMB,Partner,Closed Lost,6048.31,2,2025-08-31,2025-10-25,False,True
+OPP-7431,ACC-2216,CMP-1012,Jordan Allison,Mid-Market,Partner,Closed Lost,89303.89,1,2025-07-05,2025-09-13,False,True
+OPP-7432,ACC-2216,CMP-1020,Cameron Atkins,Mid-Market,Inbound,Closed Won,52019.2,6,2025-09-18,2025-11-14,True,True
+OPP-7433,ACC-2217,CMP-1022,Wanda Villa,Mid-Market,Inbound,Closed Lost,32852.26,1,2025-04-23,2025-07-03,False,True
+OPP-7434,ACC-2218,CMP-1017,Wanda Villa,Enterprise,Outbound,Closed Won,158229.82,3,2025-06-16,2025-09-17,True,True
+OPP-7435,ACC-2218,CMP-1006,Wanda Villa,Enterprise,Partner,Proposal,327938.99,5,2025-11-26,2026-04-20,,False
+OPP-7436,ACC-2219,,Christopher Taylor,Mid-Market,Partner,Closed Lost,69063.53,3,2025-08-06,2025-10-02,False,True
+OPP-7437,ACC-2220,CMP-1024,Barbara Brooks,SMB,Outbound,Closed Lost,17170.67,6,2025-09-04,2025-10-28,False,True
+OPP-7438,ACC-2221,CMP-1015,Brian Morris,Mid-Market,Partner,Closed Won,74331.17,2,2024-11-05,2025-03-05,True,True
+OPP-7439,ACC-2222,CMP-1013,Steven Wood,Mid-Market,Outbound,Negotiation,44279.96,2,2025-12-20,2026-02-10,,False
+OPP-7440,ACC-2222,,Alyssa Williams,Mid-Market,Inbound,Proposal,45640.01,4,2025-09-22,2026-01-01,,False
+OPP-7441,ACC-2222,CMP-1003,Brian Morris,Mid-Market,Marketing,Proposal,47277.35,6,2025-10-21,2026-01-10,,False
+OPP-7442,ACC-2223,CMP-1031,Travis Jones,Enterprise,Inbound,Closed Won,227131.88,2,2025-02-15,2025-08-21,True,True
+OPP-7443,ACC-2224,,Alyssa Williams,Enterprise,Marketing,Closed Won,273715.5,2,2024-05-03,2024-09-22,True,True
+OPP-7444,ACC-2225,CMP-1011,Jessica Jackson,Mid-Market,Outbound,Qualification,71908.79,3,2025-12-11,2026-03-20,,False
+OPP-7445,ACC-2225,CMP-1023,Christopher Taylor,Mid-Market,Inbound,Closed Won,81057.66,2,2025-03-07,2025-07-03,True,True
+OPP-7446,ACC-2225,CMP-1030,Travis Jones,Mid-Market,Inbound,Closed Lost,53172.98,4,2025-05-14,2025-08-23,False,True
+OPP-7447,ACC-2226,CMP-1029,Alyssa Williams,Mid-Market,Inbound,Qualification,41723.96,5,2025-10-22,2026-01-13,,False
+OPP-7448,ACC-2226,CMP-1012,Steven Wood,Mid-Market,Inbound,Qualification,71466.12,5,2025-10-08,2026-01-22,,False
+OPP-7449,ACC-2227,,Wanda Villa,SMB,Inbound,Negotiation,23805.7,4,2025-12-30,2026-02-28,,False
+OPP-7450,ACC-2227,CMP-1036,Wanda Villa,SMB,Inbound,Closed Lost,24849.45,4,2025-08-17,2025-09-19,False,True
+OPP-7451,ACC-2227,CMP-1024,Cameron Atkins,SMB,Marketing,Closed Lost,18769.79,6,2025-09-14,2025-10-14,False,True
+OPP-7452,ACC-2228,CMP-1009,Steven Wood,SMB,Inbound,Closed Lost,18528.51,4,2025-09-07,2025-10-06,False,True
+OPP-7453,ACC-2229,CMP-1007,Lonnie Burnett,SMB,Partner,Closed Lost,18252.09,6,2025-04-09,2025-05-02,False,True
+OPP-7454,ACC-2229,CMP-1012,Cameron Atkins,SMB,Marketing,Closed Lost,23019.91,2,2025-09-15,2025-11-13,False,True
+OPP-7455,ACC-2229,,Travis Jones,SMB,Partner,Negotiation,16721.6,6,2025-12-29,2026-02-08,,False
+OPP-7456,ACC-2230,,Alyssa Williams,Mid-Market,Partner,Closed Won,38619.16,1,2024-04-30,2024-08-26,True,True
+OPP-7457,ACC-2231,CMP-1018,Barbara Brooks,Mid-Market,Partner,Closed Lost,52159.57,2,2025-10-04,2025-11-18,False,True
+OPP-7458,ACC-2232,CMP-1036,Brian Morris,SMB,Marketing,Closed Lost,15052.28,2,2025-08-17,2025-09-23,False,True
+OPP-7459,ACC-2233,CMP-1039,Jessica Jackson,Enterprise,Inbound,Closed Lost,360200.82,6,2025-08-05,2025-12-22,False,True
+OPP-7460,ACC-2234,CMP-1015,Wanda Villa,Mid-Market,Outbound,Closed Won,29177.06,6,2025-02-14,2025-05-07,True,True
+OPP-7461,ACC-2235,CMP-1013,Jordan Allison,SMB,Outbound,Closed Lost,20784.14,1,2024-05-05,2024-05-19,False,True
+OPP-7462,ACC-2236,CMP-1023,Debbie Glover,SMB,Partner,Closed Lost,11740.6,3,2024-04-28,2024-06-19,False,True
+OPP-7463,ACC-2236,,Christopher Taylor,SMB,Marketing,Closed Lost,17216.18,1,2024-08-24,2024-09-27,False,True
+OPP-7464,ACC-2237,CMP-1015,Jordan Allison,Mid-Market,Inbound,Closed Lost,81485.34,5,2025-03-05,2025-06-09,False,True
+OPP-7465,ACC-2238,CMP-1020,Wanda Villa,SMB,Inbound,Closed Lost,5062.58,3,2025-09-25,2025-11-20,False,True
+OPP-7466,ACC-2238,CMP-1005,Brian Morris,SMB,Inbound,Closed Lost,13003.3,4,2025-04-14,2025-04-30,False,True
+OPP-7467,ACC-2238,,Jessica Jackson,SMB,Marketing,Closed Lost,19238.84,6,2025-06-12,2025-08-07,False,True
+OPP-7468,ACC-2239,CMP-1029,Barbara Brooks,SMB,Inbound,Closed Lost,18461.24,4,2025-02-18,2025-03-06,False,True
+OPP-7469,ACC-2239,,Brian Morris,SMB,Partner,Closed Lost,8408.66,1,2024-12-02,2024-12-23,False,True
+OPP-7470,ACC-2239,CMP-1016,Steven Wood,SMB,Partner,Closed Lost,20326.18,6,2025-09-15,2025-10-26,False,True
+OPP-7471,ACC-2240,CMP-1014,Christopher Taylor,Mid-Market,Marketing,Negotiation,30878.71,5,2025-11-07,2026-01-08,,False
+OPP-7472,ACC-2241,,Cameron Atkins,Mid-Market,Marketing,Negotiation,67504.78,4,2025-10-06,2026-01-02,,False
+OPP-7473,ACC-2242,,Jessica Jackson,SMB,Marketing,Closed Won,6782.79,6,2025-09-07,2025-10-05,True,True
+OPP-7474,ACC-2243,CMP-1003,Steven Wood,Mid-Market,Outbound,Negotiation,62499.59,2,2025-11-24,2026-02-24,,False
+OPP-7475,ACC-2244,CMP-1037,Christopher Taylor,SMB,Inbound,Closed Lost,7526.15,4,2025-03-29,2025-05-09,False,True
+OPP-7476,ACC-2244,,Steven Wood,SMB,Outbound,Closed Won,23857.8,4,2025-04-24,2025-05-08,True,True
+OPP-7477,ACC-2245,,Cameron Atkins,Mid-Market,Outbound,Closed Lost,77083.96,3,2025-03-15,2025-06-04,False,True
+OPP-7478,ACC-2246,CMP-1018,Cameron Atkins,Mid-Market,Partner,Closed Lost,66020.01,4,2025-07-31,2025-09-29,False,True
+OPP-7479,ACC-2246,,Cameron Atkins,Mid-Market,Partner,Closed Won,72622.78,1,2025-09-30,2025-12-26,True,True
+OPP-7480,ACC-2246,,Jessica Jackson,Mid-Market,Marketing,Closed Lost,67851.27,5,2025-02-09,2025-05-27,False,True
+OPP-7481,ACC-2247,CMP-1018,Steven Wood,SMB,Inbound,Closed Lost,12821.26,2,2025-08-24,2025-09-28,False,True
+OPP-7482,ACC-2247,,Barbara Brooks,SMB,Marketing,Qualification,11468.37,1,2025-12-23,2026-02-19,,False
+OPP-7483,ACC-2248,CMP-1009,Lonnie Burnett,SMB,Inbound,Closed Won,18919.11,6,2024-09-30,2024-11-02,True,True
+OPP-7484,ACC-2248,,Cameron Atkins,SMB,Inbound,Prospecting,18566.36,4,2025-12-10,2026-01-05,,False
+OPP-7485,ACC-2248,,Barbara Brooks,SMB,Inbound,Closed Lost,14477.52,5,2025-06-30,2025-08-26,False,True
+OPP-7486,ACC-2249,CMP-1015,Alyssa Williams,SMB,Inbound,Closed Lost,13079.88,3,2025-09-20,2025-10-25,False,True
+OPP-7487,ACC-2249,CMP-1029,Cameron Atkins,SMB,Marketing,Closed Lost,18414.72,6,2025-01-17,2025-03-16,False,True
+OPP-7488,ACC-2249,CMP-1032,Steven Wood,SMB,Inbound,Closed Won,7332.55,5,2025-09-14,2025-10-22,True,True
+OPP-7489,ACC-2250,CMP-1030,Cameron Atkins,SMB,Marketing,Closed Lost,20886.87,6,2025-06-03,2025-07-23,False,True
+OPP-7490,ACC-2250,,Alyssa Williams,SMB,Marketing,Prospecting,11504.58,5,2025-12-11,2026-01-21,,False
+OPP-7491,ACC-2250,,Wanda Villa,SMB,Outbound,Closed Lost,15728.34,5,2025-04-16,2025-05-11,False,True
+OPP-7492,ACC-2251,CMP-1011,Christopher Taylor,SMB,Inbound,Closed Lost,8613.28,4,2025-09-12,2025-10-30,False,True
+OPP-7493,ACC-2251,CMP-1016,Alyssa Williams,SMB,Marketing,Closed Lost,18052.81,1,2025-09-04,2025-10-08,False,True
+OPP-7494,ACC-2251,CMP-1000,Jessica Jackson,SMB,Inbound,Proposal,24325.52,1,2025-12-30,2026-01-18,,False
+OPP-7495,ACC-2252,CMP-1022,Alyssa Williams,SMB,Outbound,Closed Lost,18902.03,5,2025-09-24,2025-10-26,False,True
+OPP-7496,ACC-2252,,Brian Morris,SMB,Inbound,Closed Won,7833.35,2,2025-04-15,2025-05-12,True,True
+OPP-7497,ACC-2252,CMP-1004,Lonnie Burnett,SMB,Outbound,Closed Lost,7569.84,3,2025-03-19,2025-05-10,False,True
+OPP-7498,ACC-2253,CMP-1009,Debbie Glover,SMB,Outbound,Closed Won,10083.59,1,2025-10-27,2025-12-21,True,True
+OPP-7499,ACC-2253,CMP-1032,Cameron Atkins,SMB,Outbound,Proposal,16272.84,4,2025-11-23,2026-01-16,,False
+OPP-7500,ACC-2254,CMP-1034,Jordan Allison,Enterprise,Inbound,Closed Lost,166724.28,5,2025-03-30,2025-10-03,False,True
+OPP-7501,ACC-2255,CMP-1014,Steven Wood,SMB,Inbound,Closed Lost,20561.42,1,2025-02-15,2025-03-05,False,True
+OPP-7502,ACC-2255,CMP-1019,Barbara Brooks,SMB,Outbound,Closed Lost,7470.07,4,2025-02-19,2025-03-29,False,True
+OPP-7503,ACC-2256,,Jessica Jackson,Mid-Market,Inbound,Proposal,64485.35,4,2025-10-11,2026-01-08,,False
+OPP-7504,ACC-2257,CMP-1016,Lonnie Burnett,SMB,Inbound,Closed Lost,13053.03,5,2025-09-28,2025-11-03,False,True
+OPP-7505,ACC-2258,,Wanda Villa,Enterprise,Marketing,Proposal,106388.03,6,2025-11-27,2026-04-02,,False
+OPP-7506,ACC-2258,CMP-1018,Alyssa Williams,Enterprise,Inbound,Closed Lost,199740.44,4,2024-09-12,2025-04-07,False,True
+OPP-7507,ACC-2258,CMP-1020,Christopher Taylor,Enterprise,Marketing,Prospecting,383710.94,6,2025-09-27,2026-03-14,,False
+OPP-7508,ACC-2259,CMP-1031,Alyssa Williams,SMB,Marketing,Prospecting,6691.7,1,2025-12-17,2026-01-04,,False
+OPP-7509,ACC-2260,CMP-1034,Debbie Glover,Enterprise,Partner,Closed Lost,302387.78,4,2025-08-12,2025-12-14,False,True
+OPP-7510,ACC-2260,,Cameron Atkins,Enterprise,Inbound,Negotiation,307803.43,6,2025-12-07,2026-03-08,,False
+OPP-7511,ACC-2261,CMP-1014,Alyssa Williams,Enterprise,Inbound,Closed Lost,363398.48,3,2025-03-13,2025-10-03,False,True
+OPP-7512,ACC-2261,CMP-1007,Jordan Allison,Enterprise,Inbound,Closed Lost,207519.38,6,2025-06-11,2025-12-08,False,True
+OPP-7513,ACC-2261,CMP-1036,Jessica Jackson,Enterprise,Inbound,Closed Won,180998.96,3,2025-06-07,2025-10-05,True,True
+OPP-7514,ACC-2262,CMP-1029,Lonnie Burnett,SMB,Inbound,Closed Lost,6149.93,3,2025-10-04,2025-11-19,False,True
+OPP-7515,ACC-2262,CMP-1027,Cameron Atkins,SMB,Outbound,Qualification,13041.36,1,2025-12-13,2026-01-02,,False
+OPP-7516,ACC-2262,CMP-1016,Wanda Villa,SMB,Inbound,Prospecting,23262.18,4,2025-12-03,2026-01-19,,False
+OPP-7517,ACC-2263,,Alyssa Williams,SMB,Partner,Closed Lost,10389.63,4,2025-11-27,2025-12-30,False,True
+OPP-7518,ACC-2263,,Cameron Atkins,SMB,Inbound,Closed Lost,12184.73,2,2025-10-31,2025-11-24,False,True
+OPP-7519,ACC-2264,CMP-1012,Wanda Villa,Mid-Market,Marketing,Closed Lost,83564.86,6,2025-02-20,2025-04-23,False,True
+OPP-7520,ACC-2264,,Debbie Glover,Mid-Market,Inbound,Closed Lost,76988.31,4,2025-05-31,2025-07-30,False,True
+OPP-7521,ACC-2265,CMP-1022,Barbara Brooks,Enterprise,Outbound,Prospecting,335741.02,6,2025-09-10,2026-01-11,,False
+OPP-7522,ACC-2265,CMP-1018,Wanda Villa,Enterprise,Inbound,Closed Lost,318603.78,1,2024-12-22,2025-06-17,False,True
+OPP-7523,ACC-2265,,Cameron Atkins,Enterprise,Marketing,Qualification,167334.7,6,2025-12-02,2026-04-10,,False
+OPP-7524,ACC-2266,,Debbie Glover,Mid-Market,Outbound,Closed Lost,77646.91,2,2025-07-01,2025-10-08,False,True
+OPP-7525,ACC-2267,,Barbara Brooks,SMB,Marketing,Closed Won,5767.33,4,2024-10-07,2024-11-27,True,True
+OPP-7526,ACC-2268,,Jordan Allison,Mid-Market,Marketing,Closed Lost,59123.13,2,2025-07-17,2025-09-25,False,True
+OPP-7527,ACC-2269,CMP-1023,Travis Jones,SMB,Inbound,Closed Lost,6033.11,3,2024-10-20,2024-11-30,False,True
+OPP-7528,ACC-2269,CMP-1020,Steven Wood,SMB,Inbound,Closed Lost,8635.03,4,2024-03-25,2024-05-23,False,True
+OPP-7529,ACC-2270,CMP-1007,Alyssa Williams,Mid-Market,Inbound,Closed Won,56933.61,1,2025-09-02,2025-10-29,True,True
+OPP-7530,ACC-2270,,Steven Wood,Mid-Market,Outbound,Closed Lost,77652.29,5,2025-09-04,2025-12-28,False,True
+OPP-7531,ACC-2271,CMP-1038,Lonnie Burnett,Mid-Market,Inbound,Negotiation,30670.03,5,2025-11-02,2026-01-21,,False
+OPP-7532,ACC-2271,,Cameron Atkins,Mid-Market,Outbound,Closed Lost,31411.43,3,2025-05-30,2025-08-07,False,True
+OPP-7533,ACC-2272,CMP-1016,Cameron Atkins,Mid-Market,Marketing,Closed Won,33309.08,5,2025-01-27,2025-04-07,True,True
+OPP-7534,ACC-2272,CMP-1026,Christopher Taylor,Mid-Market,Outbound,Closed Lost,84205.2,5,2024-08-13,2024-11-12,False,True
+OPP-7535,ACC-2272,,Cameron Atkins,Mid-Market,Inbound,Closed Lost,43827.66,6,2025-04-25,2025-06-30,False,True
+OPP-7536,ACC-2273,,Travis Jones,SMB,Inbound,Prospecting,8310.36,4,2025-12-08,2026-01-16,,False
+OPP-7537,ACC-2274,CMP-1000,Alyssa Williams,Mid-Market,Marketing,Closed Won,62173.37,5,2025-04-01,2025-06-19,True,True
+OPP-7538,ACC-2274,,Jessica Jackson,Mid-Market,Outbound,Closed Lost,39321.86,2,2024-09-05,2024-12-23,False,True
+OPP-7539,ACC-2275,,Jessica Jackson,SMB,Marketing,Closed Won,7962.79,3,2024-06-30,2024-07-16,True,True
+OPP-7540,ACC-2276,CMP-1023,Travis Jones,SMB,Inbound,Closed Won,17972.91,6,2025-07-29,2025-09-22,True,True
+OPP-7541,ACC-2277,CMP-1000,Lonnie Burnett,SMB,Marketing,Proposal,11492.7,2,2025-12-20,2026-01-19,,False
+OPP-7542,ACC-2277,,Jessica Jackson,SMB,Partner,Prospecting,15747.77,5,2025-12-20,2026-02-18,,False
+OPP-7543,ACC-2277,,Christopher Taylor,SMB,Inbound,Closed Lost,16017.56,3,2025-12-06,2025-12-26,False,True
+OPP-7544,ACC-2278,CMP-1030,Debbie Glover,Mid-Market,Inbound,Closed Won,72208.6,2,2025-02-20,2025-05-26,True,True
+OPP-7545,ACC-2279,CMP-1001,Lonnie Burnett,SMB,Inbound,Closed Lost,19589.6,2,2025-11-30,2025-12-25,False,True
+OPP-7546,ACC-2279,,Alyssa Williams,SMB,Marketing,Closed Won,9905.08,1,2025-09-15,2025-10-24,True,True
+OPP-7547,ACC-2280,CMP-1000,Lonnie Burnett,Enterprise,Partner,Closed Won,209037.07,6,2025-04-17,2025-07-19,True,True
+OPP-7548,ACC-2280,CMP-1000,Barbara Brooks,Enterprise,Marketing,Closed Won,380965.5,1,2025-01-03,2025-06-05,True,True
+OPP-7549,ACC-2280,,Brian Morris,Enterprise,Marketing,Closed Won,325498.24,3,2025-04-08,2025-07-28,True,True
+OPP-7550,ACC-2281,CMP-1001,Jordan Allison,Mid-Market,Marketing,Closed Lost,42384.68,1,2025-03-07,2025-05-10,False,True
+OPP-7551,ACC-2281,CMP-1014,Travis Jones,Mid-Market,Inbound,Closed Lost,51993.5,4,2025-04-19,2025-07-10,False,True
+OPP-7552,ACC-2282,CMP-1007,Brian Morris,SMB,Outbound,Closed Lost,18688.35,1,2025-03-10,2025-04-02,False,True
+OPP-7553,ACC-2282,CMP-1005,Steven Wood,SMB,Marketing,Closed Won,11674.5,5,2025-08-13,2025-09-10,True,True
+OPP-7554,ACC-2283,CMP-1019,Steven Wood,SMB,Outbound,Qualification,18588.67,3,2025-12-21,2026-01-15,,False
+OPP-7555,ACC-2284,,Christopher Taylor,Mid-Market,Partner,Closed Lost,42251.06,1,2025-07-17,2025-10-04,False,True
+OPP-7556,ACC-2284,,Alyssa Williams,Mid-Market,Outbound,Closed Lost,71887.33,1,2025-10-18,2025-12-20,False,True
+OPP-7557,ACC-2285,CMP-1024,Alyssa Williams,Enterprise,Inbound,Prospecting,190146.56,4,2025-11-22,2026-05-02,,False
+OPP-7558,ACC-2286,CMP-1026,Alyssa Williams,SMB,Outbound,Closed Lost,18079.08,5,2024-11-21,2025-01-04,False,True
+OPP-7559,ACC-2286,CMP-1026,Travis Jones,SMB,Outbound,Qualification,12692.55,6,2025-12-19,2026-02-05,,False
+OPP-7560,ACC-2287,CMP-1035,Steven Wood,Enterprise,Outbound,Closed Won,398110.65,2,2025-06-23,2025-11-20,True,True
+OPP-7561,ACC-2287,CMP-1035,Steven Wood,Enterprise,Marketing,Qualification,181356.16,4,2025-09-01,2026-02-27,,False
+OPP-7562,ACC-2287,CMP-1009,Jordan Allison,Enterprise,Inbound,Closed Lost,126343.1,1,2024-12-22,2025-05-18,False,True
+OPP-7563,ACC-2288,CMP-1038,Cameron Atkins,Mid-Market,Marketing,Prospecting,68078.58,1,2025-11-15,2026-02-15,,False
+OPP-7564,ACC-2288,,Barbara Brooks,Mid-Market,Outbound,Closed Won,25811.05,2,2025-09-13,2025-12-13,True,True
+OPP-7565,ACC-2288,,Cameron Atkins,Mid-Market,Outbound,Closed Lost,55561.99,6,2025-08-03,2025-10-04,False,True
+OPP-7566,ACC-2289,CMP-1011,Alyssa Williams,SMB,Outbound,Closed Won,17849.09,1,2025-12-04,2025-12-18,True,True
+OPP-7567,ACC-2289,CMP-1019,Travis Jones,SMB,Partner,Closed Lost,10161.09,4,2025-08-13,2025-09-21,False,True
+OPP-7568,ACC-2289,CMP-1013,Travis Jones,SMB,Outbound,Negotiation,24558.53,1,2025-12-17,2026-01-10,,False
+OPP-7569,ACC-2290,CMP-1020,Lonnie Burnett,Mid-Market,Partner,Prospecting,78076.32,4,2025-11-05,2026-01-12,,False
+OPP-7570,ACC-2291,CMP-1023,Christopher Taylor,Mid-Market,Outbound,Closed Lost,42544.77,3,2025-10-13,2025-12-03,False,True
+OPP-7571,ACC-2291,CMP-1019,Alyssa Williams,Mid-Market,Inbound,Closed Lost,29245.75,2,2025-07-02,2025-09-15,False,True
+OPP-7572,ACC-2292,CMP-1030,Barbara Brooks,Enterprise,Inbound,Closed Lost,265087.01,3,2025-01-11,2025-06-18,False,True
+OPP-7573,ACC-2292,CMP-1020,Steven Wood,Enterprise,Partner,Closed Lost,387209.1,6,2024-10-02,2025-01-02,False,True
+OPP-7574,ACC-2292,CMP-1032,Steven Wood,Enterprise,Marketing,Negotiation,367918.47,2,2025-12-17,2026-04-10,,False
+OPP-7575,ACC-2293,CMP-1029,Lonnie Burnett,Mid-Market,Inbound,Closed Lost,27431.54,6,2025-06-03,2025-09-04,False,True
+OPP-7576,ACC-2294,CMP-1032,Christopher Taylor,Mid-Market,Outbound,Qualification,74973.67,6,2025-12-14,2026-02-26,,False
+OPP-7577,ACC-2295,CMP-1027,Debbie Glover,Mid-Market,Inbound,Qualification,47036.35,6,2025-12-12,2026-04-02,,False
+OPP-7578,ACC-2295,CMP-1031,Brian Morris,Mid-Market,Inbound,Prospecting,87271.02,1,2025-12-18,2026-03-22,,False
+OPP-7579,ACC-2295,CMP-1018,Barbara Brooks,Mid-Market,Inbound,Negotiation,31117.41,3,2025-11-07,2026-01-30,,False
+OPP-7580,ACC-2296,CMP-1030,Barbara Brooks,Mid-Market,Marketing,Closed Won,75176.13,4,2024-11-30,2025-02-28,True,True
+OPP-7581,ACC-2296,CMP-1026,Lonnie Burnett,Mid-Market,Marketing,Closed Lost,48625.69,6,2024-11-12,2025-01-13,False,True
+OPP-7582,ACC-2296,CMP-1026,Travis Jones,Mid-Market,Outbound,Closed Lost,86882.92,3,2024-10-31,2025-02-09,False,True
+OPP-7583,ACC-2297,CMP-1024,Cameron Atkins,Enterprise,Inbound,Prospecting,137914.29,4,2025-09-30,2026-03-01,,False
+OPP-7584,ACC-2297,CMP-1034,Debbie Glover,Enterprise,Marketing,Prospecting,198170.77,4,2025-10-14,2026-04-21,,False
+OPP-7585,ACC-2297,,Cameron Atkins,Enterprise,Partner,Prospecting,374412.71,2,2025-09-18,2026-02-01,,False
+OPP-7586,ACC-2298,,Steven Wood,Enterprise,Inbound,Negotiation,155916.91,4,2025-12-13,2026-06-02,,False
+OPP-7587,ACC-2298,CMP-1002,Debbie Glover,Enterprise,Marketing,Qualification,288467.08,4,2025-10-20,2026-02-26,,False
+OPP-7588,ACC-2299,,Brian Morris,Mid-Market,Partner,Closed Won,81421.34,3,2025-07-05,2025-10-13,True,True
+OPP-7589,ACC-2300,CMP-1028,Alyssa Williams,Mid-Market,Marketing,Closed Won,51329.45,5,2025-10-14,2025-12-20,True,True
+OPP-7590,ACC-2300,CMP-1019,Jordan Allison,Mid-Market,Inbound,Closed Won,83606.71,3,2025-05-10,2025-07-27,True,True
+OPP-7591,ACC-2301,CMP-1036,Cameron Atkins,Mid-Market,Inbound,Closed Lost,87763.34,1,2024-10-18,2025-01-31,False,True
+OPP-7592,ACC-2301,CMP-1020,Cameron Atkins,Mid-Market,Inbound,Closed Lost,65073.3,4,2025-09-22,2025-12-01,False,True
+OPP-7593,ACC-2302,CMP-1028,Christopher Taylor,SMB,Marketing,Closed Lost,15413.83,2,2025-11-10,2025-12-25,False,True
+OPP-7594,ACC-2303,CMP-1034,Jordan Allison,SMB,Partner,Qualification,19914.15,5,2025-12-30,2026-02-10,,False
+OPP-7595,ACC-2303,CMP-1000,Brian Morris,SMB,Inbound,Closed Lost,24434.89,3,2025-10-09,2025-11-16,False,True
+OPP-7596,ACC-2303,CMP-1029,Travis Jones,SMB,Outbound,Closed Lost,7494.91,3,2025-10-24,2025-11-08,False,True
+OPP-7597,ACC-2304,CMP-1023,Steven Wood,Mid-Market,Inbound,Prospecting,85212.68,5,2025-12-24,2026-04-02,,False
+OPP-7598,ACC-2304,CMP-1027,Wanda Villa,Mid-Market,Outbound,Proposal,79930.95,6,2025-12-06,2026-03-30,,False
+OPP-7599,ACC-2305,CMP-1031,Barbara Brooks,Mid-Market,Partner,Closed Lost,65056.92,5,2025-10-20,2025-12-15,False,True
+OPP-7600,ACC-2305,CMP-1026,Travis Jones,Mid-Market,Inbound,Closed Lost,27121.31,4,2024-08-12,2024-10-08,False,True
+OPP-7601,ACC-2305,CMP-1029,Brian Morris,Mid-Market,Outbound,Closed Lost,86785.85,6,2024-05-02,2024-08-03,False,True
+OPP-7602,ACC-2306,CMP-1019,Brian Morris,SMB,Marketing,Closed Lost,10352.18,4,2025-03-02,2025-04-10,False,True
+OPP-7603,ACC-2306,,Wanda Villa,SMB,Marketing,Closed Won,5524.94,5,2025-08-12,2025-10-08,True,True
+OPP-7604,ACC-2306,CMP-1025,Alyssa Williams,SMB,Inbound,Closed Lost,24856.58,6,2025-09-09,2025-10-31,False,True
+OPP-7605,ACC-2307,,Alyssa Williams,SMB,Outbound,Closed Lost,12808.23,3,2025-06-12,2025-06-29,False,True
+OPP-7606,ACC-2307,CMP-1036,Brian Morris,SMB,Partner,Closed Won,21023.44,6,2025-06-12,2025-07-29,True,True
+OPP-7607,ACC-2308,CMP-1037,Brian Morris,SMB,Inbound,Prospecting,6865.31,5,2025-12-04,2026-01-22,,False
+OPP-7608,ACC-2308,CMP-1029,Lonnie Burnett,SMB,Outbound,Closed Lost,19846.79,3,2025-10-30,2025-12-28,False,True
+OPP-7609,ACC-2309,,Brian Morris,Mid-Market,Partner,Closed Lost,40941.54,3,2025-02-12,2025-04-26,False,True
+OPP-7610,ACC-2310,CMP-1006,Alyssa Williams,Enterprise,Inbound,Closed Lost,287899.84,5,2024-08-15,2024-12-04,False,True
+OPP-7611,ACC-2310,CMP-1023,Jessica Jackson,Enterprise,Marketing,Closed Won,145994.59,2,2024-09-11,2025-01-15,True,True
+OPP-7612,ACC-2310,,Jordan Allison,Enterprise,Inbound,Negotiation,112808.55,6,2025-06-24,2026-01-25,,False
+OPP-7613,ACC-2311,CMP-1036,Alyssa Williams,SMB,Outbound,Closed Won,5202.81,1,2025-09-09,2025-10-17,True,True
+OPP-7614,ACC-2311,CMP-1033,Debbie Glover,SMB,Partner,Closed Lost,16999.86,1,2025-12-08,2025-12-29,False,True
+OPP-7615,ACC-2312,CMP-1023,Jordan Allison,SMB,Inbound,Closed Lost,20219.22,2,2025-06-11,2025-08-02,False,True
+OPP-7616,ACC-2313,CMP-1005,Barbara Brooks,Enterprise,Inbound,Qualification,172953.06,5,2025-12-01,2026-04-26,,False
+OPP-7617,ACC-2314,CMP-1011,Wanda Villa,SMB,Inbound,Closed Lost,12998.84,6,2025-03-03,2025-04-04,False,True
+OPP-7618,ACC-2314,CMP-1013,Lonnie Burnett,SMB,Marketing,Closed Lost,16751.58,4,2025-04-28,2025-05-29,False,True
+OPP-7619,ACC-2314,CMP-1038,Lonnie Burnett,SMB,Inbound,Closed Lost,21317.84,2,2025-06-24,2025-08-04,False,True
+OPP-7620,ACC-2315,CMP-1037,Debbie Glover,Mid-Market,Outbound,Closed Won,27194.4,5,2025-08-01,2025-11-01,True,True
+OPP-7621,ACC-2315,,Wanda Villa,Mid-Market,Outbound,Prospecting,32452.25,2,2025-11-24,2026-03-16,,False
+OPP-7622,ACC-2315,,Brian Morris,Mid-Market,Inbound,Closed Lost,49177.68,3,2025-10-07,2025-12-22,False,True
+OPP-7623,ACC-2316,CMP-1004,Debbie Glover,SMB,Inbound,Closed Lost,11431.22,5,2025-07-21,2025-08-04,False,True
+OPP-7624,ACC-2316,,Barbara Brooks,SMB,Marketing,Closed Lost,19325.31,6,2025-01-12,2025-02-08,False,True
+OPP-7625,ACC-2316,CMP-1012,Christopher Taylor,SMB,Inbound,Negotiation,11355.67,4,2025-12-20,2026-01-07,,False
+OPP-7626,ACC-2317,CMP-1024,Barbara Brooks,SMB,Inbound,Closed Won,8422.79,1,2025-08-19,2025-09-04,True,True
+OPP-7627,ACC-2317,,Jordan Allison,SMB,Outbound,Closed Lost,10687.32,5,2025-08-18,2025-09-19,False,True
+OPP-7628,ACC-2318,CMP-1019,Barbara Brooks,SMB,Inbound,Closed Lost,21597.0,3,2025-05-21,2025-06-06,False,True
+OPP-7629,ACC-2318,CMP-1029,Steven Wood,SMB,Outbound,Closed Lost,5941.46,6,2025-08-21,2025-09-29,False,True
+OPP-7630,ACC-2318,CMP-1020,Jordan Allison,SMB,Marketing,Closed Lost,21509.13,6,2025-07-31,2025-08-21,False,True
+OPP-7631,ACC-2319,CMP-1000,Brian Morris,Enterprise,Marketing,Proposal,343005.76,1,2025-12-06,2026-03-28,,False
+OPP-7632,ACC-2319,CMP-1039,Jordan Allison,Enterprise,Partner,Proposal,113263.07,4,2025-11-30,2026-03-28,,False
+OPP-7633,ACC-2320,,Lonnie Burnett,SMB,Partner,Closed Lost,7525.77,4,2024-12-19,2025-02-15,False,True
+OPP-7634,ACC-2320,CMP-1017,Travis Jones,SMB,Inbound,Closed Lost,16557.69,6,2024-11-18,2025-01-11,False,True
+OPP-7635,ACC-2321,,Jessica Jackson,SMB,Inbound,Closed Lost,12060.19,6,2025-11-09,2025-12-07,False,True
+OPP-7636,ACC-2321,CMP-1029,Debbie Glover,SMB,Marketing,Prospecting,9249.51,2,2025-12-16,2026-01-12,,False
+OPP-7637,ACC-2322,CMP-1029,Lonnie Burnett,Mid-Market,Partner,Proposal,74431.72,5,2025-10-24,2026-01-20,,False
+OPP-7638,ACC-2322,CMP-1012,Steven Wood,Mid-Market,Partner,Closed Lost,54408.07,2,2025-10-09,2025-12-09,False,True
+OPP-7639,ACC-2323,CMP-1009,Christopher Taylor,SMB,Outbound,Closed Lost,22396.63,1,2025-10-24,2025-11-24,False,True
+OPP-7640,ACC-2324,CMP-1028,Debbie Glover,SMB,Inbound,Closed Won,5571.72,1,2024-04-25,2024-05-16,True,True
+OPP-7641,ACC-2324,CMP-1021,Wanda Villa,SMB,Inbound,Closed Won,12938.56,3,2025-05-16,2025-07-04,True,True
+OPP-7642,ACC-2324,CMP-1012,Christopher Taylor,SMB,Outbound,Closed Lost,23560.4,5,2024-03-08,2024-04-14,False,True
+OPP-7643,ACC-2325,CMP-1007,Wanda Villa,SMB,Inbound,Closed Won,5997.43,1,2025-09-24,2025-11-10,True,True
+OPP-7644,ACC-2325,CMP-1039,Brian Morris,SMB,Partner,Closed Won,7020.64,4,2025-10-15,2025-10-31,True,True
+OPP-7645,ACC-2326,CMP-1010,Cameron Atkins,Mid-Market,Partner,Closed Lost,69959.45,3,2025-02-16,2025-04-14,False,True
+OPP-7646,ACC-2326,CMP-1039,Cameron Atkins,Mid-Market,Outbound,Prospecting,31125.77,3,2025-12-15,2026-03-06,,False
+OPP-7647,ACC-2327,,Christopher Taylor,Enterprise,Inbound,Closed Won,148076.77,1,2024-05-17,2024-11-03,True,True
+OPP-7648,ACC-2327,CMP-1004,Steven Wood,Enterprise,Inbound,Prospecting,145029.67,1,2025-12-22,2026-07-09,,False
+OPP-7649,ACC-2327,CMP-1002,Lonnie Burnett,Enterprise,Marketing,Closed Won,360697.75,5,2024-02-02,2024-08-31,True,True
+OPP-7650,ACC-2328,CMP-1019,Travis Jones,SMB,Marketing,Closed Won,7931.66,3,2025-06-20,2025-07-22,True,True
+OPP-7651,ACC-2328,CMP-1000,Travis Jones,SMB,Marketing,Closed Lost,14729.87,3,2025-07-27,2025-09-07,False,True
+OPP-7652,ACC-2328,CMP-1001,Christopher Taylor,SMB,Inbound,Negotiation,7255.22,4,2025-11-29,2026-01-27,,False
+OPP-7653,ACC-2329,,Debbie Glover,Enterprise,Marketing,Prospecting,165754.02,3,2025-11-14,2026-05-14,,False
+OPP-7654,ACC-2330,,Christopher Taylor,Mid-Market,Partner,Prospecting,87754.45,4,2025-12-21,2026-02-28,,False
+OPP-7655,ACC-2331,,Steven Wood,SMB,Inbound,Closed Lost,13345.89,1,2025-07-31,2025-08-25,False,True
+OPP-7656,ACC-2331,CMP-1022,Lonnie Burnett,SMB,Inbound,Closed Won,20906.66,1,2025-09-22,2025-11-12,True,True
+OPP-7657,ACC-2331,CMP-1010,Christopher Taylor,SMB,Inbound,Closed Won,24333.43,3,2025-08-22,2025-10-06,True,True
+OPP-7658,ACC-2332,CMP-1003,Jordan Allison,Mid-Market,Outbound,Qualification,43396.12,1,2025-11-19,2026-01-04,,False
+OPP-7659,ACC-2333,CMP-1032,Jessica Jackson,SMB,Partner,Qualification,12004.36,5,2025-12-28,2026-02-02,,False
+OPP-7660,ACC-2333,CMP-1005,Alyssa Williams,SMB,Inbound,Closed Lost,8934.55,1,2025-10-01,2025-10-24,False,True
+OPP-7661,ACC-2334,CMP-1016,Wanda Villa,SMB,Marketing,Negotiation,24338.14,5,2025-12-28,2026-02-02,,False
+OPP-7662,ACC-2334,CMP-1012,Wanda Villa,SMB,Inbound,Closed Lost,11449.6,4,2025-08-31,2025-10-03,False,True
+OPP-7663,ACC-2335,CMP-1011,Barbara Brooks,SMB,Inbound,Closed Lost,23542.37,4,2025-07-11,2025-08-06,False,True
+OPP-7664,ACC-2335,CMP-1022,Debbie Glover,SMB,Outbound,Closed Lost,15076.3,4,2025-11-29,2025-12-19,False,True
+OPP-7665,ACC-2335,,Debbie Glover,SMB,Outbound,Closed Won,16178.18,2,2025-10-22,2025-12-04,True,True
+OPP-7666,ACC-2336,,Travis Jones,SMB,Marketing,Closed Lost,17417.79,1,2025-03-23,2025-04-25,False,True
+OPP-7667,ACC-2336,,Christopher Taylor,SMB,Outbound,Closed Won,21149.62,1,2024-11-27,2025-01-05,True,True
+OPP-7668,ACC-2336,,Christopher Taylor,SMB,Outbound,Closed Won,16886.79,6,2024-11-30,2024-12-19,True,True
+OPP-7669,ACC-2337,,Christopher Taylor,Mid-Market,Outbound,Closed Lost,71601.84,5,2025-08-27,2025-10-26,False,True
+OPP-7670,ACC-2337,CMP-1000,Christopher Taylor,Mid-Market,Marketing,Closed Lost,35060.41,5,2025-07-11,2025-09-11,False,True
+OPP-7671,ACC-2338,CMP-1015,Jordan Allison,SMB,Inbound,Closed Won,22597.98,4,2025-09-24,2025-10-20,True,True
+OPP-7672,ACC-2338,CMP-1011,Wanda Villa,SMB,Marketing,Closed Won,7436.23,5,2025-09-11,2025-09-26,True,True
+OPP-7673,ACC-2338,CMP-1015,Wanda Villa,SMB,Inbound,Closed Won,5433.16,6,2025-11-22,2025-12-22,True,True
+OPP-7674,ACC-2339,,Debbie Glover,SMB,Outbound,Closed Lost,18350.71,6,2025-09-08,2025-10-26,False,True
+OPP-7675,ACC-2339,,Cameron Atkins,SMB,Inbound,Closed Lost,14279.27,3,2025-07-30,2025-08-30,False,True
+OPP-7676,ACC-2339,CMP-1039,Wanda Villa,SMB,Outbound,Closed Won,11055.23,3,2024-12-05,2025-01-17,True,True
+OPP-7677,ACC-2340,,Jordan Allison,SMB,Outbound,Closed Lost,12154.95,3,2025-07-15,2025-08-27,False,True
+OPP-7678,ACC-2341,CMP-1036,Barbara Brooks,Mid-Market,Inbound,Closed Won,34841.18,6,2025-04-20,2025-07-23,True,True
+OPP-7679,ACC-2341,CMP-1030,Wanda Villa,Mid-Market,Outbound,Closed Won,79556.16,2,2025-05-09,2025-07-28,True,True
+OPP-7680,ACC-2341,CMP-1037,Jessica Jackson,Mid-Market,Inbound,Qualification,70354.97,5,2025-10-07,2026-01-24,,False
+OPP-7681,ACC-2342,CMP-1030,Cameron Atkins,SMB,Inbound,Closed Won,6930.81,2,2025-09-11,2025-09-29,True,True
+OPP-7682,ACC-2342,,Alyssa Williams,SMB,Marketing,Closed Lost,12681.67,1,2025-06-27,2025-08-26,False,True
+OPP-7683,ACC-2343,CMP-1001,Cameron Atkins,SMB,Marketing,Closed Won,20267.04,3,2024-08-23,2024-09-22,True,True
+OPP-7684,ACC-2343,CMP-1016,Alyssa Williams,SMB,Outbound,Closed Lost,16475.59,6,2025-06-15,2025-07-05,False,True
+OPP-7685,ACC-2343,,Cameron Atkins,SMB,Inbound,Closed Won,21276.75,5,2024-11-19,2024-12-21,True,True
+OPP-7686,ACC-2344,CMP-1026,Jordan Allison,Mid-Market,Outbound,Closed Lost,83063.92,1,2024-08-30,2024-10-26,False,True
+OPP-7687,ACC-2345,CMP-1022,Brian Morris,SMB,Inbound,Closed Lost,16407.4,5,2025-11-19,2025-12-14,False,True
+OPP-7688,ACC-2345,CMP-1008,Wanda Villa,SMB,Partner,Closed Lost,22479.54,3,2025-10-02,2025-10-24,False,True
+OPP-7689,ACC-2346,CMP-1018,Jordan Allison,Mid-Market,Marketing,Closed Lost,46509.79,3,2025-04-24,2025-08-10,False,True
+OPP-7690,ACC-2347,CMP-1033,Alyssa Williams,SMB,Marketing,Closed Lost,6495.54,5,2025-09-25,2025-11-23,False,True
+OPP-7691,ACC-2347,CMP-1016,Travis Jones,SMB,Partner,Closed Lost,7217.49,1,2025-11-03,2025-12-06,False,True
+OPP-7692,ACC-2348,CMP-1021,Steven Wood,SMB,Marketing,Closed Lost,6187.84,6,2025-11-18,2025-12-28,False,True
+OPP-7693,ACC-2348,CMP-1002,Barbara Brooks,SMB,Inbound,Closed Lost,16277.12,1,2024-10-02,2024-10-19,False,True
+OPP-7694,ACC-2349,CMP-1002,Debbie Glover,SMB,Outbound,Qualification,10410.17,2,2025-12-12,2026-02-02,,False
+OPP-7695,ACC-2349,,Debbie Glover,SMB,Inbound,Closed Lost,21996.67,1,2025-08-22,2025-10-16,False,True
+OPP-7696,ACC-2350,CMP-1024,Christopher Taylor,SMB,Partner,Closed Lost,5361.9,6,2025-04-04,2025-04-30,False,True
+OPP-7697,ACC-2351,CMP-1023,Alyssa Williams,Mid-Market,Inbound,Closed Won,32669.52,3,2025-07-11,2025-10-18,True,True
+OPP-7698,ACC-2352,,Barbara Brooks,SMB,Marketing,Closed Lost,9542.52,5,2025-05-16,2025-06-02,False,True
+OPP-7699,ACC-2352,CMP-1028,Cameron Atkins,SMB,Inbound,Closed Lost,6137.67,1,2025-06-20,2025-08-09,False,True
+OPP-7700,ACC-2353,CMP-1004,Alyssa Williams,Enterprise,Inbound,Negotiation,238397.42,5,2025-09-05,2026-02-16,,False
+OPP-7701,ACC-2353,,Brian Morris,Enterprise,Partner,Negotiation,311071.5,3,2025-07-26,2026-01-23,,False
+OPP-7702,ACC-2354,CMP-1026,Steven Wood,SMB,Partner,Closed Lost,15068.91,5,2025-04-17,2025-05-16,False,True
+OPP-7703,ACC-2354,CMP-1019,Brian Morris,SMB,Partner,Closed Lost,21828.51,2,2025-05-18,2025-07-02,False,True
+OPP-7704,ACC-2354,CMP-1029,Jordan Allison,SMB,Marketing,Closed Lost,18966.84,1,2024-09-01,2024-09-22,False,True
+OPP-7705,ACC-2355,CMP-1017,Lonnie Burnett,SMB,Marketing,Closed Lost,21543.58,4,2025-11-11,2025-11-27,False,True
+OPP-7706,ACC-2355,CMP-1027,Wanda Villa,SMB,Outbound,Closed Lost,9488.97,6,2025-07-04,2025-08-18,False,True
+OPP-7707,ACC-2356,CMP-1016,Jordan Allison,SMB,Marketing,Closed Lost,20089.56,5,2025-11-21,2025-12-07,False,True
+OPP-7708,ACC-2356,CMP-1003,Cameron Atkins,SMB,Marketing,Closed Lost,13681.52,5,2025-09-09,2025-10-06,False,True
+OPP-7709,ACC-2357,CMP-1033,Debbie Glover,SMB,Inbound,Negotiation,16452.05,4,2025-11-14,2026-01-13,,False
+OPP-7710,ACC-2357,,Jordan Allison,SMB,Inbound,Proposal,20991.78,2,2025-12-06,2026-01-18,,False
+OPP-7711,ACC-2358,CMP-1016,Wanda Villa,Mid-Market,Partner,Closed Won,42827.54,5,2024-06-17,2024-09-13,True,True
+OPP-7712,ACC-2358,,Lonnie Burnett,Mid-Market,Outbound,Closed Lost,79339.99,1,2025-07-03,2025-09-01,False,True
+OPP-7713,ACC-2358,,Jordan Allison,Mid-Market,Inbound,Closed Lost,56213.51,1,2025-10-28,2025-12-13,False,True
+OPP-7714,ACC-2359,CMP-1017,Steven Wood,Mid-Market,Inbound,Prospecting,53628.57,4,2025-12-01,2026-02-19,,False
+OPP-7715,ACC-2359,CMP-1011,Alyssa Williams,Mid-Market,Partner,Prospecting,40123.71,4,2025-12-24,2026-03-08,,False
+OPP-7716,ACC-2359,,Travis Jones,Mid-Market,Inbound,Qualification,28952.84,3,2025-12-18,2026-03-13,,False
+OPP-7717,ACC-2360,CMP-1032,Cameron Atkins,Mid-Market,Outbound,Closed Won,40255.3,5,2025-06-13,2025-09-11,True,True
+OPP-7718,ACC-2361,CMP-1027,Lonnie Burnett,Mid-Market,Marketing,Closed Lost,78475.04,2,2025-08-02,2025-10-12,False,True
+OPP-7719,ACC-2362,,Wanda Villa,SMB,Inbound,Closed Lost,12494.31,1,2025-06-06,2025-07-10,False,True
+OPP-7720,ACC-2363,CMP-1020,Alyssa Williams,SMB,Outbound,Closed Lost,5510.71,6,2024-02-26,2024-04-03,False,True
+OPP-7721,ACC-2364,,Wanda Villa,SMB,Inbound,Closed Lost,5651.99,6,2025-04-12,2025-06-02,False,True
+OPP-7722,ACC-2364,CMP-1026,Lonnie Burnett,SMB,Outbound,Closed Lost,16488.78,1,2025-06-16,2025-07-05,False,True
+OPP-7723,ACC-2364,CMP-1036,Christopher Taylor,SMB,Inbound,Closed Lost,13820.35,2,2025-02-11,2025-03-30,False,True
+OPP-7724,ACC-2365,CMP-1028,Debbie Glover,Enterprise,Partner,Closed Won,391443.02,4,2025-04-08,2025-09-04,True,True
+OPP-7725,ACC-2365,CMP-1038,Travis Jones,Enterprise,Inbound,Closed Lost,373537.01,4,2025-05-30,2025-11-26,False,True
+OPP-7726,ACC-2366,CMP-1008,Brian Morris,SMB,Outbound,Closed Lost,13152.35,3,2025-09-28,2025-11-17,False,True
+OPP-7727,ACC-2367,CMP-1012,Wanda Villa,SMB,Marketing,Closed Lost,24664.96,4,2025-03-25,2025-04-28,False,True
+OPP-7728,ACC-2367,,Wanda Villa,SMB,Partner,Closed Lost,16091.58,2,2025-05-14,2025-05-28,False,True
+OPP-7729,ACC-2368,,Barbara Brooks,Mid-Market,Marketing,Closed Won,81347.2,3,2025-06-19,2025-08-06,True,True
+OPP-7730,ACC-2369,,Cameron Atkins,Enterprise,Inbound,Closed Won,194410.57,5,2025-07-19,2025-12-17,True,True
+OPP-7731,ACC-2370,,Cameron Atkins,SMB,Outbound,Closed Lost,23998.38,6,2025-11-01,2025-11-21,False,True
+OPP-7732,ACC-2370,,Cameron Atkins,SMB,Marketing,Closed Won,8669.02,5,2025-08-20,2025-09-30,True,True
+OPP-7733,ACC-2370,CMP-1020,Lonnie Burnett,SMB,Outbound,Closed Lost,18478.14,5,2024-05-10,2024-05-29,False,True
+OPP-7734,ACC-2371,CMP-1033,Brian Morris,Mid-Market,Outbound,Closed Lost,47172.62,4,2025-01-10,2025-03-31,False,True
+OPP-7735,ACC-2371,CMP-1013,Steven Wood,Mid-Market,Outbound,Closed Lost,86978.39,3,2025-07-29,2025-10-23,False,True
+OPP-7736,ACC-2371,CMP-1028,Steven Wood,Mid-Market,Inbound,Closed Lost,32705.82,2,2024-09-05,2024-11-29,False,True
+OPP-7737,ACC-2372,CMP-1032,Christopher Taylor,SMB,Partner,Proposal,7820.06,1,2025-12-26,2026-01-25,,False
+OPP-7738,ACC-2372,,Travis Jones,SMB,Inbound,Closed Lost,5133.3,2,2025-11-05,2025-12-27,False,True
+OPP-7739,ACC-2373,,Travis Jones,SMB,Partner,Closed Won,14076.99,1,2025-08-05,2025-09-24,True,True
+OPP-7740,ACC-2373,CMP-1007,Jessica Jackson,SMB,Marketing,Closed Won,7736.36,1,2025-04-20,2025-06-01,True,True
+OPP-7741,ACC-2374,CMP-1032,Alyssa Williams,Mid-Market,Partner,Closed Lost,42947.02,1,2025-06-07,2025-07-31,False,True
+OPP-7742,ACC-2374,CMP-1012,Wanda Villa,Mid-Market,Marketing,Closed Won,70831.74,6,2025-08-17,2025-11-10,True,True
+OPP-7743,ACC-2374,,Brian Morris,Mid-Market,Partner,Closed Won,49453.59,3,2025-10-11,2025-11-29,True,True
+OPP-7744,ACC-2375,CMP-1005,Cameron Atkins,Mid-Market,Marketing,Closed Lost,33566.48,6,2025-01-02,2025-04-19,False,True
+OPP-7745,ACC-2375,,Barbara Brooks,Mid-Market,Inbound,Closed Lost,64729.12,6,2025-11-07,2025-12-22,False,True
+OPP-7746,ACC-2376,CMP-1011,Brian Morris,Enterprise,Marketing,Closed Lost,240112.25,2,2024-05-19,2025-01-13,False,True
+OPP-7747,ACC-2376,CMP-1006,Christopher Taylor,Enterprise,Inbound,Closed Lost,200709.64,3,2024-09-06,2025-04-09,False,True
+OPP-7748,ACC-2377,,Christopher Taylor,SMB,Partner,Closed Lost,8523.89,3,2025-06-22,2025-08-03,False,True
+OPP-7749,ACC-2377,CMP-1015,Debbie Glover,SMB,Inbound,Closed Lost,22280.18,3,2025-07-16,2025-09-12,False,True
+OPP-7750,ACC-2378,CMP-1025,Travis Jones,Mid-Market,Marketing,Closed Lost,42004.34,4,2024-12-27,2025-04-03,False,True
+OPP-7751,ACC-2378,CMP-1002,Jessica Jackson,Mid-Market,Inbound,Negotiation,72332.15,4,2025-12-20,2026-03-08,,False
+OPP-7752,ACC-2378,CMP-1039,Travis Jones,Mid-Market,Outbound,Qualification,75670.88,2,2025-12-29,2026-04-26,,False
+OPP-7753,ACC-2379,,Wanda Villa,SMB,Partner,Closed Won,19094.61,5,2025-09-28,2025-11-15,True,True
+OPP-7754,ACC-2379,,Brian Morris,SMB,Marketing,Proposal,15709.45,4,2025-12-20,2026-01-07,,False
+OPP-7755,ACC-2379,CMP-1015,Alyssa Williams,SMB,Marketing,Closed Lost,11630.04,1,2025-10-23,2025-12-21,False,True
+OPP-7756,ACC-2380,CMP-1001,Wanda Villa,SMB,Inbound,Closed Lost,5845.7,6,2025-08-26,2025-10-12,False,True
+OPP-7757,ACC-2381,,Wanda Villa,Mid-Market,Inbound,Negotiation,33527.56,1,2025-11-01,2026-01-19,,False
+OPP-7758,ACC-2382,CMP-1009,Jordan Allison,SMB,Inbound,Closed Won,21605.03,5,2025-10-07,2025-10-25,True,True
+OPP-7759,ACC-2383,CMP-1012,Wanda Villa,SMB,Inbound,Closed Lost,5468.64,6,2025-06-05,2025-07-01,False,True
+OPP-7760,ACC-2383,CMP-1017,Jessica Jackson,SMB,Outbound,Closed Lost,9445.06,6,2025-03-17,2025-05-06,False,True
+OPP-7761,ACC-2384,,Jordan Allison,Mid-Market,Partner,Closed Lost,72291.23,6,2024-12-19,2025-03-05,False,True
+OPP-7762,ACC-2384,CMP-1023,Lonnie Burnett,Mid-Market,Outbound,Closed Lost,50827.66,1,2024-11-27,2025-03-09,False,True
+OPP-7763,ACC-2384,CMP-1010,Alyssa Williams,Mid-Market,Inbound,Closed Lost,88428.13,4,2025-04-08,2025-07-01,False,True
+OPP-7764,ACC-2385,,Wanda Villa,Mid-Market,Outbound,Closed Lost,55778.45,2,2025-09-02,2025-10-27,False,True
+OPP-7765,ACC-2385,,Wanda Villa,Mid-Market,Inbound,Proposal,73133.22,6,2025-10-01,2026-01-17,,False
+OPP-7766,ACC-2385,,Jessica Jackson,Mid-Market,Outbound,Closed Lost,74077.47,3,2025-07-04,2025-10-09,False,True
+OPP-7767,ACC-2386,,Cameron Atkins,SMB,Partner,Closed Lost,16096.14,1,2024-09-25,2024-10-24,False,True
+OPP-7768,ACC-2386,,Alyssa Williams,SMB,Inbound,Closed Lost,8241.86,4,2025-11-14,2025-12-25,False,True
+OPP-7769,ACC-2386,CMP-1035,Debbie Glover,SMB,Outbound,Closed Won,21063.07,1,2025-09-20,2025-10-11,True,True
+OPP-7770,ACC-2387,CMP-1039,Cameron Atkins,SMB,Marketing,Closed Lost,18533.66,5,2025-04-26,2025-05-17,False,True
+OPP-7771,ACC-2387,CMP-1023,Jessica Jackson,SMB,Outbound,Closed Lost,9089.24,3,2025-09-03,2025-10-28,False,True
+OPP-7772,ACC-2388,,Cameron Atkins,SMB,Outbound,Qualification,8284.76,3,2025-11-29,2026-01-11,,False
+OPP-7773,ACC-2388,CMP-1012,Debbie Glover,SMB,Inbound,Closed Won,24539.52,1,2025-09-15,2025-10-25,True,True
+OPP-7774,ACC-2389,CMP-1035,Jordan Allison,Mid-Market,Marketing,Closed Lost,63639.54,3,2025-09-17,2025-12-13,False,True
+OPP-7775,ACC-2389,CMP-1019,Jessica Jackson,Mid-Market,Inbound,Closed Lost,84248.2,4,2024-07-01,2024-08-16,False,True
+OPP-7776,ACC-2389,CMP-1013,Christopher Taylor,Mid-Market,Inbound,Closed Lost,30035.95,3,2025-02-22,2025-06-18,False,True
+OPP-7777,ACC-2390,,Lonnie Burnett,Enterprise,Outbound,Negotiation,192349.66,3,2025-12-19,2026-07-30,,False
+OPP-7778,ACC-2390,,Alyssa Williams,Enterprise,Inbound,Prospecting,332843.12,5,2025-11-21,2026-04-13,,False
+OPP-7779,ACC-2390,,Debbie Glover,Enterprise,Inbound,Prospecting,190234.74,5,2025-11-19,2026-03-31,,False
+OPP-7780,ACC-2391,CMP-1024,Jessica Jackson,SMB,Partner,Prospecting,9815.46,3,2025-11-24,2026-01-04,,False
+OPP-7781,ACC-2391,CMP-1010,Travis Jones,SMB,Marketing,Closed Won,17107.62,3,2025-09-22,2025-10-25,True,True
+OPP-7782,ACC-2392,CMP-1007,Debbie Glover,Mid-Market,Outbound,Negotiation,70181.48,4,2025-10-08,2026-01-16,,False
+OPP-7783,ACC-2392,,Jordan Allison,Mid-Market,Inbound,Closed Lost,80599.2,4,2025-07-03,2025-09-30,False,True
+OPP-7784,ACC-2392,,Wanda Villa,Mid-Market,Inbound,Closed Lost,85657.51,3,2025-06-27,2025-10-21,False,True
+OPP-7785,ACC-2393,,Jessica Jackson,Enterprise,Outbound,Closed Won,372422.63,1,2024-12-04,2025-08-01,True,True
+OPP-7786,ACC-2393,CMP-1016,Christopher Taylor,Enterprise,Inbound,Closed Won,238407.81,1,2025-03-30,2025-07-06,True,True
+OPP-7787,ACC-2393,CMP-1034,Lonnie Burnett,Enterprise,Marketing,Negotiation,241993.15,1,2025-06-11,2026-01-07,,False
+OPP-7788,ACC-2394,CMP-1028,Alyssa Williams,Enterprise,Outbound,Closed Won,348559.97,1,2024-07-11,2024-11-23,True,True
+OPP-7789,ACC-2394,CMP-1001,Jessica Jackson,Enterprise,Inbound,Closed Lost,150196.54,6,2024-11-28,2025-07-15,False,True
+OPP-7790,ACC-2395,,Cameron Atkins,SMB,Outbound,Closed Lost,15326.81,6,2025-05-15,2025-07-13,False,True
+OPP-7791,ACC-2395,,Brian Morris,SMB,Inbound,Closed Lost,15030.51,4,2025-01-26,2025-03-23,False,True
+OPP-7792,ACC-2396,,Wanda Villa,SMB,Inbound,Closed Won,19936.57,3,2025-11-08,2025-12-09,True,True
+OPP-7793,ACC-2397,CMP-1029,Debbie Glover,SMB,Inbound,Closed Lost,18925.84,1,2025-03-04,2025-04-09,False,True
+OPP-7794,ACC-2397,,Steven Wood,SMB,Partner,Closed Lost,24315.31,2,2025-07-26,2025-08-20,False,True
+OPP-7795,ACC-2397,CMP-1012,Barbara Brooks,SMB,Partner,Closed Lost,23864.75,6,2025-10-30,2025-12-23,False,True
+OPP-7796,ACC-2398,CMP-1026,Cameron Atkins,Mid-Market,Inbound,Closed Lost,43132.62,2,2025-09-26,2025-11-16,False,True
+OPP-7797,ACC-2399,CMP-1037,Jessica Jackson,Enterprise,Inbound,Closed Lost,172008.99,6,2025-06-29,2025-12-11,False,True
+OPP-7798,ACC-2399,CMP-1036,Jordan Allison,Enterprise,Inbound,Closed Lost,271419.13,6,2025-06-17,2025-10-28,False,True
+OPP-7799,ACC-2400,,Steven Wood,Enterprise,Partner,Closed Lost,246167.23,1,2025-02-14,2025-07-07,False,True
+OPP-7800,ACC-2400,CMP-1011,Brian Morris,Enterprise,Outbound,Closed Lost,99748.9,4,2024-09-17,2025-02-20,False,True
+OPP-7801,ACC-2401,CMP-1006,Wanda Villa,SMB,Outbound,Closed Lost,23025.5,1,2025-07-15,2025-08-18,False,True
+OPP-7802,ACC-2401,CMP-1022,Steven Wood,SMB,Inbound,Closed Lost,23059.6,4,2025-07-12,2025-08-05,False,True
+OPP-7803,ACC-2401,CMP-1027,Debbie Glover,SMB,Partner,Closed Lost,14128.91,4,2025-07-25,2025-09-11,False,True
+OPP-7804,ACC-2402,,Debbie Glover,SMB,Marketing,Closed Lost,11003.47,5,2025-06-26,2025-07-26,False,True
+OPP-7805,ACC-2403,CMP-1019,Lonnie Burnett,Mid-Market,Marketing,Closed Lost,26856.09,6,2024-12-18,2025-03-27,False,True
+OPP-7806,ACC-2404,CMP-1005,Alyssa Williams,SMB,Inbound,Proposal,20771.39,2,2025-12-09,2026-01-04,,False
+OPP-7807,ACC-2404,CMP-1011,Alyssa Williams,SMB,Inbound,Negotiation,5016.86,1,2025-11-28,2026-01-03,,False
+OPP-7808,ACC-2404,CMP-1035,Wanda Villa,SMB,Marketing,Prospecting,19482.69,3,2025-12-11,2026-01-05,,False
+OPP-7809,ACC-2405,CMP-1030,Barbara Brooks,SMB,Partner,Closed Lost,18735.73,4,2025-05-11,2025-06-24,False,True
+OPP-7810,ACC-2406,CMP-1020,Alyssa Williams,Enterprise,Marketing,Closed Won,379931.34,6,2025-04-03,2025-10-09,True,True
+OPP-7811,ACC-2406,,Travis Jones,Enterprise,Outbound,Closed Won,241375.89,2,2025-05-11,2025-11-17,True,True
+OPP-7812,ACC-2406,CMP-1038,Steven Wood,Enterprise,Partner,Closed Lost,245451.34,1,2025-01-04,2025-06-03,False,True
+OPP-7813,ACC-2407,CMP-1024,Brian Morris,SMB,Partner,Closed Won,11038.76,4,2025-09-18,2025-10-16,True,True
+OPP-7814,ACC-2407,CMP-1026,Wanda Villa,SMB,Inbound,Closed Lost,14613.04,4,2025-04-09,2025-05-02,False,True
+OPP-7815,ACC-2407,,Debbie Glover,SMB,Partner,Closed Lost,11925.74,4,2025-06-11,2025-08-07,False,True
+OPP-7816,ACC-2408,CMP-1025,Lonnie Burnett,Enterprise,Outbound,Closed Lost,302752.58,1,2025-06-09,2025-10-09,False,True
+OPP-7817,ACC-2409,,Lonnie Burnett,Enterprise,Partner,Negotiation,245639.09,5,2025-11-15,2026-03-14,,False
+OPP-7818,ACC-2409,CMP-1009,Wanda Villa,Enterprise,Inbound,Closed Lost,208876.27,6,2024-08-22,2025-01-04,False,True
+OPP-7819,ACC-2410,CMP-1018,Lonnie Burnett,SMB,Inbound,Closed Lost,14099.79,4,2024-05-17,2024-06-16,False,True
+OPP-7820,ACC-2410,CMP-1018,Lonnie Burnett,SMB,Partner,Closed Lost,10046.54,1,2024-09-29,2024-11-11,False,True
+OPP-7821,ACC-2410,CMP-1002,Jessica Jackson,SMB,Outbound,Closed Lost,5350.38,3,2025-05-15,2025-07-02,False,True
+OPP-7822,ACC-2411,CMP-1009,Brian Morris,Enterprise,Outbound,Closed Won,255845.41,4,2025-04-20,2025-10-28,True,True
+OPP-7823,ACC-2411,,Cameron Atkins,Enterprise,Marketing,Qualification,374820.29,5,2025-12-01,2026-06-26,,False
+OPP-7824,ACC-2411,CMP-1006,Barbara Brooks,Enterprise,Inbound,Closed Won,101869.09,6,2025-08-16,2025-11-24,True,True
+OPP-7825,ACC-2412,,Wanda Villa,Enterprise,Partner,Prospecting,147018.41,6,2025-09-21,2026-04-07,,False
+OPP-7826,ACC-2413,CMP-1015,Lonnie Burnett,SMB,Partner,Closed Lost,11064.03,1,2025-11-09,2025-12-20,False,True
+OPP-7827,ACC-2414,,Wanda Villa,Enterprise,Inbound,Proposal,321529.64,6,2025-11-19,2026-04-13,,False
+OPP-7828,ACC-2414,CMP-1026,Christopher Taylor,Enterprise,Partner,Closed Won,91565.83,3,2025-01-05,2025-05-21,True,True
+OPP-7829,ACC-2415,CMP-1039,Brian Morris,SMB,Inbound,Closed Lost,19180.17,6,2025-11-15,2025-12-28,False,True
+OPP-7830,ACC-2415,CMP-1035,Wanda Villa,SMB,Inbound,Proposal,15829.16,3,2025-12-25,2026-02-15,,False
+OPP-7831,ACC-2416,CMP-1024,Debbie Glover,SMB,Inbound,Negotiation,9212.75,1,2025-12-06,2026-01-11,,False
+OPP-7832,ACC-2416,CMP-1013,Christopher Taylor,SMB,Partner,Negotiation,16226.51,5,2025-12-01,2026-01-26,,False
+OPP-7833,ACC-2417,CMP-1010,Debbie Glover,SMB,Outbound,Closed Lost,5591.29,5,2025-11-03,2025-12-06,False,True
+OPP-7834,ACC-2417,CMP-1034,Jessica Jackson,SMB,Inbound,Closed Lost,14815.14,5,2025-07-25,2025-09-04,False,True
+OPP-7835,ACC-2418,CMP-1010,Brian Morris,SMB,Partner,Closed Lost,16414.9,6,2025-04-20,2025-05-10,False,True
+OPP-7836,ACC-2419,CMP-1023,Brian Morris,SMB,Outbound,Closed Lost,16984.97,6,2025-09-25,2025-11-13,False,True
+OPP-7837,ACC-2419,CMP-1029,Travis Jones,SMB,Inbound,Closed Lost,9501.98,4,2025-07-27,2025-09-22,False,True
+OPP-7838,ACC-2420,CMP-1006,Jordan Allison,Enterprise,Inbound,Proposal,326509.82,6,2025-10-26,2026-04-07,,False
+OPP-7839,ACC-2421,CMP-1032,Christopher Taylor,SMB,Marketing,Closed Won,9483.85,5,2025-08-15,2025-09-24,True,True
+OPP-7840,ACC-2421,CMP-1005,Steven Wood,SMB,Marketing,Closed Lost,8329.18,1,2025-08-05,2025-09-24,False,True
+OPP-7841,ACC-2422,CMP-1023,Travis Jones,Enterprise,Partner,Closed Lost,353595.79,2,2025-02-09,2025-09-28,False,True
+OPP-7842,ACC-2422,CMP-1036,Steven Wood,Enterprise,Outbound,Closed Won,110091.98,2,2025-03-31,2025-08-19,True,True
+OPP-7843,ACC-2422,CMP-1038,Alyssa Williams,Enterprise,Marketing,Negotiation,245066.63,2,2025-11-14,2026-04-14,,False
+OPP-7844,ACC-2423,,Cameron Atkins,Mid-Market,Marketing,Closed Won,68996.7,4,2025-09-23,2025-11-15,True,True
+OPP-7845,ACC-2424,,Barbara Brooks,Enterprise,Partner,Closed Lost,278162.84,4,2024-11-22,2025-07-07,False,True
+OPP-7846,ACC-2425,CMP-1025,Wanda Villa,Mid-Market,Partner,Closed Lost,72134.79,5,2024-12-23,2025-02-13,False,True
+OPP-7847,ACC-2425,,Barbara Brooks,Mid-Market,Outbound,Closed Won,80059.57,1,2025-03-31,2025-07-10,True,True
+OPP-7848,ACC-2426,,Christopher Taylor,Mid-Market,Inbound,Closed Lost,84343.35,1,2024-12-06,2025-03-07,False,True
+OPP-7849,ACC-2426,CMP-1018,Cameron Atkins,Mid-Market,Partner,Closed Lost,40907.35,3,2025-09-30,2025-11-23,False,True
+OPP-7850,ACC-2426,CMP-1018,Jessica Jackson,Mid-Market,Inbound,Closed Lost,74485.98,3,2025-02-17,2025-05-06,False,True
+OPP-7851,ACC-2427,CMP-1028,Cameron Atkins,SMB,Partner,Closed Won,17677.89,2,2025-02-23,2025-04-01,True,True
+OPP-7852,ACC-2427,CMP-1001,Lonnie Burnett,SMB,Marketing,Closed Lost,12684.53,5,2025-09-04,2025-11-01,False,True
+OPP-7853,ACC-2427,,Jordan Allison,SMB,Marketing,Closed Lost,19422.79,4,2024-12-12,2025-01-14,False,True
+OPP-7854,ACC-2428,CMP-1023,Christopher Taylor,SMB,Inbound,Closed Won,22052.21,4,2024-08-07,2024-09-29,True,True
+OPP-7855,ACC-2428,CMP-1004,Debbie Glover,SMB,Inbound,Closed Won,22942.67,3,2025-02-17,2025-04-13,True,True
+OPP-7856,ACC-2429,CMP-1029,Lonnie Burnett,Enterprise,Outbound,Prospecting,291498.97,6,2025-09-16,2026-02-24,,False
+OPP-7857,ACC-2430,CMP-1021,Steven Wood,SMB,Outbound,Closed Lost,12969.82,3,2024-11-08,2024-12-25,False,True
+OPP-7858,ACC-2431,CMP-1011,Jordan Allison,SMB,Partner,Closed Lost,15458.98,6,2025-09-17,2025-11-04,False,True
+OPP-7859,ACC-2431,CMP-1017,Alyssa Williams,SMB,Inbound,Prospecting,24587.55,2,2025-12-16,2026-01-14,,False
+OPP-7860,ACC-2431,CMP-1037,Travis Jones,SMB,Outbound,Closed Lost,9154.64,1,2025-10-27,2025-12-26,False,True
+OPP-7861,ACC-2432,CMP-1012,Brian Morris,Mid-Market,Inbound,Negotiation,32566.42,5,2025-12-11,2026-03-06,,False
+OPP-7862,ACC-2432,,Lonnie Burnett,Mid-Market,Inbound,Prospecting,62811.38,4,2025-10-06,2026-01-21,,False
+OPP-7863,ACC-2432,CMP-1026,Christopher Taylor,Mid-Market,Outbound,Closed Lost,54656.54,4,2025-09-18,2025-11-26,False,True
+OPP-7864,ACC-2433,CMP-1034,Debbie Glover,SMB,Inbound,Proposal,24028.71,3,2025-12-27,2026-01-21,,False
+OPP-7865,ACC-2433,,Jessica Jackson,SMB,Inbound,Negotiation,7229.4,1,2025-11-12,2026-01-08,,False
+OPP-7866,ACC-2433,,Debbie Glover,SMB,Partner,Qualification,8575.9,1,2025-12-05,2026-01-08,,False
+OPP-7867,ACC-2434,CMP-1032,Brian Morris,SMB,Inbound,Closed Lost,20257.05,5,2025-05-11,2025-06-15,False,True
+OPP-7868,ACC-2434,CMP-1012,Lonnie Burnett,SMB,Partner,Closed Won,18437.74,2,2025-08-02,2025-09-15,True,True
+OPP-7869,ACC-2435,,Travis Jones,Mid-Market,Partner,Negotiation,67476.89,3,2025-11-03,2026-01-07,,False
+OPP-7870,ACC-2436,CMP-1020,Steven Wood,SMB,Outbound,Closed Won,11674.44,4,2024-11-15,2024-12-15,True,True
+OPP-7871,ACC-2437,CMP-1008,Wanda Villa,SMB,Marketing,Closed Won,13175.76,3,2024-04-26,2024-06-04,True,True
+OPP-7872,ACC-2437,CMP-1020,Christopher Taylor,SMB,Outbound,Closed Lost,10895.94,4,2024-10-13,2024-10-28,False,True
+OPP-7873,ACC-2437,CMP-1017,Cameron Atkins,SMB,Inbound,Closed Won,9299.6,2,2025-06-27,2025-07-31,True,True
+OPP-7874,ACC-2438,,Jordan Allison,Mid-Market,Partner,Closed Lost,50354.1,2,2025-05-18,2025-09-01,False,True
+OPP-7875,ACC-2439,CMP-1023,Jordan Allison,SMB,Outbound,Closed Won,17792.57,3,2025-02-04,2025-03-28,True,True
+OPP-7876,ACC-2439,,Cameron Atkins,SMB,Marketing,Closed Won,24543.58,2,2024-01-31,2024-02-21,True,True
+OPP-7877,ACC-2440,CMP-1016,Travis Jones,SMB,Outbound,Closed Won,9904.53,3,2025-08-20,2025-09-22,True,True
+OPP-7878,ACC-2440,,Barbara Brooks,SMB,Marketing,Closed Lost,18985.03,3,2025-08-21,2025-10-18,False,True
+OPP-7879,ACC-2440,CMP-1016,Steven Wood,SMB,Inbound,Closed Lost,14216.07,6,2025-09-13,2025-10-25,False,True
+OPP-7880,ACC-2441,CMP-1033,Wanda Villa,Mid-Market,Inbound,Closed Lost,56613.24,5,2024-03-24,2024-05-23,False,True
+OPP-7881,ACC-2442,CMP-1034,Jordan Allison,SMB,Outbound,Closed Lost,22461.62,5,2024-07-17,2024-08-01,False,True
+OPP-7882,ACC-2442,CMP-1010,Lonnie Burnett,SMB,Partner,Closed Won,16165.81,1,2024-07-02,2024-08-06,True,True
+OPP-7883,ACC-2443,CMP-1009,Christopher Taylor,Mid-Market,Partner,Closed Lost,42996.22,1,2025-10-01,2025-12-09,False,True
+OPP-7884,ACC-2443,,Debbie Glover,Mid-Market,Outbound,Closed Lost,70018.1,1,2025-08-24,2025-12-20,False,True
+OPP-7885,ACC-2443,CMP-1027,Jordan Allison,Mid-Market,Inbound,Negotiation,26226.66,2,2025-11-25,2026-03-23,,False
+OPP-7886,ACC-2444,CMP-1022,Debbie Glover,SMB,Marketing,Qualification,20398.56,6,2025-12-17,2026-02-12,,False
+OPP-7887,ACC-2444,CMP-1034,Alyssa Williams,SMB,Outbound,Qualification,11169.63,1,2025-12-27,2026-02-15,,False
+OPP-7888,ACC-2444,CMP-1013,Barbara Brooks,SMB,Inbound,Closed Lost,11306.72,2,2025-11-11,2025-12-03,False,True
+OPP-7889,ACC-2445,,Steven Wood,Mid-Market,Outbound,Prospecting,33925.29,4,2025-12-09,2026-02-21,,False
+OPP-7890,ACC-2445,CMP-1013,Wanda Villa,Mid-Market,Partner,Prospecting,54042.81,5,2025-11-13,2026-02-22,,False
+OPP-7891,ACC-2446,CMP-1031,Lonnie Burnett,Enterprise,Partner,Prospecting,140493.73,3,2025-12-26,2026-08-02,,False
+OPP-7892,ACC-2447,CMP-1016,Brian Morris,SMB,Outbound,Closed Lost,20995.82,4,2025-05-16,2025-06-19,False,True
+OPP-7893,ACC-2447,CMP-1019,Wanda Villa,SMB,Marketing,Closed Lost,22149.86,4,2024-09-08,2024-09-23,False,True
+OPP-7894,ACC-2447,,Cameron Atkins,SMB,Marketing,Prospecting,18008.65,1,2025-12-04,2026-01-28,,False
+OPP-7895,ACC-2448,CMP-1033,Alyssa Williams,SMB,Inbound,Closed Lost,8547.17,6,2025-07-09,2025-09-07,False,True
+OPP-7896,ACC-2448,CMP-1023,Lonnie Burnett,SMB,Outbound,Closed Lost,22326.9,2,2025-05-12,2025-06-25,False,True
+OPP-7897,ACC-2449,,Alyssa Williams,Enterprise,Partner,Qualification,203171.08,1,2025-11-04,2026-06-14,,False
+OPP-7898,ACC-2449,CMP-1020,Wanda Villa,Enterprise,Inbound,Closed Lost,371784.06,1,2025-01-17,2025-07-04,False,True
+OPP-7899,ACC-2450,CMP-1024,Cameron Atkins,SMB,Partner,Closed Lost,23271.54,6,2025-09-05,2025-09-20,False,True
+OPP-7900,ACC-2450,CMP-1004,Barbara Brooks,SMB,Inbound,Closed Won,22943.77,4,2024-02-16,2024-04-03,True,True
+OPP-7901,ACC-2451,CMP-1030,Alyssa Williams,Enterprise,Outbound,Closed Lost,340921.79,3,2025-03-26,2025-10-14,False,True
+OPP-7902,ACC-2451,,Steven Wood,Enterprise,Marketing,Prospecting,238114.85,2,2025-10-30,2026-06-15,,False
+OPP-7903,ACC-2452,CMP-1025,Alyssa Williams,SMB,Inbound,Closed Lost,6643.78,5,2025-05-29,2025-06-26,False,True
+OPP-7904,ACC-2453,,Alyssa Williams,Mid-Market,Outbound,Closed Lost,44572.03,5,2025-10-06,2025-12-18,False,True
+OPP-7905,ACC-2454,CMP-1037,Alyssa Williams,SMB,Partner,Proposal,13440.42,1,2025-12-16,2026-02-01,,False
+OPP-7906,ACC-2454,,Alyssa Williams,SMB,Inbound,Closed Won,17692.61,4,2025-11-05,2025-12-13,True,True
+OPP-7907,ACC-2454,CMP-1036,Debbie Glover,SMB,Outbound,Closed Lost,11878.04,2,2025-11-10,2025-12-14,False,True
+OPP-7908,ACC-2455,,Debbie Glover,Mid-Market,Marketing,Closed Won,43154.84,3,2024-10-18,2025-01-04,True,True
+OPP-7909,ACC-2455,CMP-1021,Debbie Glover,Mid-Market,Partner,Closed Lost,54660.54,3,2024-11-27,2025-02-12,False,True
+OPP-7910,ACC-2456,,Travis Jones,SMB,Marketing,Qualification,6891.67,1,2025-12-18,2026-01-24,,False
+OPP-7911,ACC-2457,,Steven Wood,SMB,Inbound,Closed Lost,13723.28,5,2025-06-28,2025-08-26,False,True
+OPP-7912,ACC-2457,,Brian Morris,SMB,Inbound,Closed Won,18611.49,6,2025-11-12,2025-12-07,True,True
+OPP-7913,ACC-2457,,Lonnie Burnett,SMB,Inbound,Closed Lost,15500.9,2,2025-10-12,2025-11-17,False,True
+OPP-7914,ACC-2458,CMP-1039,Alyssa Williams,Mid-Market,Inbound,Prospecting,69225.8,6,2025-12-11,2026-02-15,,False
+OPP-7915,ACC-2458,,Brian Morris,Mid-Market,Outbound,Proposal,28179.29,4,2025-12-18,2026-04-11,,False
+OPP-7916,ACC-2458,,Debbie Glover,Mid-Market,Inbound,Proposal,33847.79,3,2025-12-11,2026-03-19,,False
+OPP-7917,ACC-2459,CMP-1026,Cameron Atkins,SMB,Inbound,Closed Lost,24185.52,4,2025-09-25,2025-11-13,False,True
+OPP-7918,ACC-2459,CMP-1022,Alyssa Williams,SMB,Inbound,Closed Lost,12819.99,3,2025-03-15,2025-04-08,False,True
+OPP-7919,ACC-2459,CMP-1028,Cameron Atkins,SMB,Inbound,Closed Lost,23886.82,3,2024-08-26,2024-09-17,False,True
+OPP-7920,ACC-2460,CMP-1014,Jessica Jackson,SMB,Partner,Closed Lost,20433.16,3,2025-01-08,2025-01-22,False,True
+OPP-7921,ACC-2460,,Alyssa Williams,SMB,Inbound,Closed Won,24579.86,3,2025-06-27,2025-07-18,True,True
+OPP-7922,ACC-2461,,Christopher Taylor,SMB,Partner,Closed Lost,16699.57,4,2025-07-02,2025-08-09,False,True
+OPP-7923,ACC-2462,CMP-1023,Barbara Brooks,SMB,Inbound,Closed Lost,17066.32,6,2025-11-22,2025-12-20,False,True
+OPP-7924,ACC-2462,CMP-1017,Jordan Allison,SMB,Marketing,Closed Lost,22303.34,6,2024-10-24,2024-12-08,False,True
+OPP-7925,ACC-2463,,Steven Wood,Mid-Market,Inbound,Closed Won,31573.51,4,2025-04-28,2025-08-04,True,True
+OPP-7926,ACC-2463,,Christopher Taylor,Mid-Market,Outbound,Closed Won,89824.66,5,2025-03-13,2025-07-11,True,True
+OPP-7927,ACC-2463,CMP-1006,Christopher Taylor,Mid-Market,Outbound,Closed Lost,64108.05,1,2025-06-25,2025-09-26,False,True
+OPP-7928,ACC-2464,,Wanda Villa,Mid-Market,Marketing,Prospecting,47574.79,5,2025-11-13,2026-03-12,,False
+OPP-7929,ACC-2465,CMP-1021,Christopher Taylor,SMB,Inbound,Closed Lost,9320.79,4,2025-12-11,2025-12-27,False,True
+OPP-7930,ACC-2465,,Steven Wood,SMB,Inbound,Closed Lost,11880.99,4,2025-11-01,2025-11-16,False,True
+OPP-7931,ACC-2465,,Cameron Atkins,SMB,Inbound,Closed Lost,10263.47,5,2025-10-14,2025-10-31,False,True
+OPP-7932,ACC-2466,CMP-1039,Alyssa Williams,Enterprise,Outbound,Negotiation,355560.37,2,2025-07-20,2026-01-15,,False
+OPP-7933,ACC-2466,CMP-1031,Cameron Atkins,Enterprise,Outbound,Prospecting,288230.04,4,2025-11-10,2026-03-05,,False
+OPP-7934,ACC-2466,,Steven Wood,Enterprise,Partner,Proposal,339828.22,2,2025-08-06,2026-03-08,,False
+OPP-7935,ACC-2467,CMP-1018,Lonnie Burnett,SMB,Partner,Closed Lost,15122.39,5,2025-09-19,2025-10-04,False,True
+OPP-7936,ACC-2467,,Brian Morris,SMB,Partner,Closed Won,19233.31,3,2025-11-03,2025-11-28,True,True
+OPP-7937,ACC-2468,CMP-1018,Steven Wood,SMB,Outbound,Closed Lost,23425.17,1,2025-06-25,2025-08-23,False,True
+OPP-7938,ACC-2469,CMP-1031,Brian Morris,SMB,Inbound,Closed Lost,18350.43,6,2024-04-30,2024-05-28,False,True
+OPP-7939,ACC-2469,CMP-1015,Debbie Glover,SMB,Marketing,Closed Lost,9319.36,5,2025-07-23,2025-08-20,False,True
+OPP-7940,ACC-2470,CMP-1033,Travis Jones,SMB,Outbound,Closed Lost,8844.78,6,2025-08-22,2025-10-03,False,True
+OPP-7941,ACC-2470,,Cameron Atkins,SMB,Outbound,Closed Lost,12279.38,3,2025-09-08,2025-10-28,False,True
+OPP-7942,ACC-2471,,Barbara Brooks,Mid-Market,Marketing,Closed Lost,33742.03,2,2025-04-02,2025-07-25,False,True
+OPP-7943,ACC-2472,CMP-1038,Travis Jones,Mid-Market,Inbound,Closed Lost,59798.39,3,2025-03-09,2025-05-09,False,True
+OPP-7944,ACC-2472,CMP-1039,Debbie Glover,Mid-Market,Outbound,Proposal,62326.84,5,2025-12-12,2026-04-06,,False
+OPP-7945,ACC-2472,CMP-1022,Jordan Allison,Mid-Market,Outbound,Closed Lost,61334.74,6,2024-09-05,2024-10-28,False,True
+OPP-7946,ACC-2473,,Cameron Atkins,SMB,Inbound,Closed Lost,10040.24,5,2024-06-21,2024-07-09,False,True
+OPP-7947,ACC-2474,CMP-1019,Brian Morris,SMB,Inbound,Closed Lost,11196.51,5,2025-04-26,2025-06-06,False,True
+OPP-7948,ACC-2474,,Travis Jones,SMB,Marketing,Closed Lost,16737.45,1,2025-11-15,2025-12-31,False,True
+OPP-7949,ACC-2475,,Barbara Brooks,SMB,Partner,Closed Lost,15595.44,2,2025-09-18,2025-10-24,False,True
+OPP-7950,ACC-2475,CMP-1005,Jordan Allison,SMB,Inbound,Closed Lost,14899.5,4,2024-12-28,2025-02-18,False,True
+OPP-7951,ACC-2475,CMP-1006,Wanda Villa,SMB,Inbound,Closed Lost,7770.19,2,2024-11-14,2025-01-03,False,True
+OPP-7952,ACC-2476,CMP-1022,Barbara Brooks,SMB,Marketing,Qualification,10210.11,6,2025-12-24,2026-02-03,,False
+OPP-7953,ACC-2476,CMP-1035,Barbara Brooks,SMB,Inbound,Closed Lost,5408.02,3,2025-08-16,2025-09-04,False,True
+OPP-7954,ACC-2476,CMP-1036,Travis Jones,SMB,Outbound,Closed Won,11537.19,1,2025-10-07,2025-10-27,True,True
+OPP-7955,ACC-2477,,Travis Jones,SMB,Marketing,Closed Won,11904.96,5,2025-10-16,2025-11-11,True,True
+OPP-7956,ACC-2478,CMP-1028,Cameron Atkins,Enterprise,Inbound,Closed Lost,329314.92,1,2024-10-02,2025-04-22,False,True
+OPP-7957,ACC-2478,CMP-1033,Jessica Jackson,Enterprise,Inbound,Prospecting,198206.75,1,2025-08-26,2026-02-11,,False
+OPP-7958,ACC-2479,CMP-1028,Debbie Glover,SMB,Marketing,Closed Lost,15959.61,6,2025-05-16,2025-06-11,False,True
+OPP-7959,ACC-2479,,Brian Morris,SMB,Inbound,Closed Lost,9789.03,4,2025-11-10,2025-12-29,False,True
+OPP-7960,ACC-2480,CMP-1033,Christopher Taylor,SMB,Inbound,Closed Lost,21781.24,6,2024-05-16,2024-06-21,False,True
+OPP-7961,ACC-2481,CMP-1012,Cameron Atkins,Enterprise,Inbound,Closed Lost,212197.32,2,2024-11-19,2025-07-14,False,True
+OPP-7962,ACC-2481,CMP-1001,Christopher Taylor,Enterprise,Outbound,Closed Lost,224893.04,3,2025-02-21,2025-08-04,False,True
+OPP-7963,ACC-2482,,Debbie Glover,Mid-Market,Partner,Closed Lost,75098.15,5,2025-06-16,2025-09-18,False,True
+OPP-7964,ACC-2482,,Jessica Jackson,Mid-Market,Outbound,Qualification,66660.61,1,2025-11-23,2026-01-31,,False
+OPP-7965,ACC-2482,,Steven Wood,Mid-Market,Marketing,Closed Lost,28408.29,6,2025-04-14,2025-07-17,False,True
+OPP-7966,ACC-2483,CMP-1029,Steven Wood,Enterprise,Marketing,Closed Lost,103863.42,2,2024-08-09,2025-03-17,False,True
+OPP-7967,ACC-2483,CMP-1000,Cameron Atkins,Enterprise,Inbound,Closed Won,154088.45,4,2025-01-04,2025-04-22,True,True
+OPP-7968,ACC-2483,,Jordan Allison,Enterprise,Inbound,Closed Lost,294474.2,2,2024-04-07,2024-09-18,False,True
+OPP-7969,ACC-2484,CMP-1016,Jordan Allison,SMB,Marketing,Qualification,7833.39,4,2025-12-05,2026-01-02,,False
+OPP-7970,ACC-2484,,Brian Morris,SMB,Outbound,Closed Lost,18066.73,1,2025-05-24,2025-07-20,False,True
+OPP-7971,ACC-2485,CMP-1025,Brian Morris,SMB,Inbound,Closed Lost,14764.33,4,2024-08-14,2024-09-23,False,True
+OPP-7972,ACC-2485,,Christopher Taylor,SMB,Inbound,Closed Won,8178.48,5,2025-12-09,2025-12-31,True,True
+OPP-7973,ACC-2486,CMP-1006,Jessica Jackson,SMB,Partner,Closed Lost,10694.1,4,2025-05-01,2025-05-25,False,True
+OPP-7974,ACC-2486,CMP-1030,Debbie Glover,SMB,Inbound,Closed Won,15364.51,2,2025-03-16,2025-04-11,True,True
+OPP-7975,ACC-2487,CMP-1028,Cameron Atkins,SMB,Partner,Closed Lost,9835.04,4,2025-11-22,2025-12-30,False,True
+OPP-7976,ACC-2488,CMP-1009,Brian Morris,SMB,Inbound,Closed Lost,5875.16,3,2024-05-03,2024-05-19,False,True
+OPP-7977,ACC-2488,CMP-1018,Brian Morris,SMB,Outbound,Closed Lost,6128.56,2,2025-02-20,2025-03-17,False,True
+OPP-7978,ACC-2488,CMP-1015,Christopher Taylor,SMB,Outbound,Closed Lost,5506.19,3,2024-08-01,2024-08-26,False,True
+OPP-7979,ACC-2489,CMP-1034,Steven Wood,Mid-Market,Inbound,Closed Won,69509.58,6,2025-02-11,2025-04-15,True,True
+OPP-7980,ACC-2489,CMP-1024,Jordan Allison,Mid-Market,Inbound,Closed Won,31746.52,1,2025-02-25,2025-05-22,True,True
+OPP-7981,ACC-2489,CMP-1001,Brian Morris,Mid-Market,Outbound,Closed Lost,27287.69,4,2025-02-12,2025-06-09,False,True
+OPP-7982,ACC-2490,,Christopher Taylor,SMB,Partner,Closed Lost,13993.42,5,2025-09-22,2025-11-16,False,True
+OPP-7983,ACC-2490,CMP-1023,Debbie Glover,SMB,Inbound,Closed Lost,8062.76,3,2025-05-02,2025-06-01,False,True
+OPP-7984,ACC-2490,CMP-1019,Jessica Jackson,SMB,Inbound,Closed Lost,12361.56,4,2025-06-10,2025-08-03,False,True
+OPP-7985,ACC-2491,CMP-1025,Wanda Villa,Enterprise,Outbound,Qualification,350441.96,4,2025-08-21,2026-01-16,,False
+OPP-7986,ACC-2491,CMP-1025,Wanda Villa,Enterprise,Inbound,Negotiation,202703.68,5,2025-08-11,2026-03-02,,False
+OPP-7987,ACC-2492,CMP-1039,Lonnie Burnett,SMB,Inbound,Closed Won,22472.12,4,2025-07-05,2025-08-03,True,True
+OPP-7988,ACC-2493,CMP-1028,Brian Morris,Mid-Market,Inbound,Closed Lost,55565.11,5,2025-05-28,2025-08-28,False,True
+OPP-7989,ACC-2493,CMP-1033,Brian Morris,Mid-Market,Outbound,Closed Lost,82845.1,4,2025-08-07,2025-09-27,False,True
+OPP-7990,ACC-2493,,Lonnie Burnett,Mid-Market,Outbound,Closed Lost,42765.8,2,2025-06-22,2025-09-01,False,True
+OPP-7991,ACC-2494,CMP-1008,Alyssa Williams,SMB,Partner,Negotiation,11329.81,4,2025-12-20,2026-01-28,,False
+OPP-7992,ACC-2494,CMP-1003,Christopher Taylor,SMB,Inbound,Closed Won,6307.18,1,2025-10-21,2025-11-24,True,True
+OPP-7993,ACC-2494,,Cameron Atkins,SMB,Inbound,Closed Won,9260.24,3,2025-11-04,2025-12-08,True,True
+OPP-7994,ACC-2495,CMP-1035,Cameron Atkins,Mid-Market,Inbound,Qualification,43833.17,2,2025-12-29,2026-04-13,,False
+OPP-7995,ACC-2495,CMP-1030,Travis Jones,Mid-Market,Partner,Negotiation,35288.23,3,2025-12-20,2026-03-28,,False
+OPP-7996,ACC-2495,CMP-1002,Christopher Taylor,Mid-Market,Inbound,Qualification,84097.01,4,2025-12-17,2026-03-03,,False
+OPP-7997,ACC-2496,CMP-1011,Jordan Allison,SMB,Outbound,Proposal,23618.84,1,2025-12-18,2026-01-25,,False
+OPP-7998,ACC-2496,CMP-1008,Steven Wood,SMB,Outbound,Prospecting,22729.81,6,2025-12-05,2026-01-19,,False
+OPP-7999,ACC-2497,,Christopher Taylor,SMB,Inbound,Closed Lost,19228.16,5,2025-12-01,2025-12-24,False,True
+OPP-8000,ACC-2497,CMP-1017,Alyssa Williams,SMB,Marketing,Proposal,22025.06,1,2025-12-25,2026-02-08,,False
+OPP-8001,ACC-2498,CMP-1027,Christopher Taylor,SMB,Inbound,Closed Lost,11132.72,3,2025-07-23,2025-08-26,False,True
+OPP-8002,ACC-2498,,Steven Wood,SMB,Outbound,Closed Lost,7613.0,6,2024-07-08,2024-09-02,False,True
+OPP-8003,ACC-2499,CMP-1017,Brian Morris,SMB,Partner,Closed Lost,12600.34,3,2024-04-16,2024-05-01,False,True
+OPP-8004,ACC-2499,CMP-1016,Wanda Villa,SMB,Outbound,Closed Lost,7646.8,4,2025-09-06,2025-10-13,False,True
+OPP-8005,ACC-2499,CMP-1020,Debbie Glover,SMB,Marketing,Closed Lost,6695.91,1,2024-09-17,2024-10-19,False,True
+OPP-8006,ACC-2500,CMP-1015,Barbara Brooks,SMB,Partner,Closed Won,6299.18,1,2025-09-16,2025-10-08,True,True
+OPP-8007,ACC-2501,,Lonnie Burnett,SMB,Marketing,Closed Won,16655.1,6,2025-07-19,2025-09-17,True,True
+OPP-8008,ACC-2502,,Jordan Allison,SMB,Inbound,Closed Lost,8990.43,1,2025-08-24,2025-10-19,False,True
+OPP-8009,ACC-2502,CMP-1005,Wanda Villa,SMB,Inbound,Closed Lost,9661.51,6,2024-12-15,2025-02-12,False,True
+OPP-8010,ACC-2503,CMP-1018,Cameron Atkins,SMB,Partner,Closed Lost,17109.16,5,2025-12-02,2025-12-28,False,True
+OPP-8011,ACC-2503,CMP-1009,Travis Jones,SMB,Marketing,Closed Won,8517.02,5,2025-08-28,2025-09-14,True,True
+OPP-8012,ACC-2503,,Brian Morris,SMB,Inbound,Qualification,21972.33,4,2025-12-14,2026-01-09,,False
+OPP-8013,ACC-2504,CMP-1022,Travis Jones,SMB,Partner,Closed Lost,9365.16,5,2025-08-06,2025-09-26,False,True
+OPP-8014,ACC-2504,CMP-1003,Alyssa Williams,SMB,Outbound,Closed Won,6255.66,4,2025-09-19,2025-10-03,True,True
+OPP-8015,ACC-2504,,Cameron Atkins,SMB,Marketing,Closed Lost,11367.96,6,2025-06-18,2025-07-07,False,True
+OPP-8016,ACC-2505,CMP-1030,Jessica Jackson,Enterprise,Inbound,Closed Lost,188909.83,3,2024-12-02,2025-07-25,False,True
+OPP-8017,ACC-2505,CMP-1022,Cameron Atkins,Enterprise,Outbound,Qualification,160714.61,4,2025-10-31,2026-06-17,,False
+OPP-8018,ACC-2505,,Debbie Glover,Enterprise,Inbound,Negotiation,137332.3,1,2025-09-12,2026-04-08,,False
+OPP-8019,ACC-2506,,Wanda Villa,SMB,Marketing,Closed Lost,13687.63,2,2025-01-17,2025-02-20,False,True
+OPP-8020,ACC-2507,CMP-1012,Jordan Allison,Enterprise,Inbound,Negotiation,236409.35,4,2025-10-14,2026-02-05,,False
+OPP-8021,ACC-2507,CMP-1031,Jessica Jackson,Enterprise,Outbound,Qualification,148883.28,2,2025-07-22,2026-03-09,,False
+OPP-8022,ACC-2507,,Barbara Brooks,Enterprise,Outbound,Prospecting,385414.6,2,2025-08-22,2026-02-18,,False
+OPP-8023,ACC-2508,CMP-1010,Wanda Villa,Enterprise,Inbound,Negotiation,94019.95,3,2025-08-14,2026-01-06,,False
+OPP-8024,ACC-2509,,Lonnie Burnett,Mid-Market,Marketing,Closed Won,43323.31,2,2024-09-14,2024-12-22,True,True
+OPP-8025,ACC-2509,CMP-1020,Barbara Brooks,Mid-Market,Partner,Closed Won,49050.55,3,2025-03-23,2025-07-18,True,True
+OPP-8026,ACC-2509,CMP-1008,Travis Jones,Mid-Market,Marketing,Closed Lost,76598.17,6,2024-10-19,2025-02-01,False,True
+OPP-8027,ACC-2510,,Brian Morris,Enterprise,Inbound,Negotiation,264622.39,1,2025-09-22,2026-02-19,,False
+OPP-8028,ACC-2510,,Barbara Brooks,Enterprise,Marketing,Closed Lost,233433.67,6,2025-03-01,2025-08-20,False,True
+OPP-8029,ACC-2510,CMP-1009,Wanda Villa,Enterprise,Inbound,Closed Lost,335297.29,1,2024-06-06,2024-12-28,False,True
+OPP-8030,ACC-2511,CMP-1009,Steven Wood,Enterprise,Partner,Proposal,345699.4,3,2025-11-10,2026-02-08,,False
+OPP-8031,ACC-2511,CMP-1007,Brian Morris,Enterprise,Inbound,Qualification,386894.97,1,2025-08-18,2026-04-02,,False
+OPP-8032,ACC-2512,,Jessica Jackson,SMB,Marketing,Closed Lost,12520.18,3,2025-07-26,2025-08-21,False,True
+OPP-8033,ACC-2512,,Jessica Jackson,SMB,Inbound,Closed Won,18032.7,4,2025-06-02,2025-07-02,True,True
+OPP-8034,ACC-2512,CMP-1017,Travis Jones,SMB,Outbound,Closed Won,13882.79,2,2025-04-17,2025-05-10,True,True
+OPP-8035,ACC-2513,CMP-1003,Alyssa Williams,SMB,Marketing,Closed Lost,11456.07,5,2025-07-08,2025-08-29,False,True
+OPP-8036,ACC-2513,CMP-1027,Steven Wood,SMB,Outbound,Closed Lost,12500.58,4,2025-08-03,2025-09-16,False,True
+OPP-8037,ACC-2513,CMP-1032,Christopher Taylor,SMB,Inbound,Closed Lost,16312.34,6,2025-07-15,2025-08-09,False,True
+OPP-8038,ACC-2514,CMP-1015,Barbara Brooks,Mid-Market,Inbound,Closed Won,31646.46,3,2025-08-25,2025-12-11,True,True
+OPP-8039,ACC-2514,CMP-1034,Wanda Villa,Mid-Market,Inbound,Proposal,73805.3,4,2025-11-28,2026-02-24,,False
+OPP-8040,ACC-2514,CMP-1007,Travis Jones,Mid-Market,Partner,Closed Lost,77933.67,3,2025-08-12,2025-11-15,False,True
+OPP-8041,ACC-2515,CMP-1002,Jordan Allison,SMB,Inbound,Closed Won,21857.86,2,2025-07-27,2025-08-25,True,True
+OPP-8042,ACC-2516,CMP-1032,Steven Wood,SMB,Partner,Closed Lost,17686.61,4,2025-07-09,2025-07-31,False,True
+OPP-8043,ACC-2517,CMP-1037,Barbara Brooks,SMB,Outbound,Closed Won,16793.37,3,2025-11-05,2025-12-31,True,True
+OPP-8044,ACC-2518,CMP-1034,Travis Jones,SMB,Inbound,Closed Lost,8283.58,6,2024-05-09,2024-05-28,False,True
+OPP-8045,ACC-2518,,Travis Jones,SMB,Partner,Closed Lost,12768.4,3,2024-08-17,2024-10-09,False,True
+OPP-8046,ACC-2518,CMP-1028,Jessica Jackson,SMB,Outbound,Closed Lost,18009.25,6,2025-01-26,2025-03-02,False,True
+OPP-8047,ACC-2519,CMP-1013,Alyssa Williams,SMB,Inbound,Closed Won,12749.04,5,2024-11-25,2025-01-10,True,True
+OPP-8048,ACC-2519,CMP-1016,Steven Wood,SMB,Inbound,Closed Lost,17956.6,1,2025-06-04,2025-07-07,False,True
+OPP-8049,ACC-2519,,Alyssa Williams,SMB,Inbound,Closed Lost,9127.05,3,2025-02-15,2025-03-20,False,True
+OPP-8050,ACC-2520,,Debbie Glover,SMB,Marketing,Closed Lost,10706.85,2,2025-11-21,2025-12-30,False,True
+OPP-8051,ACC-2520,,Jordan Allison,SMB,Marketing,Closed Lost,22143.32,3,2025-04-15,2025-05-03,False,True
+OPP-8052,ACC-2521,CMP-1027,Barbara Brooks,SMB,Partner,Closed Won,9306.17,3,2024-08-26,2024-10-03,True,True
+OPP-8053,ACC-2521,,Christopher Taylor,SMB,Inbound,Closed Won,20408.87,3,2025-09-21,2025-10-09,True,True
+OPP-8054,ACC-2522,,Debbie Glover,Enterprise,Outbound,Closed Won,124901.9,5,2025-01-25,2025-05-02,True,True
+OPP-8055,ACC-2522,CMP-1009,Jessica Jackson,Enterprise,Inbound,Closed Won,264601.5,4,2025-04-14,2025-09-20,True,True
+OPP-8056,ACC-2523,CMP-1000,Debbie Glover,SMB,Outbound,Closed Lost,14314.03,1,2025-10-11,2025-11-18,False,True
+OPP-8057,ACC-2523,,Cameron Atkins,SMB,Inbound,Closed Lost,14583.42,3,2025-10-09,2025-12-04,False,True
+OPP-8058,ACC-2523,CMP-1027,Jordan Allison,SMB,Outbound,Closed Lost,5882.46,6,2025-12-05,2025-12-31,False,True
+OPP-8059,ACC-2524,,Steven Wood,SMB,Outbound,Closed Won,12345.94,3,2025-10-03,2025-10-31,True,True
+OPP-8060,ACC-2524,CMP-1011,Travis Jones,SMB,Outbound,Closed Won,19703.9,3,2024-12-21,2025-02-15,True,True
+OPP-8061,ACC-2525,CMP-1023,Christopher Taylor,Enterprise,Marketing,Closed Lost,243298.31,1,2024-07-05,2024-11-09,False,True
+OPP-8062,ACC-2525,CMP-1034,Steven Wood,Enterprise,Marketing,Closed Lost,290093.88,2,2024-11-10,2025-03-15,False,True
+OPP-8063,ACC-2526,,Lonnie Burnett,SMB,Inbound,Proposal,15804.22,5,2025-12-26,2026-01-30,,False
+OPP-8064,ACC-2527,CMP-1033,Wanda Villa,SMB,Inbound,Closed Lost,24810.08,1,2025-09-05,2025-10-02,False,True
+OPP-8065,ACC-2528,CMP-1023,Christopher Taylor,SMB,Outbound,Closed Lost,11697.99,4,2025-06-07,2025-07-26,False,True
+OPP-8066,ACC-2528,,Lonnie Burnett,SMB,Inbound,Closed Lost,13159.97,6,2025-07-23,2025-09-08,False,True
+OPP-8067,ACC-2529,CMP-1006,Cameron Atkins,Enterprise,Outbound,Closed Won,336014.14,1,2025-05-11,2025-09-26,True,True
+OPP-8068,ACC-2529,CMP-1006,Wanda Villa,Enterprise,Marketing,Proposal,345821.91,2,2025-10-06,2026-03-06,,False
+OPP-8069,ACC-2529,,Jessica Jackson,Enterprise,Inbound,Closed Won,147571.38,3,2025-08-23,2025-11-28,True,True
+OPP-8070,ACC-2530,CMP-1024,Christopher Taylor,Mid-Market,Inbound,Closed Lost,70358.2,3,2025-01-19,2025-04-28,False,True
+OPP-8071,ACC-2530,CMP-1002,Christopher Taylor,Mid-Market,Outbound,Closed Lost,27721.87,3,2025-01-19,2025-05-19,False,True
+OPP-8072,ACC-2531,CMP-1022,Travis Jones,SMB,Marketing,Closed Lost,13454.03,6,2025-07-02,2025-08-01,False,True
+OPP-8073,ACC-2532,CMP-1005,Debbie Glover,Enterprise,Inbound,Prospecting,237210.25,6,2025-12-15,2026-03-24,,False
+OPP-8074,ACC-2532,,Wanda Villa,Enterprise,Inbound,Proposal,164827.38,3,2025-10-28,2026-05-22,,False
+OPP-8075,ACC-2533,CMP-1037,Lonnie Burnett,SMB,Marketing,Negotiation,6899.08,1,2025-12-25,2026-02-22,,False
+OPP-8076,ACC-2533,CMP-1024,Travis Jones,SMB,Marketing,Qualification,14263.6,5,2025-12-14,2026-01-29,,False
+OPP-8077,ACC-2533,CMP-1028,Lonnie Burnett,SMB,Inbound,Closed Won,15334.73,2,2025-10-25,2025-12-19,True,True
+OPP-8078,ACC-2534,CMP-1030,Barbara Brooks,Mid-Market,Outbound,Closed Lost,87956.71,1,2025-05-15,2025-08-10,False,True
+OPP-8079,ACC-2535,CMP-1037,Jordan Allison,SMB,Marketing,Proposal,8653.56,2,2025-12-23,2026-02-16,,False
+OPP-8080,ACC-2535,,Barbara Brooks,SMB,Outbound,Closed Won,7639.98,1,2025-08-26,2025-10-24,True,True
+OPP-8081,ACC-2536,CMP-1030,Jordan Allison,Mid-Market,Inbound,Proposal,66264.08,4,2025-12-13,2026-03-14,,False
+OPP-8082,ACC-2536,CMP-1030,Barbara Brooks,Mid-Market,Outbound,Closed Won,82055.77,2,2024-12-08,2025-03-17,True,True
+OPP-8083,ACC-2537,CMP-1034,Barbara Brooks,SMB,Inbound,Closed Lost,18292.82,3,2025-08-11,2025-09-01,False,True
+OPP-8084,ACC-2538,CMP-1019,Wanda Villa,SMB,Inbound,Closed Won,5795.12,6,2025-11-20,2025-12-08,True,True
+OPP-8085,ACC-2538,CMP-1037,Jordan Allison,SMB,Outbound,Prospecting,7255.05,3,2025-12-28,2026-02-05,,False
+OPP-8086,ACC-2539,CMP-1006,Brian Morris,SMB,Inbound,Closed Won,14495.19,5,2025-09-04,2025-10-08,True,True
+OPP-8087,ACC-2540,CMP-1004,Alyssa Williams,SMB,Outbound,Closed Lost,22156.91,1,2025-05-13,2025-07-06,False,True
+OPP-8088,ACC-2540,CMP-1014,Christopher Taylor,SMB,Marketing,Closed Lost,21795.42,4,2025-04-24,2025-06-13,False,True
+OPP-8089,ACC-2540,CMP-1023,Steven Wood,SMB,Inbound,Closed Lost,5553.3,5,2025-03-26,2025-04-12,False,True
+OPP-8090,ACC-2541,CMP-1031,Wanda Villa,Mid-Market,Partner,Qualification,40687.14,4,2025-11-06,2026-02-20,,False
+OPP-8091,ACC-2542,CMP-1002,Travis Jones,SMB,Inbound,Closed Won,22833.01,4,2025-06-19,2025-07-04,True,True
+OPP-8092,ACC-2542,,Jessica Jackson,SMB,Marketing,Closed Lost,17105.92,4,2024-11-12,2024-12-13,False,True
+OPP-8093,ACC-2542,CMP-1038,Cameron Atkins,SMB,Partner,Closed Lost,16203.75,5,2024-10-05,2024-11-20,False,True
+OPP-8094,ACC-2543,CMP-1004,Cameron Atkins,SMB,Inbound,Closed Lost,11848.2,3,2025-10-14,2025-11-27,False,True
+OPP-8095,ACC-2544,CMP-1012,Steven Wood,SMB,Inbound,Closed Lost,11483.29,3,2025-05-09,2025-06-10,False,True
+OPP-8096,ACC-2544,CMP-1012,Christopher Taylor,SMB,Partner,Negotiation,10570.44,2,2025-12-11,2026-01-06,,False
+OPP-8097,ACC-2545,,Cameron Atkins,SMB,Outbound,Closed Lost,11422.85,2,2025-09-04,2025-10-06,False,True
+OPP-8098,ACC-2545,CMP-1031,Brian Morris,SMB,Inbound,Closed Lost,17668.88,4,2025-05-25,2025-06-15,False,True
+OPP-8099,ACC-2545,CMP-1016,Debbie Glover,SMB,Inbound,Closed Lost,7926.8,4,2025-11-16,2025-12-30,False,True
+OPP-8100,ACC-2546,CMP-1035,Brian Morris,Enterprise,Outbound,Closed Lost,168991.37,3,2025-01-23,2025-05-10,False,True
+OPP-8101,ACC-2546,CMP-1031,Brian Morris,Enterprise,Outbound,Proposal,105807.84,4,2025-12-26,2026-07-11,,False
+OPP-8102,ACC-2546,,Barbara Brooks,Enterprise,Marketing,Closed Won,128104.15,1,2024-08-21,2025-02-07,True,True
+OPP-8103,ACC-2547,,Travis Jones,Mid-Market,Partner,Closed Won,75951.59,2,2025-09-10,2025-11-07,True,True
+OPP-8104,ACC-2548,,Jordan Allison,SMB,Inbound,Closed Won,24536.73,2,2025-09-22,2025-11-17,True,True
+OPP-8105,ACC-2549,CMP-1037,Travis Jones,SMB,Inbound,Closed Lost,9727.25,2,2025-05-05,2025-06-02,False,True
+OPP-8106,ACC-2550,CMP-1039,Lonnie Burnett,Enterprise,Marketing,Prospecting,385886.73,3,2025-11-10,2026-06-26,,False
+OPP-8107,ACC-2551,CMP-1011,Wanda Villa,SMB,Marketing,Closed Lost,14190.13,3,2025-08-05,2025-08-26,False,True
+OPP-8108,ACC-2551,CMP-1024,Christopher Taylor,SMB,Outbound,Closed Lost,16592.75,2,2024-12-28,2025-01-17,False,True
+OPP-8109,ACC-2552,CMP-1039,Debbie Glover,Enterprise,Partner,Qualification,319140.96,1,2025-09-07,2026-03-29,,False
+OPP-8110,ACC-2553,CMP-1031,Wanda Villa,SMB,Outbound,Closed Lost,15478.71,4,2025-11-25,2025-12-26,False,True
+OPP-8111,ACC-2553,CMP-1024,Alyssa Williams,SMB,Inbound,Closed Lost,17019.07,4,2025-11-04,2025-12-16,False,True
+OPP-8112,ACC-2553,CMP-1014,Steven Wood,SMB,Inbound,Closed Lost,9975.31,4,2025-05-21,2025-06-17,False,True
+OPP-8113,ACC-2554,,Christopher Taylor,SMB,Inbound,Closed Lost,14044.92,3,2025-01-06,2025-03-04,False,True
+OPP-8114,ACC-2555,CMP-1016,Wanda Villa,Mid-Market,Inbound,Closed Lost,84097.22,3,2025-11-08,2025-12-25,False,True
+OPP-8115,ACC-2555,CMP-1038,Alyssa Williams,Mid-Market,Outbound,Closed Won,80487.05,2,2025-04-24,2025-07-11,True,True
+OPP-8116,ACC-2556,CMP-1035,Brian Morris,SMB,Inbound,Closed Won,23317.0,1,2025-05-07,2025-06-14,True,True
+OPP-8117,ACC-2557,,Jessica Jackson,Mid-Market,Inbound,Closed Won,53333.09,4,2025-04-04,2025-07-15,True,True
+OPP-8118,ACC-2557,CMP-1011,Barbara Brooks,Mid-Market,Inbound,Closed Won,30997.61,4,2024-11-08,2025-01-13,True,True
+OPP-8119,ACC-2557,,Jordan Allison,Mid-Market,Inbound,Closed Lost,37700.03,1,2025-07-30,2025-10-04,False,True
+OPP-8120,ACC-2558,CMP-1034,Debbie Glover,SMB,Marketing,Closed Lost,12378.61,2,2025-06-13,2025-07-08,False,True
+OPP-8121,ACC-2558,CMP-1003,Jessica Jackson,SMB,Inbound,Closed Lost,5414.36,2,2025-11-20,2025-12-04,False,True
+OPP-8122,ACC-2559,CMP-1017,Brian Morris,Mid-Market,Outbound,Closed Lost,79228.19,4,2024-10-23,2024-12-26,False,True
+OPP-8123,ACC-2560,CMP-1024,Alyssa Williams,SMB,Inbound,Closed Lost,20090.27,3,2025-10-27,2025-12-25,False,True
+OPP-8124,ACC-2561,CMP-1033,Travis Jones,Mid-Market,Inbound,Negotiation,82771.53,5,2025-12-18,2026-04-04,,False
+OPP-8125,ACC-2561,,Travis Jones,Mid-Market,Inbound,Negotiation,35848.21,1,2025-12-09,2026-03-15,,False
+OPP-8126,ACC-2562,CMP-1023,Barbara Brooks,SMB,Inbound,Closed Lost,13248.26,4,2025-10-06,2025-10-24,False,True
+OPP-8127,ACC-2563,CMP-1008,Christopher Taylor,SMB,Outbound,Closed Lost,13998.81,3,2025-10-14,2025-10-29,False,True
+OPP-8128,ACC-2564,CMP-1029,Brian Morris,SMB,Inbound,Closed Lost,10058.4,2,2025-10-12,2025-11-10,False,True
+OPP-8129,ACC-2564,CMP-1006,Jordan Allison,SMB,Inbound,Closed Lost,7910.75,1,2025-10-17,2025-11-29,False,True
+OPP-8130,ACC-2565,CMP-1030,Barbara Brooks,SMB,Inbound,Closed Lost,12095.49,4,2025-04-18,2025-05-31,False,True
+OPP-8131,ACC-2565,CMP-1006,Brian Morris,SMB,Inbound,Closed Lost,15134.35,6,2025-03-27,2025-04-14,False,True
+OPP-8132,ACC-2566,CMP-1025,Travis Jones,SMB,Inbound,Closed Won,15421.82,5,2025-09-04,2025-10-05,True,True
+OPP-8133,ACC-2566,CMP-1028,Jessica Jackson,SMB,Partner,Closed Lost,21024.48,4,2025-08-28,2025-10-10,False,True
+OPP-8134,ACC-2566,,Cameron Atkins,SMB,Inbound,Closed Lost,15118.95,4,2025-10-31,2025-12-16,False,True
+OPP-8135,ACC-2567,CMP-1039,Alyssa Williams,Mid-Market,Inbound,Qualification,74537.07,4,2025-11-15,2026-02-24,,False
+OPP-8136,ACC-2567,CMP-1036,Jessica Jackson,Mid-Market,Inbound,Prospecting,86981.38,2,2025-11-24,2026-01-13,,False
+OPP-8137,ACC-2568,,Brian Morris,SMB,Inbound,Closed Won,6324.57,4,2024-11-15,2025-01-03,True,True
+OPP-8138,ACC-2568,CMP-1029,Alyssa Williams,SMB,Marketing,Closed Lost,14869.64,3,2025-10-13,2025-10-31,False,True
+OPP-8139,ACC-2569,CMP-1009,Jessica Jackson,SMB,Partner,Proposal,17630.49,6,2025-11-28,2026-01-27,,False
+OPP-8140,ACC-2569,CMP-1030,Lonnie Burnett,SMB,Inbound,Qualification,9523.98,5,2025-12-25,2026-02-14,,False
+OPP-8141,ACC-2569,,Jordan Allison,SMB,Inbound,Closed Lost,11006.85,2,2025-10-02,2025-11-04,False,True
+OPP-8142,ACC-2570,CMP-1032,Debbie Glover,Mid-Market,Inbound,Closed Lost,85193.36,6,2025-08-27,2025-11-08,False,True
+OPP-8143,ACC-2570,CMP-1030,Steven Wood,Mid-Market,Marketing,Proposal,30273.4,6,2025-12-12,2026-03-20,,False
+OPP-8144,ACC-2570,CMP-1001,Wanda Villa,Mid-Market,Inbound,Closed Lost,53090.9,3,2025-06-25,2025-09-18,False,True
+OPP-8145,ACC-2571,CMP-1027,Debbie Glover,Mid-Market,Marketing,Closed Lost,50762.4,3,2024-09-14,2024-11-28,False,True
+OPP-8146,ACC-2572,,Alyssa Williams,Mid-Market,Inbound,Closed Lost,63573.99,1,2025-05-03,2025-07-08,False,True
+OPP-8147,ACC-2573,,Wanda Villa,Enterprise,Partner,Negotiation,367940.21,6,2025-07-30,2026-03-15,,False
+OPP-8148,ACC-2573,CMP-1023,Jordan Allison,Enterprise,Partner,Closed Lost,100132.23,6,2025-03-31,2025-07-12,False,True
+OPP-8149,ACC-2573,CMP-1002,Jordan Allison,Enterprise,Marketing,Qualification,366792.72,1,2025-11-12,2026-03-04,,False
+OPP-8150,ACC-2574,CMP-1017,Alyssa Williams,Mid-Market,Outbound,Negotiation,78572.41,5,2025-12-22,2026-02-05,,False
+OPP-8151,ACC-2575,CMP-1032,Barbara Brooks,SMB,Inbound,Closed Lost,22047.91,5,2025-09-14,2025-10-02,False,True
+OPP-8152,ACC-2575,CMP-1028,Wanda Villa,SMB,Inbound,Closed Lost,18300.17,5,2024-05-04,2024-06-01,False,True
+OPP-8153,ACC-2575,,Wanda Villa,SMB,Inbound,Closed Lost,9702.5,3,2024-05-24,2024-06-26,False,True
+OPP-8154,ACC-2576,CMP-1007,Cameron Atkins,SMB,Inbound,Closed Won,6589.06,4,2024-08-07,2024-09-05,True,True
+OPP-8155,ACC-2577,,Steven Wood,Mid-Market,Outbound,Closed Lost,62652.57,1,2025-10-02,2025-11-25,False,True
+OPP-8156,ACC-2578,CMP-1002,Jessica Jackson,SMB,Inbound,Closed Lost,9195.44,4,2024-12-05,2025-01-30,False,True
+OPP-8157,ACC-2578,CMP-1011,Jordan Allison,SMB,Marketing,Closed Won,22061.35,4,2025-03-26,2025-04-21,True,True
+OPP-8158,ACC-2578,,Debbie Glover,SMB,Outbound,Closed Won,11538.16,3,2025-01-12,2025-03-09,True,True
+OPP-8159,ACC-2579,CMP-1021,Alyssa Williams,SMB,Inbound,Closed Lost,13316.02,2,2025-02-18,2025-04-17,False,True
+OPP-8160,ACC-2579,CMP-1000,Jessica Jackson,SMB,Outbound,Qualification,19415.69,6,2025-12-12,2026-01-10,,False
+OPP-8161,ACC-2579,,Jordan Allison,SMB,Outbound,Prospecting,14655.97,2,2025-12-24,2026-01-28,,False
+OPP-8162,ACC-2580,CMP-1039,Travis Jones,Mid-Market,Inbound,Closed Lost,59367.79,6,2025-06-13,2025-09-30,False,True
+OPP-8163,ACC-2581,CMP-1021,Jessica Jackson,SMB,Inbound,Closed Lost,20115.47,5,2025-02-04,2025-03-19,False,True
+OPP-8164,ACC-2582,,Debbie Glover,Mid-Market,Inbound,Qualification,85000.82,3,2025-11-17,2026-03-02,,False
+OPP-8165,ACC-2582,CMP-1033,Christopher Taylor,Mid-Market,Inbound,Closed Lost,41519.22,2,2025-10-04,2025-11-22,False,True
+OPP-8166,ACC-2582,CMP-1017,Jordan Allison,Mid-Market,Outbound,Negotiation,28104.64,5,2025-11-27,2026-02-10,,False
+OPP-8167,ACC-2583,CMP-1034,Lonnie Burnett,SMB,Partner,Closed Lost,14932.71,3,2025-10-02,2025-10-17,False,True
+OPP-8168,ACC-2583,CMP-1000,Travis Jones,SMB,Partner,Closed Lost,8544.73,1,2025-01-30,2025-02-20,False,True
+OPP-8169,ACC-2584,,Jordan Allison,SMB,Inbound,Closed Won,23621.64,3,2025-10-16,2025-12-10,True,True
+OPP-8170,ACC-2584,CMP-1006,Alyssa Williams,SMB,Partner,Closed Lost,9081.87,3,2024-11-24,2025-01-19,False,True
+OPP-8171,ACC-2585,,Barbara Brooks,Mid-Market,Inbound,Closed Lost,81759.38,2,2024-05-07,2024-08-30,False,True
+OPP-8172,ACC-2585,CMP-1034,Barbara Brooks,Mid-Market,Outbound,Closed Lost,46939.44,1,2024-10-23,2025-01-10,False,True
+OPP-8173,ACC-2586,CMP-1012,Steven Wood,SMB,Outbound,Closed Lost,12064.8,3,2024-12-23,2025-02-17,False,True
+OPP-8174,ACC-2586,CMP-1034,Barbara Brooks,SMB,Inbound,Closed Won,11842.02,6,2025-07-09,2025-09-07,True,True
+OPP-8175,ACC-2587,,Wanda Villa,SMB,Inbound,Closed Won,15248.4,2,2025-09-21,2025-10-06,True,True
+OPP-8176,ACC-2587,,Cameron Atkins,SMB,Marketing,Closed Lost,24522.75,4,2025-09-27,2025-11-19,False,True
+OPP-8177,ACC-2588,CMP-1012,Christopher Taylor,Mid-Market,Inbound,Closed Lost,83498.08,3,2024-06-04,2024-09-06,False,True
+OPP-8178,ACC-2588,CMP-1029,Wanda Villa,Mid-Market,Inbound,Closed Lost,25483.46,1,2025-09-24,2025-12-25,False,True
+OPP-8179,ACC-2588,CMP-1035,Barbara Brooks,Mid-Market,Partner,Closed Lost,55772.94,3,2024-04-17,2024-08-06,False,True
+OPP-8180,ACC-2589,CMP-1006,Brian Morris,SMB,Inbound,Closed Lost,21443.29,3,2024-07-04,2024-08-26,False,True
+OPP-8181,ACC-2590,,Alyssa Williams,SMB,Marketing,Closed Lost,21994.74,3,2025-11-17,2025-12-09,False,True
+OPP-8182,ACC-2590,CMP-1018,Cameron Atkins,SMB,Inbound,Proposal,13137.42,6,2025-12-22,2026-01-09,,False
+OPP-8183,ACC-2590,CMP-1016,Lonnie Burnett,SMB,Partner,Closed Lost,7002.45,3,2025-09-03,2025-09-22,False,True
+OPP-8184,ACC-2591,CMP-1035,Lonnie Burnett,SMB,Partner,Closed Lost,9630.39,1,2025-02-25,2025-03-22,False,True
+OPP-8185,ACC-2592,CMP-1002,Jessica Jackson,Enterprise,Inbound,Proposal,121135.07,4,2025-09-11,2026-04-28,,False
+OPP-8186,ACC-2592,CMP-1037,Cameron Atkins,Enterprise,Inbound,Prospecting,132436.41,4,2025-12-06,2026-05-13,,False
+OPP-8187,ACC-2592,CMP-1035,Wanda Villa,Enterprise,Marketing,Prospecting,171927.5,2,2025-09-27,2026-03-28,,False
+OPP-8188,ACC-2593,CMP-1001,Christopher Taylor,SMB,Outbound,Closed Lost,19013.95,6,2025-08-04,2025-09-08,False,True
+OPP-8189,ACC-2594,CMP-1017,Brian Morris,Enterprise,Outbound,Closed Lost,91638.81,6,2025-03-16,2025-10-22,False,True
+OPP-8190,ACC-2594,CMP-1012,Brian Morris,Enterprise,Marketing,Closed Won,155412.33,3,2024-11-22,2025-07-10,True,True
+OPP-8191,ACC-2594,CMP-1015,Lonnie Burnett,Enterprise,Outbound,Negotiation,372331.33,1,2025-11-21,2026-06-02,,False
+OPP-8192,ACC-2595,CMP-1016,Jordan Allison,SMB,Partner,Prospecting,13110.9,5,2025-12-19,2026-01-28,,False
+OPP-8193,ACC-2595,CMP-1015,Christopher Taylor,SMB,Partner,Closed Lost,19221.36,6,2025-10-14,2025-11-08,False,True
+OPP-8194,ACC-2595,CMP-1013,Brian Morris,SMB,Partner,Closed Lost,7252.27,6,2025-10-23,2025-11-10,False,True
+OPP-8195,ACC-2596,CMP-1007,Brian Morris,Mid-Market,Marketing,Closed Lost,34554.19,3,2025-10-30,2025-12-27,False,True
+OPP-8196,ACC-2597,CMP-1024,Debbie Glover,Mid-Market,Inbound,Qualification,80754.16,6,2025-12-27,2026-04-17,,False
+OPP-8197,ACC-2597,CMP-1027,Debbie Glover,Mid-Market,Outbound,Proposal,53434.3,1,2025-11-26,2026-02-10,,False
+OPP-8198,ACC-2598,CMP-1017,Brian Morris,Mid-Market,Inbound,Closed Lost,82284.93,1,2024-07-11,2024-10-31,False,True
+OPP-8199,ACC-2599,CMP-1017,Debbie Glover,SMB,Marketing,Closed Lost,17885.0,4,2024-08-23,2024-10-09,False,True
+OPP-8200,ACC-2599,,Brian Morris,SMB,Outbound,Closed Lost,7669.73,4,2024-05-03,2024-06-03,False,True

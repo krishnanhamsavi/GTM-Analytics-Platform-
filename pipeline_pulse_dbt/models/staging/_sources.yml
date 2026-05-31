@@ -1,0 +1,15 @@
+version: 2
+
+# The raw inputs: the 5 CSVs produced by scripts/generate_data.py.
+# dbt-duckdb reads them straight from disk via the external_location below.
+sources:
+  - name: raw
+    description: "Synthetic Salesforce-schema CSVs from generate_data.py"
+    meta:
+      external_location: "../data/{name}.csv"
+    tables:
+      - name: accounts
+      - name: contacts
+      - name: campaigns
+      - name: opportunities
+      - name: usage
